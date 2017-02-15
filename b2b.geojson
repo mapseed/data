@@ -6,7 +6,8 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "star-stroked"
+        "marker-symbol": "star-stroked",
+        "title": "bioswale"
       },
       "geometry": {
         "type": "Point",
@@ -21,13 +22,30 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "star-stroked"
+        "marker-symbol": "star-stroked",
+        "title": "greenroof"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -122.36575484275816,
           47.53000267913466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "title": "longfellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36842632293701,
+          47.51969323565236
         ]
       }
     }
