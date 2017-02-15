@@ -7,7 +7,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
-        "title": "bioswale"
+        "Title": "bioswale"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +23,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
-        "title": "greenroof"
+        "Title": "greenroof"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +39,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
-        "title": "longfellow"
+        "Title": "longfellow"
       },
       "geometry": {
         "type": "Point",
