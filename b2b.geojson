@@ -4,10 +4,11 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "bioswale"
+        "description": "<h1>test</h1>"
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
-        "Title": "bioswale"
       },
       "geometry": {
         "type": "Point",
@@ -20,10 +21,11 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "greenroof"
+        "description": "<h1>test</h1>"
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
-        "Title": "greenroof"
       },
       "geometry": {
         "type": "Point",
@@ -36,10 +38,11 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "longfellow"
+        "description": "<h1>test</h1>"
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
-        "Title": "longfellow"
       },
       "geometry": {
         "type": "Point",
