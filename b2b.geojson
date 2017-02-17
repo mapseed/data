@@ -8,7 +8,7 @@
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
         "title": "bioswale",
-        "description": "<h2>test</h2>"
+        "description": "<h2>test</h2><p>bioswales are the best. really they are!!!</p>"
       },
       "geometry": {
         "type": "Point",
