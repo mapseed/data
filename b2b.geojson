@@ -42,7 +42,7 @@
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
         "title": "longfellow",
-        "description": "<h2>test</h2>"
+        "description": "<h2>test</h2><p>Hello just a test here!</p>"
       },
       "geometry": {
         "type": "Point",
