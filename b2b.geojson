@@ -137,6 +137,41 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "title": "barton",
+        "description": "<h1>Barton Roadside Rain Gardens</h1>",
+        "fill-opacity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37520694732666,
+          47.53198029574941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "title": "watershed",
+        "description": "<h1>WRIA9 Watershed</h1>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.88232421875,
+          47.31648293428332
+        ]
+      }
     }
   ]
 }
