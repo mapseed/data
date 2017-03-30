@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "title": "scenario-b",
+        "description": "<h1>Scenario B</h1>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5582275390625,
+          47.368594345213374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "title": "scenario-a",
+        "description": "<h1>Scenario A</h1>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5472412109375,
+          47.368594345213374
+        ]
+      }
+    }
+  ]
+}
