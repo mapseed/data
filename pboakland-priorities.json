@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "url-title": "santa-fe",
+        "description": "<p>Street safety improvements with a priority, but not limited to, the Santa Fe Neighborhood.</p>",
+        "title": "Street Safety Improvements"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -74,7 +78,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "url-title": "longfellow",
+        "description": "<p>Street safety improvement with a priority, but not limited to, the Longfellow Neighborhood.</p>",
+        "title": "Street Safety Improvements"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -109,7 +117,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "url-title": "district-2-1",
+        "description": "<p>Creation by nonprofit organizations of community gardens in designated residential neighborhoods.</p>",
+        "title": "Community Gardens"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -120,7 +132,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "url-title": "chinatown-1",
+        "description": "<p>Installation, maintenance and monitoring of security cameras at intersections in Chinatown.</p>",
+        "title": "Security Cameras"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -171,7 +187,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "url-title": "chinatown-2",
+        "title": "Street Lighting",
+        "description": "<p>Installation of additional street lighting in Chinatown.</p>"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -222,7 +242,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "url-title": "junk-boat",
+        "description": "<p>Improvements to the Chinatown Junk Boat Play Structure in the Lincoln Square Playground at 10th and Alice.</p>",
+        "title": "Junk Boat Play Structure"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,7 +257,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "url-title": "oakland-high",
+        "title": "Traffic Safety",
+        "description": "<p>Street improvements to increase traffic safety for students en route to and from Oakland High School, 1023 MacArthur Boulevard.</p>"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
