@@ -10,9 +10,8 @@
         "fill": "#0080ff",
         "fill-opacity": 0.5,
         "description": "<p>Street safety improvements with a priority, but not limited to, the Santa Fe Neighborhood.</p>",
-        "title": "Street Safety Improvements"
+        "title": "Santa Fe Street Safety Improvements"
       },
-      "title": "santa-fe",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -90,9 +89,8 @@
         "fill": "#0080ff",
         "fill-opacity": 0.5,
         "description": "<p>Street safety improvement with a priority, but not limited to, the Longfellow Neighborhood.</p>",
-        "title": "Street Safety Improvements"
+        "title": "Longfellow Street Safety Improvements"
       },
-      "title": "longfellow",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -134,7 +132,6 @@
         "description": "<p>Creation by nonprofit organizations of community gardens in designated residential neighborhoods.</p>",
         "title": "Community Gardens"
       },
-      "title": "district-2-1",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -149,7 +146,6 @@
         "description": "<p>Installation, maintenance and monitoring of security cameras at intersections in Chinatown.</p>",
         "title": "Security Cameras"
       },
-      "title": "chinatown-1",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -209,7 +205,6 @@
         "title": "Street Lighting",
         "description": "<p>Installation of additional street lighting in Chinatown.</p>"
       },
-      "title": "chinatown-2",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -267,7 +262,6 @@
         "description": "<p>Improvements to the Chinatown Junk Boat Play Structure in the Lincoln Square Playground at 10th and Alice.</p>",
         "title": "Junk Boat Play Structure"
       },
-      "title": "junk-boat",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -282,10 +276,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "marker",
-        "title": "Traffic Safety",
+        "title": "Oakland High Traffic Safety",
         "description": "<p>Street improvements to increase traffic safety for students en route to and from Oakland High School, 1023 MacArthur Boulevard.</p>"
       },
-      "title": "oakland-high",
       "geometry": {
         "type": "Point",
         "coordinates": [
