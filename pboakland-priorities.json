@@ -4,6 +4,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#0000ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#0080ff",
+        "fill-opacity": 0.5,
         "url-title": "santa-fe",
         "description": "<p>Street safety improvements with a priority, but not limited to, the Santa Fe Neighborhood.</p>",
         "title": "Street Safety Improvements"
@@ -79,6 +84,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#0000ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#0080ff",
+        "fill-opacity": 0.5,
         "url-title": "longfellow",
         "description": "<p>Street safety improvement with a priority, but not limited to, the Longfellow Neighborhood.</p>",
         "title": "Street Safety Improvements"
@@ -118,6 +128,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
         "url-title": "district-2-1",
         "description": "<p>Creation by nonprofit organizations of community gardens in designated residential neighborhoods.</p>",
         "title": "Community Gardens"
@@ -188,6 +201,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#0000ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#0080ff",
+        "fill-opacity": 0.5,
         "url-title": "chinatown-2",
         "title": "Street Lighting",
         "description": "<p>Installation of additional street lighting in Chinatown.</p>"
@@ -243,6 +261,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
         "url-title": "junk-boat",
         "description": "<p>Improvements to the Chinatown Junk Boat Play Structure in the Lincoln Square Playground at 10th and Alice.</p>",
         "title": "Junk Boat Play Structure"
@@ -258,6 +279,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
         "url-title": "oakland-high",
         "title": "Traffic Safety",
         "description": "<p>Street improvements to increase traffic safety for students en route to and from Oakland High School, 1023 MacArthur Boulevard.</p>"
