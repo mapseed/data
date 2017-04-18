@@ -9,7 +9,7 @@
         "stroke-opacity": 1,
         "fill": "#0080ff",
         "fill-opacity": 0.5,
-        "description": "<p>Street safety improvement with a priority, but not limited to, the Longfellow Neighborhood.<img src='https://i.imgur.com/QkeJEVt.jpg' /></p>",
+        "description": "<p>Street safety improvement with a priority, but not limited to, the Longfellow Neighborhood.<img src='https://i.imgur.com/QkeJEVt.jpg' /></p> <h3>Current status:</h3> <ul> <li>One</li> <li>Two</li> <li>Three</li> </ul>",
         "title": "Santa Fe Street Safety Improvements"
       },
       "geometry": {
