@@ -9,7 +9,7 @@
         "stroke-opacity": 1,
         "fill": "#0080ff",
         "fill-opacity": 0.5,
-        "description": "<p>Street safety improvements with a priority, but not limited to, the Santa Fe Neighborhood.</p>",
+        "description": "<p>Street safety improvements with a priority, but not limited to, the Santa Fe Neighborhood.<img src='http://imgur.com/pb1o8w2' /></p>",
         "title": "Santa Fe Street Safety Improvements"
       },
       "geometry": {
@@ -88,7 +88,7 @@
         "stroke-opacity": 1,
         "fill": "#0080ff",
         "fill-opacity": 0.5,
-        "description": "<p>Street safety improvement with a priority, but not limited to, the Longfellow Neighborhood.</p>",
+        "description": "<p>Street safety improvement with a priority, but not limited to, the Longfellow Neighborhood.<img src='http://imgur.com/8nVzBAV' /></p>",
         "title": "Longfellow Street Safety Improvements"
       },
       "geometry": {
@@ -129,7 +129,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "marker",
-        "description": "<p>Creation by nonprofit organizations of community gardens in designated residential neighborhoods.</p>",
+        "description": "<p>Creation by nonprofit organizations of community gardens in designated residential neighborhoods.<img src='http://imgur.com/ots3T0B' /></p>",
         "title": "Community Gardens"
       },
       "geometry": {
@@ -143,7 +143,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "<p>Installation, maintenance and monitoring of security cameras at intersections in Chinatown.</p>",
+        "description": "<p>Installation, maintenance and monitoring of security cameras at intersections in Chinatown.<img src='http://imgur.com/KCf1CKl' /></p>",
         "title": "Security Cameras"
       },
       "geometry": {
@@ -203,7 +203,7 @@
         "fill": "#0080ff",
         "fill-opacity": 0.5,
         "title": "Street Lighting",
-        "description": "<p>Installation of additional street lighting in Chinatown.</p>"
+        "description": "<p>Installation of additional street lighting in Chinatown.<img src='http://imgur.com/EdujrHT' /></p>"
       },
       "geometry": {
         "type": "Polygon",
@@ -259,7 +259,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "marker",
-        "description": "<p>Improvements to the Chinatown Junk Boat Play Structure in the Lincoln Square Playground at 10th and Alice.</p>",
+        "description": "<p>Improvements to the Chinatown Junk Boat Play Structure in the Lincoln Square Playground at 10th and Alice.<img src='http://imgur.com/MX9edlo' /></p>",
         "title": "Junk Boat Play Structure"
       },
       "geometry": {
@@ -277,7 +277,7 @@
         "marker-size": "medium",
         "marker-symbol": "marker",
         "title": "Oakland High Traffic Safety",
-        "description": "<p>Street improvements to increase traffic safety for students en route to and from Oakland High School, 1023 MacArthur Boulevard.</p>"
+        "description": "<p>Street improvements to increase traffic safety for students en route to and from Oakland High School, 1023 MacArthur Boulevard.<img src='http://imgur.com/S38dHN0' /></p>"
       },
       "geometry": {
         "type": "Point",
