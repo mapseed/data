@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "title": "sammamish",
+        "description": "<h1>Title</h1> <h2>Sub-title</h2> <p>ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.871337890625,
+          47.76148371616669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "title": "cedar",
+        "description": "<h1>Title</h1> <h2>Sub-title</h2> <p>ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.871337890625,
+          47.39091206104779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "title": "green-duwamish",
+        "description": "<h1>Title</h1> <h2>Sub-title</h2> <p>ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.10205078125,
+          47.05515408550348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "title": "stormwater-facilities",
+        "description": "<h1>Title</h1> <h2>Sub-title</h2> <p>ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4755859375,
+          46.81509864599243
+        ]
+      }
+    }
+  ]
+}
