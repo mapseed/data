@@ -8,7 +8,7 @@
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
         "title": "sammamish",
-        "description": "<h1>Title</h1> <h2>Sub-title</h2> <p>ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah</p>"
+        "description": "<h1>Title</h1>  <p>ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah</p> <img src=\"http://www.savelakesammamish.org/wp-content/uploads/2014/01/l6v5453.jpg\"> <h2>Sub-title</h2>  <p>ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah</p> <p>ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah</p> <img src=\"http://www.govlink.org/watersheds/8/action/salmon-seeson/img/IC-Salmon-09-13-16larry%20franks1.jpg\"> <h2>Sub-title</h2>  <p>ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah</p> <p>ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah</p> <h2>Sub-title</h2>  <p>ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah</p> <p>ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah ipsem lorem blah blah</p>"
       },
       "geometry": {
         "type": "Point",
