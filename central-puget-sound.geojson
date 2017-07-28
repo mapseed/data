@@ -68,6 +68,23 @@
           47.49864785970502
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "title": "puyallup-white",
+        "description": "<h1>Puyallup / White</h1>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30255126953126,
+          47.23402340128701
+        ]
+      }
     }
   ]
 }
