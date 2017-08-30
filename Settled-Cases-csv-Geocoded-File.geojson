@@ -21,7 +21,8 @@
         "country": "US",
         "image-url": "https://www.smta.org/chapters/files/Puget_Sound_Puget_Sound_Expo_2017_Attendee_Flyer.jpg",
         "original-title": "Ace Galvanizing Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"https://www.smta.org/chapters/files/Puget_Sound_Puget_Sound_Expo_2017_Attendee_Flyer.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Hamm Creek, Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://www.smta.org/chapters/files/Puget_Sound_Puget_Sound_Expo_2017_Attendee_Flyer.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Hamm Creek, Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +52,8 @@
         "country": "US",
         "image-url": "https://images.chinookbook.com/location_images/a0Q8000000DQrTjEAL_20150620095611_C3C6760B-F14E-4AF6-9BC3-7B607A37D473_cropped_full.jpg",
         "original-title": "Ace Metal Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"https://images.chinookbook.com/location_images/a0Q8000000DQrTjEAL_20150620095611_C3C6760B-F14E-4AF6-9BC3-7B607A37D473_cropped_full.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Big Gulch Creek</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://images.chinookbook.com/location_images/a0Q8000000DQrTjEAL_20150620095611_C3C6760B-F14E-4AF6-9BC3-7B607A37D473_cropped_full.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Big Gulch Creek</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +83,8 @@
         "country": "US",
         "image-url": "https://assets.bizjournals.com/story_image/226903*750.jpg?v=2",
         "original-title": "Alaskan Copper Works",
-        "description": "<img class=\"settled-cases-img\" src=\"https://assets.bizjournals.com/story_image/226903*750.jpg?v=2\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://assets.bizjournals.com/story_image/226903*750.jpg?v=2\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +114,8 @@
         "country": "US",
         "image-url": "https://ssl.c.photoshelter.com/img-get/I00008TeDMMTUr4w/s/750/750/20121111SEA-8815.jpg",
         "original-title": "APM Terminals Tacoma LLC",
-        "description": "<img class=\"settled-cases-img\" src=\"https://ssl.c.photoshelter.com/img-get/I00008TeDMMTUr4w/s/750/750/20121111SEA-8815.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Sitcum Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://ssl.c.photoshelter.com/img-get/I00008TeDMMTUr4w/s/750/750/20121111SEA-8815.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Sitcum Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +145,8 @@
         "country": "US",
         "image-url": "http://www.pndc.us/assets/images/StaffPhotos/website%20photo.JPG.png",
         "original-title": "Cargill, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.pndc.us/assets/images/StaffPhotos/website%20photo.JPG.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Schell Creek, Lummi River, Lummi Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.pndc.us/assets/images/StaffPhotos/website%20photo.JPG.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Schell Creek, Lummi River, Lummi Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +176,8 @@
         "country": "US",
         "image-url": "",
         "original-title": "Duwamish Marine Center; Samson Tug & Barge Co. Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +207,8 @@
         "country": "",
         "image-url": "",
         "original-title": "EPA, NMFS, US F&W (Cooling Water Intake)",
-        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Nationwide</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Nationwide</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +238,8 @@
         "country": "US",
         "image-url": "http://img.groundspeak.com/waymarking/display/13546e1e-1f98-48fc-991a-5d590ad595d2.jpg",
         "original-title": "Lakehaven Utility District (Lakota Wastewater Treatment Plant)",
-        "description": "<img class=\"settled-cases-img\" src=\"http://img.groundspeak.com/waymarking/display/13546e1e-1f98-48fc-991a-5d590ad595d2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Dumas Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://img.groundspeak.com/waymarking/display/13546e1e-1f98-48fc-991a-5d590ad595d2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Dumas Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +269,8 @@
         "country": "US",
         "image-url": "http://www.lriservices.com/Resources_Local/Images/logo2.png",
         "original-title": "Pierce County Recycling, Composting and Disposal, LLC (LRI Landfill)",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.lriservices.com/Resources_Local/Images/logo2.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>South Creek, Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.lriservices.com/Resources_Local/Images/logo2.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>South Creek, Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -291,7 +300,8 @@
         "country": "US",
         "image-url": "",
         "original-title": "Samson Tug & Barge Co. Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +331,8 @@
         "country": "US",
         "image-url": "",
         "original-title": "Seattle Iron & Metals Corp.",
-        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +362,8 @@
         "country": "US",
         "image-url": "http://c8.alamy.com/comp/D75F95/sunset-over-the-puget-sound-at-picnic-point-county-park-snohomish-D75F95.jpg",
         "original-title": "Snohomish County",
-        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/D75F95/sunset-over-the-puget-sound-at-picnic-point-county-park-snohomish-D75F95.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River, Stillaguamish River, Puget Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/D75F95/sunset-over-the-puget-sound-at-picnic-point-county-park-snohomish-D75F95.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River, Stillaguamish River, Puget Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +393,8 @@
         "country": "US",
         "image-url": "https://news.usni.org/wp-content/uploads/2015/11/150113-N-RC246-112-2.jpg",
         "original-title": "U.S. Navy (Naval Base Kitsap)",
-        "description": "<img class=\"settled-cases-img\" src=\"https://news.usni.org/wp-content/uploads/2015/11/150113-N-RC246-112-2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Sinclair Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://news.usni.org/wp-content/uploads/2015/11/150113-N-RC246-112-2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Sinclair Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +424,8 @@
         "country": "US",
         "image-url": "https://static.seattletimes.com/wp-content/uploads/2016/09/158073_hanjin195941-780x481.jpg",
         "original-title": "ABF Freight Systems",
-        "description": "<img class=\"settled-cases-img\" src=\"https://static.seattletimes.com/wp-content/uploads/2016/09/158073_hanjin195941-780x481.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://static.seattletimes.com/wp-content/uploads/2016/09/158073_hanjin195941-780x481.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -441,7 +455,8 @@
         "country": "US",
         "image-url": "https://www.smta.org/chapters/files/Puget_Sound_Puget_Sound_Expo_2017_Attendee_Flyer.jpg",
         "original-title": "Ace Galvanizing Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"https://www.smta.org/chapters/files/Puget_Sound_Puget_Sound_Expo_2017_Attendee_Flyer.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://www.smta.org/chapters/files/Puget_Sound_Puget_Sound_Expo_2017_Attendee_Flyer.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +486,8 @@
         "country": "US",
         "image-url": "http://maps.googleapis.com/maps/api/streetview?sensor=false&size=550x300&location=715+100th+Street+Southeast+A-1%2C+Everett%2C+WA",
         "original-title": "Achilles USA Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"http://maps.googleapis.com/maps/api/streetview?sensor=false&size=550x300&location=715+100th+Street+Southeast+A-1%2C+Everett%2C+WA\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Narbeck Creek Basin, Possession Sound, Puget Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2009.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://maps.googleapis.com/maps/api/streetview?sensor=false&size=550x300&location=715+100th+Street+Southeast+A-1%2C+Everett%2C+WA\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Narbeck Creek Basin, Possession Sound, Puget Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2009.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -501,7 +517,8 @@
         "country": "US",
         "image-url": "http://southendauto.com/wp-content/uploads/2016/09/newgroupphotorz3.jpg",
         "original-title": "Airport Auto Wrecking, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"http://southendauto.com/wp-content/uploads/2016/09/newgroupphotorz3.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Gorst Creek, Sinclair Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://southendauto.com/wp-content/uploads/2016/09/newgroupphotorz3.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Gorst Creek, Sinclair Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +548,8 @@
         "country": "US",
         "image-url": "http://www.lynden.com/aml/tools/equipment/marine-equipment/images/Southe2.jpg",
         "original-title": "Alaska Marine Lines, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.lynden.com/aml/tools/equipment/marine-equipment/images/Southe2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.lynden.com/aml/tools/equipment/marine-equipment/images/Southe2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -561,7 +579,8 @@
         "country": "US",
         "image-url": "https://s-media-cache-ak0.pinimg.com/originals/2f/79/73/2f79732eec76ecff0dca58c0a125efc9.jpg",
         "original-title": "Alaskan Copper",
-        "description": "<img class=\"settled-cases-img\" src=\"https://s-media-cache-ak0.pinimg.com/originals/2f/79/73/2f79732eec76ecff0dca58c0a125efc9.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed some basic pre-treatment measures in 2011. An active lawsuit is ongoing to address ongoing pollution issues.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://s-media-cache-ak0.pinimg.com/originals/2f/79/73/2f79732eec76ecff0dca58c0a125efc9.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed some basic pre-treatment measures in 2011. An active lawsuit is ongoing to address ongoing pollution issues.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -591,7 +610,8 @@
         "country": "US",
         "image-url": "http://images.boats.com/resize/1/4/28/6340428_20170818105932445_1_LARGE.jpg?w=600&h=600",
         "original-title": "Almar, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"http://images.boats.com/resize/1/4/28/6340428_20170818105932445_1_LARGE.jpg?w=600&h=600\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://images.boats.com/resize/1/4/28/6340428_20170818105932445_1_LARGE.jpg?w=600&h=600\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +641,8 @@
         "country": "US",
         "image-url": "http://www.americanconstco.com/treasure-island/data1/images/treasure3.jpg",
         "original-title": "American Steel, LLC",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.americanconstco.com/treasure-island/data1/images/treasure3.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green/ Duwamish Watershed</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2009.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.americanconstco.com/treasure-island/data1/images/treasure3.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green/ Duwamish Watershed</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2009.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -651,7 +672,8 @@
         "country": "US",
         "image-url": "https://i.ytimg.com/vi/u5UsEpU16Lw/maxresdefault.jpg",
         "original-title": "Ameriflight LLC",
-        "description": "<img class=\"settled-cases-img\" src=\"https://i.ytimg.com/vi/u5UsEpU16Lw/maxresdefault.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://i.ytimg.com/vi/u5UsEpU16Lw/maxresdefault.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -681,7 +703,8 @@
         "country": "US",
         "image-url": "https://image.slidesharecdn.com/ascskylineinstallationmanual-140512175607-phpapp02/95/asc-skyline-roofing-installation-manual-16-638.jpg?cb\\u003d1399917479",
         "original-title": "ASC Profiles, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"https://image.slidesharecdn.com/ascskylineinstallationmanual-140512175607-phpapp02/95/asc-skyline-roofing-installation-manual-16-638.jpg?cb\\u003d1399917479\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://image.slidesharecdn.com/ascskylineinstallationmanual-140512175607-phpapp02/95/asc-skyline-roofing-installation-manual-16-638.jpg?cb\\u003d1399917479\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +734,8 @@
         "country": "US",
         "image-url": "http://c8.alamy.com/comp/F1KXPP/old-wooden-boat-built-by-carl-nordsrom-and-marine-ballard-in-seattle-F1KXPP.jpg",
         "original-title": "Ballard Marine, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/F1KXPP/old-wooden-boat-built-by-carl-nordsrom-and-marine-ballard-in-seattle-F1KXPP.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington Ship Canal</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/F1KXPP/old-wooden-boat-built-by-carl-nordsrom-and-marine-ballard-in-seattle-F1KXPP.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington Ship Canal</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -741,7 +765,8 @@
         "country": "US",
         "image-url": "https://i.pinimg.com/236x/85/dc/be/85dcbe586a7e3d9cbe9423b91d31f395--puget-seattle.jpg",
         "original-title": "Beall Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"https://i.pinimg.com/236x/85/dc/be/85dcbe586a7e3d9cbe9423b91d31f395--puget-seattle.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://i.pinimg.com/236x/85/dc/be/85dcbe586a7e3d9cbe9423b91d31f395--puget-seattle.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -771,7 +796,8 @@
         "country": "US",
         "image-url": "https://image.isu.pub/130806145438-9e7416c2e8054efeaeee29e1c1a3f769/jpg/page_1.jpg",
         "original-title": "Bellingham (Port of) - Bellingham Intl Airport, Bellingham Cruise Terminal, Port's Maintenance Shop",
-        "description": "<img class=\"settled-cases-img\" src=\"https://image.isu.pub/130806145438-9e7416c2e8054efeaeee29e1c1a3f769/jpg/page_1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://image.isu.pub/130806145438-9e7416c2e8054efeaeee29e1c1a3f769/jpg/page_1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -801,7 +827,8 @@
         "country": "US",
         "image-url": "http://pacrim.byc.org/files/2013/10/BCS.jpg",
         "original-title": "Bellingham Cold Storage",
-        "description": "<img class=\"settled-cases-img\" src=\"http://pacrim.byc.org/files/2013/10/BCS.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://pacrim.byc.org/files/2013/10/BCS.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +858,8 @@
         "country": "US",
         "image-url": "http://www.gonorthwest.com/Washington/puget/Blake_Island/images/BlakeIsland_452x290.jpg",
         "original-title": "Blake Island WWTP",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.gonorthwest.com/Washington/puget/Blake_Island/images/BlakeIsland_452x290.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Yukon Harbor, Puget Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.gonorthwest.com/Washington/puget/Blake_Island/images/BlakeIsland_452x290.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Yukon Harbor, Puget Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -861,7 +889,8 @@
         "country": "",
         "image-url": "http://www.american-rails.com/images/Edmonds4459RINER.jpg",
         "original-title": "BNSF Railway",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.american-rails.com/images/Edmonds4459RINER.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Statewide</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.american-rails.com/images/Edmonds4459RINER.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Statewide</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -891,7 +920,8 @@
         "country": "US",
         "image-url": "http://2.bp.blogspot.com/-dsxgbYsSnEA/TavFmFQh7YI/AAAAAAAAA3Y/_4fJ_TF41BQ/s1600/Seattle_Trains+015.JPG",
         "original-title": "BNSF Railway Company (Balmer Yard)",
-        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-dsxgbYsSnEA/TavFmFQh7YI/AAAAAAAAA3Y/_4fJ_TF41BQ/s1600/Seattle_Trains+015.JPG\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-dsxgbYsSnEA/TavFmFQh7YI/AAAAAAAAA3Y/_4fJ_TF41BQ/s1600/Seattle_Trains+015.JPG\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -921,7 +951,8 @@
         "country": "US",
         "image-url": "http://www.fishchoice.com/sites/default/files/styles/profile_page/public/supplier_logos/BornsteinSeafoodsInc_Logo.gif?itok=NBoPX7H1",
         "original-title": "Bornstein Seafoods, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.fishchoice.com/sites/default/files/styles/profile_page/public/supplier_logos/BornsteinSeafoodsInc_Logo.gif?itok=NBoPX7H1\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.fishchoice.com/sites/default/files/styles/profile_page/public/supplier_logos/BornsteinSeafoodsInc_Logo.gif?itok=NBoPX7H1\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -951,7 +982,8 @@
         "country": "US",
         "image-url": "http://www.boyertowing.com/index_files/image6451.jpg",
         "original-title": "Boyer Logistics, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.boyertowing.com/index_files/image6451.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish Waterway</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.boyertowing.com/index_files/image6451.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish Waterway</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -981,7 +1013,8 @@
         "country": "US",
         "image-url": "https://1.bp.blogspot.com/-QojmIF1uvT0/V_3LNCmQqDI/AAAAAAAAnLY/V4fUO8A-dUMHM2PgL1qs6CXN-2lhzYcBgCLcB/s1600/ww_wssfc.99.0000.gif",
         "original-title": "BP West Coast Products LLC",
-        "description": "<img class=\"settled-cases-img\" src=\"https://1.bp.blogspot.com/-QojmIF1uvT0/V_3LNCmQqDI/AAAAAAAAnLY/V4fUO8A-dUMHM2PgL1qs6CXN-2lhzYcBgCLcB/s1600/ww_wssfc.99.0000.gif\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://1.bp.blogspot.com/-QojmIF1uvT0/V_3LNCmQqDI/AAAAAAAAnLY/V4fUO8A-dUMHM2PgL1qs6CXN-2lhzYcBgCLcB/s1600/ww_wssfc.99.0000.gif\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1011,7 +1044,8 @@
         "country": "US",
         "image-url": "http://upload.wikimedia.org/wikipedia/commons/5/58/Aerial_view_of_Bremerton_2.jpg",
         "original-title": "Bremerton (City of)",
-        "description": "<img class=\"settled-cases-img\" src=\"http://upload.wikimedia.org/wikipedia/commons/5/58/Aerial_view_of_Bremerton_2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Sinclair Inlet, Dyes Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Over 17 years, City overhauled combined sewer overflow (CSO) control systems - resulting in reopening shellfish beds in Dyes Inlet to harvest. City achieved a 90% reduction in CSO events by 2000 at a cost of $18 Million.  By 2004, the City achieved a 97% reduction of CSO events for an additional $14.7 Million.  Since, the City has spent an additional $19.2 Million to reduce the remaining 3% of CSO events to the regulatory limit and to build in extra system capacity.  To date, the City has spent a total of $50 Million on CSO program improvements.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://upload.wikimedia.org/wikipedia/commons/5/58/Aerial_view_of_Bremerton_2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Sinclair Inlet, Dyes Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Over 17 years, City overhauled combined sewer overflow (CSO) control systems - resulting in reopening shellfish beds in Dyes Inlet to harvest. City achieved a 90% reduction in CSO events by 2000 at a cost of $18 Million.  By 2004, the City achieved a 97% reduction of CSO events for an additional $14.7 Million.  Since, the City has spent an additional $19.2 Million to reduce the remaining 3% of CSO events to the regulatory limit and to build in extra system capacity.  To date, the City has spent a total of $50 Million on CSO program improvements.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1041,7 +1075,8 @@
         "country": "US",
         "image-url": "https://st.hzcdn.com/fimgs/f821da6d086f4be9_8945-w342-h200-b0-p0--rustic-home-theater.jpg",
         "original-title": "Brown-Minneapolis Tank Northwest, LLC",
-        "description": "<img class=\"settled-cases-img\" src=\"https://st.hzcdn.com/fimgs/f821da6d086f4be9_8945-w342-h200-b0-p0--rustic-home-theater.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>West Bay (Olympia)</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://st.hzcdn.com/fimgs/f821da6d086f4be9_8945-w342-h200-b0-p0--rustic-home-theater.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>West Bay (Olympia)</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1071,7 +1106,8 @@
         "country": "US",
         "image-url": "https://assets.bizjournals.com/story_image/211034*500.jpg?v=2",
         "original-title": "Buse Timber Sales, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"https://assets.bizjournals.com/story_image/211034*500.jpg?v=2\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Union Slough, Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://assets.bizjournals.com/story_image/211034*500.jpg?v=2\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Union Slough, Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1101,7 +1137,8 @@
         "country": "US",
         "image-url": "",
         "original-title": "Cadman (Seattle) Inc. & Tilbury Cement Co.",
-        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1131,7 +1168,8 @@
         "country": "US",
         "image-url": "http://www.canfor.com/img/skin/bg/rich-history/canfor-corporation.jpg",
         "original-title": "Canfor USA Corp",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.canfor.com/img/skin/bg/rich-history/canfor-corporation.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.canfor.com/img/skin/bg/rich-history/canfor-corporation.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1161,7 +1199,8 @@
         "country": "US",
         "image-url": "http://historiceverett.org/walkingtour/RSIDEpics/Canyon_Lumber_Co_Planing_Table_Showing_Pony_Air_Lift_Trimming.jpg",
         "original-title": "Canyon Lumber Co, Inc",
-        "description": "<img class=\"settled-cases-img\" src=\"http://historiceverett.org/walkingtour/RSIDEpics/Canyon_Lumber_Co_Planing_Table_Showing_Pony_Air_Lift_Trimming.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://historiceverett.org/walkingtour/RSIDEpics/Canyon_Lumber_Co_Planing_Table_Showing_Pony_Air_Lift_Trimming.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1191,7 +1230,8 @@
         "country": "US",
         "image-url": "http://3.bp.blogspot.com/-JvsqoTKJ4b8/TlVxUwqQvlI/AAAAAAAAAX4/b_DR4JfVRpc/s1600/Stop+the+Stench+side+1.jpg",
         "original-title": "Cedar Grove Composting, Inc. Everett",
-        "description": "<img class=\"settled-cases-img\" src=\"http://3.bp.blogspot.com/-JvsqoTKJ4b8/TlVxUwqQvlI/AAAAAAAAAX4/b_DR4JfVRpc/s1600/Stop+the+Stench+side+1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed bioswale with treatment media in 2011.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://3.bp.blogspot.com/-JvsqoTKJ4b8/TlVxUwqQvlI/AAAAAAAAAX4/b_DR4JfVRpc/s1600/Stop+the+Stench+side+1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed bioswale with treatment media in 2011.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1221,7 +1261,8 @@
         "country": "US",
         "image-url": "https://d3fgmcoixbear.cloudfront.net/s3fs-public/341275.jpg",
         "original-title": "Certainteed Gypsum, Inc",
-        "description": "<img class=\"settled-cases-img\" src=\"https://d3fgmcoixbear.cloudfront.net/s3fs-public/341275.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://d3fgmcoixbear.cloudfront.net/s3fs-public/341275.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1292,8 @@
         "country": "US",
         "image-url": "http://www.cityoftacoma.org/UserFiles/Servers/Server_6/Image/PDS/Planning/LinksMap.jpg",
         "original-title": "City of Tacoma (Industrial Pre- Treatment Program)",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.cityoftacoma.org/UserFiles/Servers/Server_6/Image/PDS/Planning/LinksMap.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Commencement Bay, Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>City is in process of implementing sweeping improvements to industrial pre-treatment program.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.cityoftacoma.org/UserFiles/Servers/Server_6/Image/PDS/Planning/LinksMap.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Commencement Bay, Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>City is in process of implementing sweeping improvements to industrial pre-treatment program.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1281,7 +1323,8 @@
         "country": "US",
         "image-url": "https://www.researchgate.net/profile/Merrick_Burden/publication/237259521/figure/fig5/AS:409763960639492@1474706749153/Figure-16-Hypothetical-Revenue-for-a-Large-Publicly-Available-Cold-Store-in-Astoria.png",
         "original-title": "CityIce Cold Storage Company",
-        "description": "<img class=\"settled-cases-img\" src=\"https://www.researchgate.net/profile/Merrick_Burden/publication/237259521/figure/fig5/AS:409763960639492@1474706749153/Figure-16-Hypothetical-Revenue-for-a-Large-Publicly-Available-Cold-Store-in-Astoria.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Smith Cove, Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://www.researchgate.net/profile/Merrick_Burden/publication/237259521/figure/fig5/AS:409763960639492@1474706749153/Figure-16-Hypothetical-Revenue-for-a-Large-Publicly-Available-Cold-Store-in-Astoria.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Smith Cove, Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1311,7 +1354,8 @@
         "country": "US",
         "image-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cameron_Coca_Cola_logo.svg/1200px-Cameron_Coca_Cola_logo.svg.png",
         "original-title": "Coca-Cola Bottling Company",
-        "description": "<img class=\"settled-cases-img\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cameron_Coca_Cola_logo.svg/1200px-Cameron_Coca_Cola_logo.svg.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington Watershed</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cameron_Coca_Cola_logo.svg/1200px-Cameron_Coca_Cola_logo.svg.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington Watershed</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1341,7 +1385,8 @@
         "country": "US",
         "image-url": "https://csrmarine.com/wp-content/uploads/2017/02/yard-x3-1.jpg",
         "original-title": "CSR Marine",
-        "description": "<img class=\"settled-cases-img\" src=\"https://csrmarine.com/wp-content/uploads/2017/02/yard-x3-1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington Ship Canal</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://csrmarine.com/wp-content/uploads/2017/02/yard-x3-1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington Ship Canal</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1416,8 @@
         "country": "US",
         "image-url": "http://media.bizj.us/view/img/7352832/strategies-darigold-04-headquarters-rgb*1200xx4860-2734-0-244.jpg",
         "original-title": "Darigold, Inc. Rainier Ave Plant",
-        "description": "<img class=\"settled-cases-img\" src=\"http://media.bizj.us/view/img/7352832/strategies-darigold-04-headquarters-rgb*1200xx4860-2734-0-244.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://media.bizj.us/view/img/7352832/strategies-darigold-04-headquarters-rgb*1200xx4860-2734-0-244.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1401,7 +1447,8 @@
         "country": "US",
         "image-url": "http://2.bp.blogspot.com/-zV0KSgsOotE/UAhY2pFjKTI/AAAAAAAADHI/doZ-Xstjtcs/s400/davis+wire+rally.jpg",
         "original-title": "Davis Wire Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-zV0KSgsOotE/UAhY2pFjKTI/AAAAAAAADHI/doZ-Xstjtcs/s400/davis+wire+rally.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2012.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-zV0KSgsOotE/UAhY2pFjKTI/AAAAAAAADHI/doZ-Xstjtcs/s400/davis+wire+rally.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2012.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1478,8 @@
         "country": "US",
         "image-url": "http://www.nwboatinfo.com/WPMG-NW-Boating-Info-Banner-Ads-300-250-2016-SERVICE.jpg",
         "original-title": "Dunato's Marine Services",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.nwboatinfo.com/WPMG-NW-Boating-Info-Banner-Ads-300-250-2016-SERVICE.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Union</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.nwboatinfo.com/WPMG-NW-Boating-Info-Banner-Ads-300-250-2016-SERVICE.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Union</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1461,7 +1509,8 @@
         "country": "US",
         "image-url": "https://assets.bizjournals.com/story_image/76192*750.jpg?v=2",
         "original-title": "Duwamish Shipyard Inc",
-        "description": "<img class=\"settled-cases-img\" src=\"https://assets.bizjournals.com/story_image/76192*750.jpg?v=2\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://assets.bizjournals.com/story_image/76192*750.jpg?v=2\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1491,7 +1540,8 @@
         "country": "US",
         "image-url": "https://media.bizj.us/view/img/7142542/seattle-construction-01-rgb*750xx4848-2738-0-298.jpg",
         "original-title": "Eastside Masonry Products Monroe",
-        "description": "<img class=\"settled-cases-img\" src=\"https://media.bizj.us/view/img/7142542/seattle-construction-01-rgb*750xx4848-2738-0-298.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>French Creek, Snohomish River, Lake Tye</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://media.bizj.us/view/img/7142542/seattle-construction-01-rgb*750xx4848-2738-0-298.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>French Creek, Snohomish River, Lake Tye</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1521,7 +1571,8 @@
         "country": "US",
         "image-url": "http://www.thurstontalk.com/wp-content/uploads/2015/08/evergreen-trail.png",
         "original-title": "Evergreen Trails Inc",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.thurstontalk.com/wp-content/uploads/2015/08/evergreen-trail.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.thurstontalk.com/wp-content/uploads/2015/08/evergreen-trail.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1551,7 +1602,8 @@
         "country": "US",
         "image-url": "http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg",
         "original-title": "Federal Express Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1581,7 +1633,8 @@
         "country": "US",
         "image-url": "http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg",
         "original-title": "Federal Express Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green Duwamish Watershed</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green Duwamish Watershed</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1611,7 +1664,8 @@
         "country": "US",
         "image-url": "http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg",
         "original-title": "Federal Express Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Sinclair Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Sinclair Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1641,7 +1695,8 @@
         "country": "US",
         "image-url": "http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg",
         "original-title": "Federal Express Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1671,7 +1726,8 @@
         "country": "US",
         "image-url": "http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg",
         "original-title": "Federal Express Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Padilla Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Padilla Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1701,7 +1757,8 @@
         "country": "US",
         "image-url": "http://c8.alamy.com/comp/BGFKDM/oil-refinery-located-on-puget-sound-near-the-city-of-ferndale-washington-BGFKDM.jpg",
         "original-title": "Ferndale (City of)",
-        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/BGFKDM/oil-refinery-located-on-puget-sound-near-the-city-of-ferndale-washington-BGFKDM.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Nooksack River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/BGFKDM/oil-refinery-located-on-puget-sound-near-the-city-of-ferndale-washington-BGFKDM.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Nooksack River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1731,7 +1788,8 @@
         "country": "US",
         "image-url": "https://s-media-cache-ak0.pinimg.com/originals/0d/2a/59/0d2a59ae7c9604f8319601b109003bad.jpg",
         "original-title": "Fibrex Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"https://s-media-cache-ak0.pinimg.com/originals/0d/2a/59/0d2a59ae7c9604f8319601b109003bad.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Skagit River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://s-media-cache-ak0.pinimg.com/originals/0d/2a/59/0d2a59ae7c9604f8319601b109003bad.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Skagit River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1761,7 +1819,8 @@
         "country": "US",
         "image-url": "http://threesheetsnw.com/files/2009/08/FishBayView.JPG",
         "original-title": "Fisherman Bay WWT Facility",
-        "description": "<img class=\"settled-cases-img\" src=\"http://threesheetsnw.com/files/2009/08/FishBayView.JPG\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Fisherman Bay, Puget Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://threesheetsnw.com/files/2009/08/FishBayView.JPG\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Fisherman Bay, Puget Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1791,7 +1850,8 @@
         "country": "",
         "image-url": "http://c8.alamy.com/comp/B3Y57X/friday-harbor-marina-puget-sound-washington-B3Y57X.jpg",
         "original-title": "Friday Harbor WWTP",
-        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/B3Y57X/friday-harbor-marina-puget-sound-washington-B3Y57X.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Friday Harbor</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/B3Y57X/friday-harbor-marina-puget-sound-washington-B3Y57X.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Friday Harbor</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1821,7 +1881,8 @@
         "country": "US",
         "image-url": "https://media.bizj.us/view/img/2012131/galvin-bought-02*750.jpg",
         "original-title": "Galvin Flying Services",
-        "description": "<img class=\"settled-cases-img\" src=\"https://media.bizj.us/view/img/2012131/galvin-bought-02*750.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://media.bizj.us/view/img/2012131/galvin-bought-02*750.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1851,7 +1912,8 @@
         "country": "US",
         "image-url": "",
         "original-title": "Goergia Pacific Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1881,7 +1943,8 @@
         "country": "US",
         "image-url": "",
         "original-title": "J.A. Jack & Sons, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1911,7 +1974,8 @@
         "country": "US",
         "image-url": "http://www.pugetsoundmaritime.com/wp-content/uploads/2010/08/tlf004.jpg",
         "original-title": "J.M. Martinac Shipbuilding Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.pugetsoundmaritime.com/wp-content/uploads/2010/08/tlf004.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2010.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.pugetsoundmaritime.com/wp-content/uploads/2010/08/tlf004.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2010.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1941,7 +2005,8 @@
         "country": "US",
         "image-url": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/0dd/3fd/1828c90.jpg",
         "original-title": "Jerstedt Lumber Co. Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/0dd/3fd/1828c90.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Tenmile Creek, Nooksack River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/0dd/3fd/1828c90.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Tenmile Creek, Nooksack River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -1971,7 +2036,8 @@
         "country": "US",
         "image-url": "https://images1.apartments.com/i2/XxG9Dmkh2upFxAh8h08DTAe3RO4lKDUgM-NXBQ8AOO0/110/meridian-green-kent-wa-primary-photo.jpg",
         "original-title": "Kent Meridian Disposal",
-        "description": "<img class=\"settled-cases-img\" src=\"https://images1.apartments.com/i2/XxG9Dmkh2upFxAh8h08DTAe3RO4lKDUgM-NXBQ8AOO0/110/meridian-green-kent-wa-primary-photo.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed basic pretreatment measures in 2012.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://images1.apartments.com/i2/XxG9Dmkh2upFxAh8h08DTAe3RO4lKDUgM-NXBQ8AOO0/110/meridian-green-kent-wa-primary-photo.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed basic pretreatment measures in 2012.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2001,7 +2067,8 @@
         "country": "US",
         "image-url": "https://media.bizj.us/view/img/10570461/signature-bfi-08-08-17*750xx1500-845-0-80.jpg",
         "original-title": "King County International Airport",
-        "description": "<img class=\"settled-cases-img\" src=\"https://media.bizj.us/view/img/10570461/signature-bfi-08-08-17*750xx1500-845-0-80.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility constructed underground treatment vault and began using basic pretreatment measures in 2012.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://media.bizj.us/view/img/10570461/signature-bfi-08-08-17*750xx1500-845-0-80.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility constructed underground treatment vault and began using basic pretreatment measures in 2012.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2031,7 +2098,8 @@
         "country": "US",
         "image-url": "http://l7.alamy.com/zooms/88b66938a9a34ad28a83b93d11d5e8b4/ajd53077-la-conner-wa-washington-puget-sound-san-juan-islands-fishing-ap8nhe.jpg",
         "original-title": "La Conner (Town of)",
-        "description": "<img class=\"settled-cases-img\" src=\"http://l7.alamy.com/zooms/88b66938a9a34ad28a83b93d11d5e8b4/ajd53077-la-conner-wa-washington-puget-sound-san-juan-islands-fishing-ap8nhe.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Skagit Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://l7.alamy.com/zooms/88b66938a9a34ad28a83b93d11d5e8b4/ajd53077-la-conner-wa-washington-puget-sound-san-juan-islands-fishing-ap8nhe.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Skagit Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2061,7 +2129,8 @@
         "country": "US",
         "image-url": "http://m.world-grain.com/-/media/ImagesNew/WorldGrain/Article-photos/2016/08/PugetSoundKeeper_ChrisWilke_executiveDirector_E.jpg?la=en&hash=B61D1C06897922857A524C6CC1E2760C25194443",
         "original-title": "Louis Dreyfus Commodities LLC - Pier 86",
-        "description": "<img class=\"settled-cases-img\" src=\"http://m.world-grain.com/-/media/ImagesNew/WorldGrain/Article-photos/2016/08/PugetSoundKeeper_ChrisWilke_executiveDirector_E.jpg?la=en&hash=B61D1C06897922857A524C6CC1E2760C25194443\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://m.world-grain.com/-/media/ImagesNew/WorldGrain/Article-photos/2016/08/PugetSoundKeeper_ChrisWilke_executiveDirector_E.jpg?la=en&hash=B61D1C06897922857A524C6CC1E2760C25194443\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2091,7 +2160,8 @@
         "country": "US",
         "image-url": "https://images.marinelink.com/images/maritime/w300h300c/-72041.jpg",
         "original-title": "Manke Lumber Company, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"https://images.marinelink.com/images/maritime/w300h300c/-72041.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Oakland Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment facility improvements in 2012.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://images.marinelink.com/images/maritime/w300h300c/-72041.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Oakland Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment facility improvements in 2012.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2121,7 +2191,8 @@
         "country": "US",
         "image-url": "",
         "original-title": "McClean Iron Works",
-        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2151,7 +2222,8 @@
         "country": "US",
         "image-url": "https://4.bp.blogspot.com/-jWIENmlBMNI/WBOuz6fJBxI/AAAAAAAAAh4/RTGYcL33_TYXdjoUYUr26SDs0DWMe6RdwCLcB/s1600/Stetson%2Band%2BPost%2BSash%2Band%2BDoor%2BMill%2B1882.jpg",
         "original-title": "Meltec Division (Young Corporation)",
-        "description": "<img class=\"settled-cases-img\" src=\"https://4.bp.blogspot.com/-jWIENmlBMNI/WBOuz6fJBxI/AAAAAAAAAh4/RTGYcL33_TYXdjoUYUr26SDs0DWMe6RdwCLcB/s1600/Stetson%2Band%2BPost%2BSash%2Band%2BDoor%2BMill%2B1882.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River, Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://4.bp.blogspot.com/-jWIENmlBMNI/WBOuz6fJBxI/AAAAAAAAAh4/RTGYcL33_TYXdjoUYUr26SDs0DWMe6RdwCLcB/s1600/Stetson%2Band%2BPost%2BSash%2Band%2BDoor%2BMill%2B1882.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River, Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2181,7 +2253,8 @@
         "country": "US",
         "image-url": "http://blogs.pugetsound.edu/pugetsoundbookartists/files/2016/06/MusingsOnNW_Flyer.jpg",
         "original-title": "Metso Paper USA, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"http://blogs.pugetsound.edu/pugetsoundbookartists/files/2016/06/MusingsOnNW_Flyer.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://blogs.pugetsound.edu/pugetsoundbookartists/files/2016/06/MusingsOnNW_Flyer.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2211,7 +2284,8 @@
         "country": "US",
         "image-url": "https://www.milgard.com/sites/default/files/styles/page_element_sidebar_image/public/page-elements/install14_lowres.jpg?itok=IFr7PR59",
         "original-title": "Milgard Manufacturing Inc",
-        "description": "<img class=\"settled-cases-img\" src=\"https://www.milgard.com/sites/default/files/styles/page_element_sidebar_image/public/page-elements/install14_lowres.jpg?itok=IFr7PR59\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://www.milgard.com/sites/default/files/styles/page_element_sidebar_image/public/page-elements/install14_lowres.jpg?itok=IFr7PR59\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2241,7 +2315,8 @@
         "country": "US",
         "image-url": "",
         "original-title": "Nepa Pallet & Container Co, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2271,7 +2346,8 @@
         "country": "US",
         "image-url": "https://s3-media2.fl.yelpcdn.com/bphoto/FqKSSOzqF6gSetKBiB5vCw/ls.jpg",
         "original-title": "New West Gypsum USA Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"https://s3-media2.fl.yelpcdn.com/bphoto/FqKSSOzqF6gSetKBiB5vCw/ls.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Wapato Creek, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2014.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://s3-media2.fl.yelpcdn.com/bphoto/FqKSSOzqF6gSetKBiB5vCw/ls.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Wapato Creek, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2014.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2301,7 +2377,8 @@
         "country": "US",
         "image-url": "http://www.gonorthwest.com/Washington/cascades/North-Bend/images/street_0178.JPG",
         "original-title": "North Bend (City of) STP",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.gonorthwest.com/Washington/cascades/North-Bend/images/street_0178.JPG\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snoqualmie River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.gonorthwest.com/Washington/cascades/North-Bend/images/street_0178.JPG\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snoqualmie River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2331,7 +2408,8 @@
         "country": "US",
         "image-url": "http://www.tugboatinformation.com/pictures/Kyle%20Stubbs43.jpg",
         "original-title": "Northland Services, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.tugboatinformation.com/pictures/Kyle%20Stubbs43.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2014.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.tugboatinformation.com/pictures/Kyle%20Stubbs43.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2014.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2361,7 +2439,8 @@
         "country": "US",
         "image-url": "https://static.seattletimes.com/wp-content/uploads/2016/09/158073_hanjin195941-780x481.jpg",
         "original-title": "Northwest Container Services Inc - T115",
-        "description": "<img class=\"settled-cases-img\" src=\"https://static.seattletimes.com/wp-content/uploads/2016/09/158073_hanjin195941-780x481.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://static.seattletimes.com/wp-content/uploads/2016/09/158073_hanjin195941-780x481.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2391,7 +2470,8 @@
         "country": "US",
         "image-url": "http://www.washington.edu/uwired/outreach/cspn/Website/Images/Curriculum/Forest/Bull%20sm.jpg",
         "original-title": "Northwest Forest Products",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.washington.edu/uwired/outreach/cspn/Website/Images/Curriculum/Forest/Bull%20sm.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.washington.edu/uwired/outreach/cspn/Website/Images/Curriculum/Forest/Bull%20sm.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2421,7 +2501,8 @@
         "country": "US",
         "image-url": "http://www.elp.com/content/dam/elp/online-articles/2015/November/puget%20sound%20energy%20elp.jpg",
         "original-title": "Northwest Recycling Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.elp.com/content/dam/elp/online-articles/2015/November/puget%20sound%20energy%20elp.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Whatcom Creek, Puget Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2009.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.elp.com/content/dam/elp/online-articles/2015/November/puget%20sound%20energy%20elp.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Whatcom Creek, Puget Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2009.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2451,7 +2532,8 @@
         "country": "US",
         "image-url": "https://static1.squarespace.com/static/577018179f7456eedf89c486/t/58d58d66be6594e2e0260c85/1503063783423/?format=1500w",
         "original-title": "Oberto Sausage Co",
-        "description": "<img class=\"settled-cases-img\" src=\"https://static1.squarespace.com/static/577018179f7456eedf89c486/t/58d58d66be6594e2e0260c85/1503063783423/?format=1500w\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River Watershed</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://static1.squarespace.com/static/577018179f7456eedf89c486/t/58d58d66be6594e2e0260c85/1503063783423/?format=1500w\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River Watershed</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2481,7 +2563,8 @@
         "country": "US",
         "image-url": "http://www.fishchoice.com/sites/default/files/supplier_logos/OceanBeautySeafoodsLLC_logo.jpg",
         "original-title": "Ocean Beauty Seafoods",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.fishchoice.com/sites/default/files/supplier_logos/OceanBeautySeafoodsLLC_logo.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington Ship Canal</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.fishchoice.com/sites/default/files/supplier_logos/OceanBeautySeafoodsLLC_logo.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington Ship Canal</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2511,7 +2594,8 @@
         "country": "US",
         "image-url": "https://thumb1.shutterstock.com/display_pic_with_logo/99103/370828238/stock-photo-yellow-sailboat-reflection-westport-grays-harbor-county-puget-sound-washington-state-pacific-370828238.jpg",
         "original-title": "Pacific Commercial Equipment",
-        "description": "<img class=\"settled-cases-img\" src=\"https://thumb1.shutterstock.com/display_pic_with_logo/99103/370828238/stock-photo-yellow-sailboat-reflection-westport-grays-harbor-county-puget-sound-washington-state-pacific-370828238.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Mosher Creek</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://thumb1.shutterstock.com/display_pic_with_logo/99103/370828238/stock-photo-yellow-sailboat-reflection-westport-grays-harbor-county-puget-sound-washington-state-pacific-370828238.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Mosher Creek</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2541,7 +2625,8 @@
         "country": "US",
         "image-url": "https://i1.wp.com/www.skillsinc.com/wp-content/uploads/2014/07/ADA_e-postcard_accessible.jpg?resize=600%2C310&ssl=1",
         "original-title": "Pacific Metallurgical, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"https://i1.wp.com/www.skillsinc.com/wp-content/uploads/2014/07/ADA_e-postcard_accessible.jpg?resize=600%2C310&ssl=1\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River Watershed</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://i1.wp.com/www.skillsinc.com/wp-content/uploads/2014/07/ADA_e-postcard_accessible.jpg?resize=600%2C310&ssl=1\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River Watershed</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2571,7 +2656,8 @@
         "country": "US",
         "image-url": "https://images1.apartments.com/i2/TwEJC_CjZKCqUixBCW48llW3q7S-tHKtzU5LS16fJNY/118/the-boulders-at-puget-sound-tacoma-wa-building-photo.jpg",
         "original-title": "Pape Machinery Tacoma",
-        "description": "<img class=\"settled-cases-img\" src=\"https://images1.apartments.com/i2/TwEJC_CjZKCqUixBCW48llW3q7S-tHKtzU5LS16fJNY/118/the-boulders-at-puget-sound-tacoma-wa-building-photo.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://images1.apartments.com/i2/TwEJC_CjZKCqUixBCW48llW3q7S-tHKtzU5LS16fJNY/118/the-boulders-at-puget-sound-tacoma-wa-building-photo.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2601,7 +2687,8 @@
         "country": "US",
         "image-url": "http://www.pnwbeachcombing.com/uploads/4/2/8/3/42837439/5190595.jpg?1455649498",
         "original-title": "Port Angeles Landfill",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.pnwbeachcombing.com/uploads/4/2/8/3/42837439/5190595.jpg?1455649498\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puget Sound (between Freshwater Bay and Port Angeles Harbor)</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.pnwbeachcombing.com/uploads/4/2/8/3/42837439/5190595.jpg?1455649498\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puget Sound (between Freshwater Bay and Port Angeles Harbor)</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2631,7 +2718,8 @@
         "country": "US",
         "image-url": "http://heartlandllc.com/wp-content/uploads/2016/08/Port-Blakely-Communities-Issaquah-Highlands.jpg",
         "original-title": "Port Blakely Communities (Issaquah Highlands)",
-        "description": "<img class=\"settled-cases-img\" src=\"http://heartlandllc.com/wp-content/uploads/2016/08/Port-Blakely-Communities-Issaquah-Highlands.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Issaquah Creek, Lake Sammamish</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://heartlandllc.com/wp-content/uploads/2016/08/Port-Blakely-Communities-Issaquah-Highlands.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Issaquah Creek, Lake Sammamish</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2661,7 +2749,8 @@
         "country": "",
         "image-url": "",
         "original-title": "Port of Seattle & CTA (Pier 91)",
-        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility is now contractually required to follow best management practices to prevent water pollution.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility is now contractually required to follow best management practices to prevent water pollution.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2691,7 +2780,8 @@
         "country": "US",
         "image-url": "http://c8.alamy.com/comp/FX19HF/port-of-seattle-along-puget-sound-view-from-waterfront-pier-panorama-FX19HF.jpg",
         "original-title": "Port of Seattle (Pier 66)",
-        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/FX19HF/port-of-seattle-along-puget-sound-view-from-waterfront-pier-panorama-FX19HF.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility is now court ordered to follow best management practices to prevent water pollution.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/FX19HF/port-of-seattle-along-puget-sound-view-from-waterfront-pier-panorama-FX19HF.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility is now court ordered to follow best management practices to prevent water pollution.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2721,7 +2811,8 @@
         "country": "US",
         "image-url": "http://epochsg.com/wp-content/uploads/2017/05/PSE_Cover.jpg",
         "original-title": "Portac, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"http://epochsg.com/wp-content/uploads/2017/05/PSE_Cover.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://epochsg.com/wp-content/uploads/2017/05/PSE_Cover.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2751,7 +2842,8 @@
         "country": "US",
         "image-url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/US_Navy_101216-N-1638S-148_Sailors_and_Puget_Sound_Naval_Shipyard_and_Intermediate_Maintenance_Facility_workers_maneuver_the_aircraft_carrier_USS_N.jpg",
         "original-title": "Puget Sound Naval Shipyard (United States Navy)",
-        "description": "<img class=\"settled-cases-img\" src=\"https://upload.wikimedia.org/wikipedia/commons/6/6a/US_Navy_101216-N-1638S-148_Sailors_and_Puget_Sound_Naval_Shipyard_and_Intermediate_Maintenance_Facility_workers_maneuver_the_aircraft_carrier_USS_N.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Sinclair Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://upload.wikimedia.org/wikipedia/commons/6/6a/US_Navy_101216-N-1638S-148_Sailors_and_Puget_Sound_Naval_Shipyard_and_Intermediate_Maintenance_Facility_workers_maneuver_the_aircraft_carrier_USS_N.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Sinclair Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2781,7 +2873,8 @@
         "country": "US",
         "image-url": "https://s-media-cache-ak0.pinimg.com/originals/d6/05/cd/d605cd694667a34c3fbe0d518e78a611.jpg",
         "original-title": "Rainier Petroleum - Colorado St",
-        "description": "<img class=\"settled-cases-img\" src=\"https://s-media-cache-ak0.pinimg.com/originals/d6/05/cd/d605cd694667a34c3fbe0d518e78a611.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://s-media-cache-ak0.pinimg.com/originals/d6/05/cd/d605cd694667a34c3fbe0d518e78a611.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2811,7 +2904,8 @@
         "country": "US",
         "image-url": "http://www.pugetsoundkeeper.org/wp-content/uploads/2016/01/Rainier-Pier-15-Tank-Farm.jpg",
         "original-title": "Rainier Petroleum - Pier 15",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.pugetsoundkeeper.org/wp-content/uploads/2016/01/Rainier-Pier-15-Tank-Farm.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system and paved lube oil tank farm floor to protect against spills in 2016.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.pugetsoundkeeper.org/wp-content/uploads/2016/01/Rainier-Pier-15-Tank-Farm.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system and paved lube oil tank farm floor to protect against spills in 2016.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2841,7 +2935,8 @@
         "country": "US",
         "image-url": "",
         "original-title": "Recycling & Disposal Services Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Nooksack River, Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Nooksack River, Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2871,7 +2966,8 @@
         "country": "US",
         "image-url": "https://s3-media2.fl.yelpcdn.com/bphoto/20yAPjoCRECTj-Uek752aQ/o.jpg",
         "original-title": "Recycling Depot, Inc. (The)",
-        "description": "<img class=\"settled-cases-img\" src=\"https://s3-media2.fl.yelpcdn.com/bphoto/20yAPjoCRECTj-Uek752aQ/o.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://s3-media2.fl.yelpcdn.com/bphoto/20yAPjoCRECTj-Uek752aQ/o.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2901,7 +2997,8 @@
         "country": "US",
         "image-url": "https://image.isu.pub/151120235742-94152b65d7b0a43862b26b8549c01f1a/jpg/page_1.jpg",
         "original-title": "Rosario Resort WWT Facility (Oly Rose LLC)",
-        "description": "<img class=\"settled-cases-img\" src=\"https://image.isu.pub/151120235742-94152b65d7b0a43862b26b8549c01f1a/jpg/page_1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Cascade Bay, East Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://image.isu.pub/151120235742-94152b65d7b0a43862b26b8549c01f1a/jpg/page_1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Cascade Bay, East Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2931,7 +3028,8 @@
         "country": "US",
         "image-url": "https://odis.homeaway.com/odis/listing/1b510381-4586-4881-928f-a77cf2244fa6.c10.jpg",
         "original-title": "RSA Microtech, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"https://odis.homeaway.com/odis/listing/1b510381-4586-4881-928f-a77cf2244fa6.c10.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Padilla Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://odis.homeaway.com/odis/listing/1b510381-4586-4881-928f-a77cf2244fa6.c10.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Padilla Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2961,7 +3059,8 @@
         "country": "US",
         "image-url": "http://slideplayer.com/7408184/24/images/1/E2+skills+%26+competencies+certification.jpg",
         "original-title": "Saint-Gobain Containers, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"http://slideplayer.com/7408184/24/images/1/E2+skills+%26+competencies+certification.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://slideplayer.com/7408184/24/images/1/E2+skills+%26+competencies+certification.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -2991,7 +3090,8 @@
         "country": "US",
         "image-url": "http://schneidersimpson.com/top.gif",
         "original-title": "Schneider Simpson Sheet Metal",
-        "description": "<img class=\"settled-cases-img\" src=\"http://schneidersimpson.com/top.gif\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://schneidersimpson.com/top.gif\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3021,7 +3121,8 @@
         "country": "US",
         "image-url": "https://s-media-cache-ak0.pinimg.com/originals/d4/e2/14/d4e21413b43e8b7c8f45a6f2a92d8c27.jpg",
         "original-title": "Seattle (Port of) Marine Maintenance Facility",
-        "description": "<img class=\"settled-cases-img\" src=\"https://s-media-cache-ak0.pinimg.com/originals/d4/e2/14/d4e21413b43e8b7c8f45a6f2a92d8c27.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://s-media-cache-ak0.pinimg.com/originals/d4/e2/14/d4e21413b43e8b7c8f45a6f2a92d8c27.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3051,7 +3152,8 @@
         "country": "US",
         "image-url": "https://s-media-cache-ak0.pinimg.com/originals/2b/7f/39/2b7f398420fab844a6ce299371104e2a.jpg",
         "original-title": "Shasta Beverages, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"https://s-media-cache-ak0.pinimg.com/originals/2b/7f/39/2b7f398420fab844a6ce299371104e2a.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green/ Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://s-media-cache-ak0.pinimg.com/originals/2b/7f/39/2b7f398420fab844a6ce299371104e2a.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green/ Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3081,7 +3183,8 @@
         "country": "US",
         "image-url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/WA_koppen.svg",
         "original-title": "Shultz Distributing Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"https://upload.wikimedia.org/wikipedia/commons/b/ba/WA_koppen.svg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://upload.wikimedia.org/wikipedia/commons/b/ba/WA_koppen.svg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3111,7 +3214,8 @@
         "country": "US",
         "image-url": "",
         "original-title": "Skyline Electric & Manufacturing Co.",
-        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3141,7 +3245,8 @@
         "country": "US",
         "image-url": "http://homedest.com/wp-content/uploads/2014/02/Home-Street-2X-metro-map_Page_1.jpg",
         "original-title": "Snohomish (City of)",
-        "description": "<img class=\"settled-cases-img\" src=\"http://homedest.com/wp-content/uploads/2014/02/Home-Street-2X-metro-map_Page_1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://homedest.com/wp-content/uploads/2014/02/Home-Street-2X-metro-map_Page_1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3171,7 +3276,8 @@
         "country": "US",
         "image-url": "http://c8.alamy.com/comp/D75F95/sunset-over-the-puget-sound-at-picnic-point-county-park-snohomish-D75F95.jpg",
         "original-title": "Snohomish County",
-        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/D75F95/sunset-over-the-puget-sound-at-picnic-point-county-park-snohomish-D75F95.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Possession Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/D75F95/sunset-over-the-puget-sound-at-picnic-point-county-park-snohomish-D75F95.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Possession Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3201,7 +3307,8 @@
         "country": "US",
         "image-url": "https://goalwa.files.wordpress.com/2013/09/ups-vs-linfield-soccer-206.jpg",
         "original-title": "SOCCO, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"https://goalwa.files.wordpress.com/2013/09/ups-vs-linfield-soccer-206.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Nooksack River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://goalwa.files.wordpress.com/2013/09/ups-vs-linfield-soccer-206.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Nooksack River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3231,7 +3338,8 @@
         "country": "US",
         "image-url": "http://1.bp.blogspot.com/-KFr8CM9zNdY/VCyDjBUbQcI/AAAAAAAABf0/1qeps_qOZMM/s1600/IMG_1844.jpg",
         "original-title": "Spadoni Brothers, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"http://1.bp.blogspot.com/-KFr8CM9zNdY/VCyDjBUbQcI/AAAAAAAABf0/1qeps_qOZMM/s1600/IMG_1844.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://1.bp.blogspot.com/-KFr8CM9zNdY/VCyDjBUbQcI/AAAAAAAABf0/1qeps_qOZMM/s1600/IMG_1844.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3261,7 +3369,8 @@
         "country": "US",
         "image-url": "http://www.thebluebook.com/webmount/docs/proview/517907/0-4.png",
         "original-title": "Steeler Inc",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.thebluebook.com/webmount/docs/proview/517907/0-4.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2016.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.thebluebook.com/webmount/docs/proview/517907/0-4.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2016.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3291,7 +3400,8 @@
         "country": "US",
         "image-url": "http://media.bizj.us/view/img/8516272/2474677568*1200xx5268-2963-0-139.jpg",
         "original-title": "Stevedoring Services of America Terminals, Inc. aka T18",
-        "description": "<img class=\"settled-cases-img\" src=\"http://media.bizj.us/view/img/8516272/2474677568*1200xx5268-2963-0-139.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2016.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://media.bizj.us/view/img/8516272/2474677568*1200xx5268-2963-0-139.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2016.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3321,7 +3431,8 @@
         "country": "US",
         "image-url": "http://maps.googleapis.com/maps/api/streetview?sensor=false&size=550x300&location=10727+A+Street+South%2C+Tacoma%2C+WA",
         "original-title": "Streich Bros., Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"http://maps.googleapis.com/maps/api/streetview?sensor=false&size=550x300&location=10727+A+Street+South%2C+Tacoma%2C+WA\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Hylebos Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://maps.googleapis.com/maps/api/streetview?sensor=false&size=550x300&location=10727+A+Street+South%2C+Tacoma%2C+WA\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Hylebos Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3351,7 +3462,8 @@
         "country": "US",
         "image-url": "http://depave.org/wp/wp-content/uploads/2014/03/PugetSound-TacomaMM-ERosewall7970.jpg",
         "original-title": "Tacoma Asphalt Plant",
-        "description": "<img class=\"settled-cases-img\" src=\"http://depave.org/wp/wp-content/uploads/2014/03/PugetSound-TacomaMM-ERosewall7970.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Hylebos Waterway</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed bioswale treatment system in 2010.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://depave.org/wp/wp-content/uploads/2014/03/PugetSound-TacomaMM-ERosewall7970.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Hylebos Waterway</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed bioswale treatment system in 2010.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3381,7 +3493,8 @@
         "country": "US",
         "image-url": "https://s3-media3.fl.yelpcdn.com/bphoto/90PJTS7lIPuSg8LuHFqbMw/ls.jpg",
         "original-title": "Tacoma Metals Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"https://s3-media3.fl.yelpcdn.com/bphoto/90PJTS7lIPuSg8LuHFqbMw/ls.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2010.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://s3-media3.fl.yelpcdn.com/bphoto/90PJTS7lIPuSg8LuHFqbMw/ls.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2010.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3411,7 +3524,8 @@
         "country": "US",
         "image-url": "https://4.bp.blogspot.com/-jWIENmlBMNI/WBOuz6fJBxI/AAAAAAAAAh4/RTGYcL33_TYXdjoUYUr26SDs0DWMe6RdwCLcB/s1600/Stetson%2Band%2BPost%2BSash%2Band%2BDoor%2BMill%2B1882.jpg",
         "original-title": "Taylor Equipment and Machine Tool Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"https://4.bp.blogspot.com/-jWIENmlBMNI/WBOuz6fJBxI/AAAAAAAAAh4/RTGYcL33_TYXdjoUYUr26SDs0DWMe6RdwCLcB/s1600/Stetson%2Band%2BPost%2BSash%2Band%2BDoor%2BMill%2B1882.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Budd Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://4.bp.blogspot.com/-jWIENmlBMNI/WBOuz6fJBxI/AAAAAAAAAh4/RTGYcL33_TYXdjoUYUr26SDs0DWMe6RdwCLcB/s1600/Stetson%2Band%2BPost%2BSash%2Band%2BDoor%2BMill%2B1882.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Budd Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3441,7 +3555,8 @@
         "country": "US",
         "image-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USS_Halyburton_FFG-40_under_construction.jpg/1200px-USS_Halyburton_FFG-40_under_construction.jpg",
         "original-title": "Todd Pacific Shipyards Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USS_Halyburton_FFG-40_under_construction.jpg/1200px-USS_Halyburton_FFG-40_under_construction.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay, Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USS_Halyburton_FFG-40_under_construction.jpg/1200px-USS_Halyburton_FFG-40_under_construction.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay, Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3471,7 +3586,8 @@
         "country": "US",
         "image-url": "http://media.bizj.us/view/img/10265725/img2369*xx.jpg",
         "original-title": "Total Terminals International LLC aka T46",
-        "description": "<img class=\"settled-cases-img\" src=\"http://media.bizj.us/view/img/10265725/img2369*xx.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment in 2015.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://media.bizj.us/view/img/10265725/img2369*xx.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment in 2015.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3501,7 +3617,8 @@
         "country": "US",
         "image-url": "http://www.tridentseafoods.com/TridentWebsite/media/Trident/our%20story/plants/Plant-Anacortes.jpg",
         "original-title": "Trident Seafoods Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.tridentseafoods.com/TridentWebsite/media/Trident/our%20story/plants/Plant-Anacortes.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Hylebos Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment systems in 2012.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.tridentseafoods.com/TridentWebsite/media/Trident/our%20story/plants/Plant-Anacortes.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Hylebos Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment systems in 2012.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3531,7 +3648,8 @@
         "country": "US",
         "image-url": "http://www.tridentseafoods.com/TridentWebsite/media/Trident/our%20story/plants/Plant-Anacortes.jpg",
         "original-title": "Trident Seafoods Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.tridentseafoods.com/TridentWebsite/media/Trident/our%20story/plants/Plant-Anacortes.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Hylebos Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.tridentseafoods.com/TridentWebsite/media/Trident/our%20story/plants/Plant-Anacortes.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Hylebos Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3561,7 +3679,8 @@
         "country": "US",
         "image-url": "https://myeverettnews.com/wp-content/uploads/2015/03/united-way-dinner-A.jpg",
         "original-title": "Umbra Cuscinetti, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"https://myeverettnews.com/wp-content/uploads/2015/03/united-way-dinner-A.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Possession Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://myeverettnews.com/wp-content/uploads/2015/03/united-way-dinner-A.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Possession Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3591,7 +3710,8 @@
         "country": "US",
         "image-url": "https://i1.wp.com/news.theregistryps.com/wp-content/uploads/2017/07/sterling-realty.jpg?fit=1358%2C1186&ssl=1",
         "original-title": "Unocal Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"https://i1.wp.com/news.theregistryps.com/wp-content/uploads/2017/07/sterling-realty.jpg?fit=1358%2C1186&ssl=1\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://i1.wp.com/news.theregistryps.com/wp-content/uploads/2017/07/sterling-realty.jpg?fit=1358%2C1186&ssl=1\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3621,7 +3741,8 @@
         "country": "US",
         "image-url": "https://rlv.zcache.com/ferry_and_sailboats_in_the_puget_sound_jigsaw_puzzle-rdde9ac5811b94ea49cf9e9461347fdb8_amb07_8byvr_324.jpg",
         "original-title": "Urban Accessories, Inc",
-        "description": "<img class=\"settled-cases-img\" src=\"https://rlv.zcache.com/ferry_and_sailboats_in_the_puget_sound_jigsaw_puzzle-rdde9ac5811b94ea49cf9e9461347fdb8_amb07_8byvr_324.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://rlv.zcache.com/ferry_and_sailboats_in_the_puget_sound_jigsaw_puzzle-rdde9ac5811b94ea49cf9e9461347fdb8_amb07_8byvr_324.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3651,7 +3772,8 @@
         "country": "US",
         "image-url": "http://kbkw.com/wp-content/uploads/2017/07/VCT-Truck.jpg",
         "original-title": "Veneer Chip Transport Inc",
-        "description": "<img class=\"settled-cases-img\" src=\"http://kbkw.com/wp-content/uploads/2017/07/VCT-Truck.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://kbkw.com/wp-content/uploads/2017/07/VCT-Truck.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3681,7 +3803,8 @@
         "country": "US",
         "image-url": "https://www.warmbeach.com/images/stories/etv_campaign/240_canoe_environment.jpg",
         "original-title": "Warm Beach Christian Camps and Conference Center",
-        "description": "<img class=\"settled-cases-img\" src=\"https://www.warmbeach.com/images/stories/etv_campaign/240_canoe_environment.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Port Susan</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://www.warmbeach.com/images/stories/etv_campaign/240_canoe_environment.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Port Susan</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3711,7 +3834,8 @@
         "country": "US",
         "image-url": "https://www.warmbeach.com/images/stories/etv_campaign/240_canoe_environment.jpg",
         "original-title": "Warm Beach Christian Camps and Conference Center",
-        "description": "<img class=\"settled-cases-img\" src=\"https://www.warmbeach.com/images/stories/etv_campaign/240_canoe_environment.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Port Susan</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://www.warmbeach.com/images/stories/etv_campaign/240_canoe_environment.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Port Susan</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3741,7 +3865,8 @@
         "country": "US",
         "image-url": "https://media.bizj.us/view/img/6473972/p18priorsimon*750xx2000-1128-0-0.jpg",
         "original-title": "Western Pneumatic Tube Company",
-        "description": "<img class=\"settled-cases-img\" src=\"https://media.bizj.us/view/img/6473972/p18priorsimon*750xx2000-1128-0-0.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Moss Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://media.bizj.us/view/img/6473972/p18priorsimon*750xx2000-1128-0-0.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Moss Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3771,7 +3896,8 @@
         "country": "US",
         "image-url": "http://www.whitleyman.com/data/case_studies/case_studies1315400798-image.jpg",
         "original-title": "Whitley Manufacturing Co. Inc d.b.a. Whitley Evergreen",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.whitleyman.com/data/case_studies/case_studies1315400798-image.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Quilceda Creek, Hayho Creek, Snohomish River Estuary</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility voluntarily relinquished \"conditional no exposure\" (CNE), and obtained permit coverage (monitoring, controls).</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.whitleyman.com/data/case_studies/case_studies1315400798-image.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Quilceda Creek, Hayho Creek, Snohomish River Estuary</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility voluntarily relinquished \"conditional no exposure\" (CNE), and obtained permit coverage (monitoring, controls).</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3801,7 +3927,8 @@
         "country": "US",
         "image-url": "https://pbs.twimg.com/media/CT87LMiXAAAMf_8.jpg",
         "original-title": "William Scotsman, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"https://pbs.twimg.com/media/CT87LMiXAAAMf_8.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Quilceda Creek</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained \"conditional no exposure\" (CNE).</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://pbs.twimg.com/media/CT87LMiXAAAMf_8.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Quilceda Creek</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained \"conditional no exposure\" (CNE).</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3831,7 +3958,8 @@
         "country": "US",
         "image-url": "https://images.boatdealers.ca/354070/10044312/puget-sound-boat-works-troller-crab.jpg",
         "original-title": "Yacht Performance Center LLC",
-        "description": "<img class=\"settled-cases-img\" src=\"https://images.boatdealers.ca/354070/10044312/puget-sound-boat-works-troller-crab.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Portage Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://images.boatdealers.ca/354070/10044312/puget-sound-boat-works-troller-crab.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Portage Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3861,7 +3989,8 @@
         "country": "US",
         "image-url": "http://yachtfishmarine.com/wp-content/uploads/Riva.jpg",
         "original-title": "Yachtfish Marine, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"http://yachtfishmarine.com/wp-content/uploads/Riva.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Union</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://yachtfishmarine.com/wp-content/uploads/Riva.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Union</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3891,7 +4020,8 @@
         "country": "US",
         "image-url": "http://www.ijnhonline.org/wp-content/uploads/2016/05/US_carriers_Bremerton_1929.jpg",
         "original-title": "Yamato Engine Specialists LTD",
-        "description": "<img class=\"settled-cases-img\" src=\"http://www.ijnhonline.org/wp-content/uploads/2016/05/US_carriers_Bremerton_1929.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.ijnhonline.org/wp-content/uploads/2016/05/US_carriers_Bremerton_1929.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3921,7 +4051,8 @@
         "country": "US",
         "image-url": "https://image.isu.pub/170131220522-174ce932471a6ac9458c4c4b91790671/jpg/page_110.jpg",
         "original-title": "Yarrow Bay Yacht Sales and Service LLC",
-        "description": "<img class=\"settled-cases-img\" src=\"https://image.isu.pub/170131220522-174ce932471a6ac9458c4c4b91790671/jpg/page_110.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://image.isu.pub/170131220522-174ce932471a6ac9458c4c4b91790671/jpg/page_110.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3951,7 +4082,8 @@
         "country": "US",
         "image-url": "https://image.isu.pub/130307004752-8282d48a29e44c85a46b66df0b2af064/jpg/page_54.jpg",
         "original-title": "Z Recyclers, Inc.",
-        "description": "<img class=\"settled-cases-img\" src=\"https://image.isu.pub/130307004752-8282d48a29e44c85a46b66df0b2af064/jpg/page_54.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Nooksack River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://image.isu.pub/130307004752-8282d48a29e44c85a46b66df0b2af064/jpg/page_54.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Nooksack River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -3981,7 +4113,8 @@
         "country": "US",
         "image-url": "https://www.pugetsound.edu/files/pages/img_5942-2.jpg",
         "original-title": "Aaron's Auto Wrecking",
-        "description": "<img class=\"settled-cases-img\" src=\"https://www.pugetsound.edu/files/pages/img_5942-2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://www.pugetsound.edu/files/pages/img_5942-2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -4011,7 +4144,8 @@
         "country": "US",
         "image-url": "https://media.bizj.us/view/img/4018631/alaska-airlines-flight-attendant*1024xx3624-2040-0-116.jpg",
         "original-title": "Alaska Logistics LLC",
-        "description": "<img class=\"settled-cases-img\" src=\"https://media.bizj.us/view/img/4018631/alaska-airlines-flight-attendant*1024xx3624-2040-0-116.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://media.bizj.us/view/img/4018631/alaska-airlines-flight-attendant*1024xx3624-2040-0-116.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -4041,7 +4175,8 @@
         "country": "US",
         "image-url": "https://s3-media4.fl.yelpcdn.com/bphoto/mmYjGozVIBT9bMITiPJCfQ/ls.jpg",
         "original-title": "Binford Metals LLC",
-        "description": "<img class=\"settled-cases-img\" src=\"https://s3-media4.fl.yelpcdn.com/bphoto/mmYjGozVIBT9bMITiPJCfQ/ls.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://s3-media4.fl.yelpcdn.com/bphoto/mmYjGozVIBT9bMITiPJCfQ/ls.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -4071,7 +4206,8 @@
         "country": "US",
         "image-url": "https://s3-media2.fl.yelpcdn.com/bphoto/6BfIcVNx_0hSwcJn9jl2FA/ls.jpg",
         "original-title": "Budget Auto Wrecking",
-        "description": "<img class=\"settled-cases-img\" src=\"https://s3-media2.fl.yelpcdn.com/bphoto/6BfIcVNx_0hSwcJn9jl2FA/ls.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://s3-media2.fl.yelpcdn.com/bphoto/6BfIcVNx_0hSwcJn9jl2FA/ls.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -4101,7 +4237,8 @@
         "country": "US",
         "image-url": "",
         "original-title": "Granite Precasting & Concrete Inc",
-        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Squalicum Creek</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Squalicum Creek</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -4131,7 +4268,8 @@
         "country": "US",
         "image-url": "https://image.isu.pub/151014002338-580d5c016e45475bb9321c3033be0bcd/jpg/page_1.jpg",
         "original-title": "Honcoop Trucking LLC",
-        "description": "<img class=\"settled-cases-img\" src=\"https://image.isu.pub/151014002338-580d5c016e45475bb9321c3033be0bcd/jpg/page_1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bertrand Creek</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"https://image.isu.pub/151014002338-580d5c016e45475bb9321c3033be0bcd/jpg/page_1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bertrand Creek</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -4161,7 +4299,8 @@
         "country": "US",
         "image-url": "http://media.bizj.us/view/img/1203931/scott-galvinizing*500xx307-267-158-7.jpg",
         "original-title": "Scott Galvanizing",
-        "description": "<img class=\"settled-cases-img\" src=\"http://media.bizj.us/view/img/1203931/scott-galvinizing*500xx307-267-158-7.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington Ship Canal</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://media.bizj.us/view/img/1203931/scott-galvinizing*500xx307-267-158-7.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington Ship Canal</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
@@ -4191,7 +4330,8 @@
         "country": "US",
         "image-url": "http://psmwinc.com/assets/img/sliders/revolution/bg2.jpg",
         "original-title": "Transtar Metals Corporation",
-        "description": "<img class=\"settled-cases-img\" src=\"http://psmwinc.com/assets/img/sliders/revolution/bg2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>"
+        "description": "<img class=\"settled-cases-img\" src=\"http://psmwinc.com/assets/img/sliders/revolution/bg2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>",
+        "marker-symbol": "settled-cases"
       },
       "geometry": {
         "type": "Point",
