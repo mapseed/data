@@ -1,0 +1,4205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ace Galvanizing Inc.",
+        "address": "429 S 96th St, Seattle, WA 98108",
+        "waterway": "Hamm Creek, Duwamish River",
+        "type": "Violation",
+        "resolution": "Active/ Ongoing",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "429",
+        "street": "S 96th St",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98108",
+        "country": "US",
+        "image-url": "https://www.smta.org/chapters/files/Puget_Sound_Puget_Sound_Expo_2017_Attendee_Flyer.jpg",
+        "original-title": "Ace Galvanizing Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"https://www.smta.org/chapters/files/Puget_Sound_Puget_Sound_Expo_2017_Attendee_Flyer.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Hamm Creek, Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329024,
+          47.517074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ace Metal Corporation",
+        "address": "11110 Mukilteo Speedway # 202, Mukilteo, WA 98275",
+        "waterway": "Big Gulch Creek",
+        "type": "Violation",
+        "resolution": "Active/ Ongoing",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "11110",
+        "street": "Mukilteo Speedway",
+        "city": "Mukilteo",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98275",
+        "country": "US",
+        "image-url": "https://images.chinookbook.com/location_images/a0Q8000000DQrTjEAL_20150620095611_C3C6760B-F14E-4AF6-9BC3-7B607A37D473_cropped_full.jpg",
+        "original-title": "Ace Metal Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"https://images.chinookbook.com/location_images/a0Q8000000DQrTjEAL_20150620095611_C3C6760B-F14E-4AF6-9BC3-7B607A37D473_cropped_full.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Big Gulch Creek</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29056,
+          47.897589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alaskan Copper Works",
+        "address": "3200 6th Ave S, Seattle, WA 98134",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Active/ Ongoing",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "3200",
+        "street": "6th Ave S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98134",
+        "country": "US",
+        "image-url": "https://assets.bizjournals.com/story_image/226903*750.jpg?v=2",
+        "original-title": "Alaskan Copper Works",
+        "description": "<img class=\"settled-cases-img\" src=\"https://assets.bizjournals.com/story_image/226903*750.jpg?v=2\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325981,
+          47.575723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "APM Terminals Tacoma LLC",
+        "address": "1675 Lincoln Ave Tacoma, WA 98421",
+        "waterway": "Sitcum Waterway, Commencement Bay",
+        "type": "Violation",
+        "resolution": "Active/ Ongoing",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1675",
+        "street": "Lincoln Ave",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98421",
+        "country": "US",
+        "image-url": "https://ssl.c.photoshelter.com/img-get/I00008TeDMMTUr4w/s/750/750/20121111SEA-8815.jpg",
+        "original-title": "APM Terminals Tacoma LLC",
+        "description": "<img class=\"settled-cases-img\" src=\"https://ssl.c.photoshelter.com/img-get/I00008TeDMMTUr4w/s/750/750/20121111SEA-8815.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Sitcum Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409249,
+          47.2534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cargill, Inc.",
+        "address": "5744 3rd Ave, Ferndale, WA 98248",
+        "waterway": "Schell Creek, Lummi River, Lummi Bay",
+        "type": "Violation",
+        "resolution": "Active/ Ongoing",
+        "details": "",
+        "accuracy-score": "0.8",
+        "accuracy-type": "range_interpolation",
+        "number": "5744",
+        "street": "3rd Ave",
+        "city": "Ferndale",
+        "state": "WA",
+        "county": "Whatcom County",
+        "zip": "98248",
+        "country": "US",
+        "image-url": "http://www.pndc.us/assets/images/StaffPhotos/website%20photo.JPG.png",
+        "original-title": "Cargill, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.pndc.us/assets/images/StaffPhotos/website%20photo.JPG.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Schell Creek, Lummi River, Lummi Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.591468,
+          48.848931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Duwamish Marine Center; Samson Tug & Barge Co. Inc.",
+        "address": "6361 1st Ave S, Seattle WA 98108-3228",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Active/ Ongoing",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "6361",
+        "street": "1st Ave S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98108",
+        "country": "US",
+        "image-url": "",
+        "original-title": "Duwamish Marine Center; Samson Tug & Barge Co. Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334428,
+          47.546273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EPA, NMFS, US F&W (Cooling Water Intake)",
+        "address": "Nationwide",
+        "waterway": "Nationwide",
+        "type": "Violation",
+        "resolution": "Active/ Ongoing",
+        "details": "",
+        "accuracy-score": "0",
+        "accuracy-type": "",
+        "number": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "zip": "",
+        "country": "",
+        "image-url": "",
+        "original-title": "EPA, NMFS, US F&W (Cooling Water Intake)",
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Nationwide</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lakehaven Utility District (Lakota Wastewater Treatment Plant)",
+        "address": "3203 SW Dash Point Road, Federal Way WA 98023",
+        "waterway": "Dumas Bay",
+        "type": "Violation",
+        "resolution": "Active/ Ongoing",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "3203",
+        "street": "SW Dash Point Rd",
+        "city": "Federal Way",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98023",
+        "country": "US",
+        "image-url": "http://img.groundspeak.com/waymarking/display/13546e1e-1f98-48fc-991a-5d590ad595d2.jpg",
+        "original-title": "Lakehaven Utility District (Lakota Wastewater Treatment Plant)",
+        "description": "<img class=\"settled-cases-img\" src=\"http://img.groundspeak.com/waymarking/display/13546e1e-1f98-48fc-991a-5d590ad595d2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Dumas Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.373079,
+          47.327911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pierce County Recycling, Composting and Disposal, LLC (LRI Landfill)",
+        "address": "30919 Meridian Street East, Graham, WA 98338",
+        "waterway": "South Creek, Puyallup River",
+        "type": "Violation",
+        "resolution": "Active/ Ongoing",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "30919",
+        "street": "E Meridian Ave",
+        "city": "Graham",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98338",
+        "country": "US",
+        "image-url": "http://www.lriservices.com/Resources_Local/Images/logo2.png",
+        "original-title": "Pierce County Recycling, Composting and Disposal, LLC (LRI Landfill)",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.lriservices.com/Resources_Local/Images/logo2.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>South Creek, Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.297634,
+          46.966822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Samson Tug & Barge Co. Inc.",
+        "address": "7553 Detroit Ave SW, Seattle WA 98108",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Active/ Ongoing",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "7553",
+        "street": "Detroit Ave SW",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98106",
+        "country": "US",
+        "image-url": "",
+        "original-title": "Samson Tug & Barge Co. Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338743,
+          47.535051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seattle Iron & Metals Corp.",
+        "address": "(2 neighboring facilities) 601 S. Myrtle Street, Seattle, WA 98108 and 730 S. Myrtle Street, Seattle, WA 98108",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Active/ Ongoing",
+        "details": "",
+        "accuracy-score": "0.33",
+        "accuracy-type": "place",
+        "number": "",
+        "street": "",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98108",
+        "country": "US",
+        "image-url": "",
+        "original-title": "Seattle Iron & Metals Corp.",
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.305794,
+          47.534862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Snohomish County",
+        "address": "Snohomish County, WA",
+        "waterway": "Snohomish River, Stillaguamish River, Puget Sound",
+        "type": "Violation",
+        "resolution": "Active/ Ongoing",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "place",
+        "number": "",
+        "street": "",
+        "city": "Snohomish",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98290",
+        "country": "US",
+        "image-url": "http://c8.alamy.com/comp/D75F95/sunset-over-the-puget-sound-at-picnic-point-county-park-snohomish-D75F95.jpg",
+        "original-title": "Snohomish County",
+        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/D75F95/sunset-over-the-puget-sound-at-picnic-point-county-park-snohomish-D75F95.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River, Stillaguamish River, Puget Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.014722,
+          47.954558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "U.S. Navy (Naval Base Kitsap)",
+        "address": "981 Charleston Beach Rd W, Bremerton, WA 98312",
+        "waterway": "Sinclair Inlet",
+        "type": "Unpermitted",
+        "resolution": "Active/ Ongoing",
+        "details": "",
+        "accuracy-score": "0.8",
+        "accuracy-type": "street_center",
+        "number": "",
+        "street": "Navy Yard Hwy",
+        "city": "Bremerton",
+        "state": "WA",
+        "county": "Kitsap County",
+        "zip": "98312",
+        "country": "US",
+        "image-url": "https://news.usni.org/wp-content/uploads/2015/11/150113-N-RC246-112-2.jpg",
+        "original-title": "U.S. Navy (Naval Base Kitsap)",
+        "description": "<img class=\"settled-cases-img\" src=\"https://news.usni.org/wp-content/uploads/2015/11/150113-N-RC246-112-2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Sinclair Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Active/ Ongoing</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.655538,
+          47.556613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ABF Freight Systems",
+        "address": "7226 S 262nd Street, Kent WA 98032-7379",
+        "waterway": "Green River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "7226",
+        "street": "S 262nd St",
+        "city": "Kent",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98032",
+        "country": "US",
+        "image-url": "https://static.seattletimes.com/wp-content/uploads/2016/09/158073_hanjin195941-780x481.jpg",
+        "original-title": "ABF Freight Systems",
+        "description": "<img class=\"settled-cases-img\" src=\"https://static.seattletimes.com/wp-content/uploads/2016/09/158073_hanjin195941-780x481.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.24432,
+          47.367269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ace Galvanizing Inc.",
+        "address": "429 S. 96th Street, Seattle, WA 98108",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "429",
+        "street": "S 96th St",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98108",
+        "country": "US",
+        "image-url": "https://www.smta.org/chapters/files/Puget_Sound_Puget_Sound_Expo_2017_Attendee_Flyer.jpg",
+        "original-title": "Ace Galvanizing Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"https://www.smta.org/chapters/files/Puget_Sound_Puget_Sound_Expo_2017_Attendee_Flyer.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329024,
+          47.517074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Achilles USA Inc.",
+        "address": "1407 80th Street SW, Everett, WA 98203-6295",
+        "waterway": "Narbeck Creek Basin, Possession Sound, Puget Sound",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system in 2009.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1407",
+        "street": "80th St SW",
+        "city": "Everett",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98203",
+        "country": "US",
+        "image-url": "http://maps.googleapis.com/maps/api/streetview?sensor=false&size=550x300&location=715+100th+Street+Southeast+A-1%2C+Everett%2C+WA",
+        "original-title": "Achilles USA Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"http://maps.googleapis.com/maps/api/streetview?sensor=false&size=550x300&location=715+100th+Street+Southeast+A-1%2C+Everett%2C+WA\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Narbeck Creek Basin, Possession Sound, Puget Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2009.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.253684,
+          47.925667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Airport Auto Wrecking, Inc.",
+        "address": "4275 State Highway 3 SW, Port Orchard, WA 98367",
+        "waterway": "Gorst Creek, Sinclair Inlet",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.9",
+        "accuracy-type": "range_interpolation",
+        "number": "4275",
+        "street": "State Hwy 3",
+        "city": "Port Orchard",
+        "state": "WA",
+        "county": "Kitsap County",
+        "zip": "98367",
+        "country": "US",
+        "image-url": "http://southendauto.com/wp-content/uploads/2016/09/newgroupphotorz3.jpg",
+        "original-title": "Airport Auto Wrecking, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"http://southendauto.com/wp-content/uploads/2016/09/newgroupphotorz3.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Gorst Creek, Sinclair Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.735807,
+          47.515595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alaska Marine Lines, Inc.",
+        "address": "5505 + 5658 W. Marginal Way SW, Seattle, WA 98106",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system in 2011.",
+        "accuracy-score": "0.33",
+        "accuracy-type": "place",
+        "number": "",
+        "street": "",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98106",
+        "country": "US",
+        "image-url": "http://www.lynden.com/aml/tools/equipment/marine-equipment/images/Southe2.jpg",
+        "original-title": "Alaska Marine Lines, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.lynden.com/aml/tools/equipment/marine-equipment/images/Southe2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.349874,
+          47.544034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alaskan Copper",
+        "address": "3200 6th Ave S, Seattle, WA 98134",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed some basic pre-treatment measures in 2011. An active lawsuit is ongoing to address ongoing pollution issues.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "3200",
+        "street": "6th Ave S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98134",
+        "country": "US",
+        "image-url": "https://s-media-cache-ak0.pinimg.com/originals/2f/79/73/2f79732eec76ecff0dca58c0a125efc9.jpg",
+        "original-title": "Alaskan Copper",
+        "description": "<img class=\"settled-cases-img\" src=\"https://s-media-cache-ak0.pinimg.com/originals/2f/79/73/2f79732eec76ecff0dca58c0a125efc9.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed some basic pre-treatment measures in 2011. An active lawsuit is ongoing to address ongoing pollution issues.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325981,
+          47.575723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Almar, Inc.",
+        "address": "117 Puyallup Ave. E, Tacoma, WA 98421, 2301 E. Dock Street, Tacoma, WA 98402",
+        "waterway": "Thea Foss Waterway, Commencement Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "117",
+        "street": "Puyallup Ave",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98421",
+        "country": "US",
+        "image-url": "http://images.boats.com/resize/1/4/28/6340428_20170818105932445_1_LARGE.jpg?w=600&h=600",
+        "original-title": "Almar, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"http://images.boats.com/resize/1/4/28/6340428_20170818105932445_1_LARGE.jpg?w=600&h=600\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433847,
+          47.240339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "American Steel, LLC",
+        "address": "19022 80th Ave S, Kent, WA 98032-1137",
+        "waterway": "Green/ Duwamish Watershed",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system in 2009.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "19022",
+        "street": "80th Ave S",
+        "city": "Kent",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98032",
+        "country": "US",
+        "image-url": "http://www.americanconstco.com/treasure-island/data1/images/treasure3.jpg",
+        "original-title": "American Steel, LLC",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.americanconstco.com/treasure-island/data1/images/treasure3.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green/ Duwamish Watershed</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2009.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.233195,
+          47.432341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ameriflight LLC",
+        "address": "7585 Perimeter Rd S, Seattle WA 98108-3823",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "7585",
+        "street": "Perimeter Rd S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98108",
+        "country": "US",
+        "image-url": "https://i.ytimg.com/vi/u5UsEpU16Lw/maxresdefault.jpg",
+        "original-title": "Ameriflight LLC",
+        "description": "<img class=\"settled-cases-img\" src=\"https://i.ytimg.com/vi/u5UsEpU16Lw/maxresdefault.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.301791,
+          47.535896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ASC Profiles, Inc.",
+        "address": "2141 Milwaukee Way, Tacoma, WA 98421",
+        "waterway": "Puyallup River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "2141",
+        "street": "Milwaukee Way",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98421",
+        "country": "US",
+        "image-url": "https://image.slidesharecdn.com/ascskylineinstallationmanual-140512175607-phpapp02/95/asc-skyline-roofing-installation-manual-16-638.jpg?cb\\u003d1399917479",
+        "original-title": "ASC Profiles, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"https://image.slidesharecdn.com/ascskylineinstallationmanual-140512175607-phpapp02/95/asc-skyline-roofing-installation-manual-16-638.jpg?cb\\u003d1399917479\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.400762,
+          47.249636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ballard Marine, Inc.",
+        "address": "801 42nd St NW, Seattle WA 98107",
+        "waterway": "Lake Washington Ship Canal",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "801",
+        "street": "NW 42nd St",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98107",
+        "country": "US",
+        "image-url": "http://c8.alamy.com/comp/F1KXPP/old-wooden-boat-built-by-carl-nordsrom-and-marine-ballard-in-seattle-F1KXPP.jpg",
+        "original-title": "Ballard Marine, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/F1KXPP/old-wooden-boat-built-by-carl-nordsrom-and-marine-ballard-in-seattle-F1KXPP.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington Ship Canal</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.365593,
+          47.657631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beall Corporation",
+        "address": "7210 S. 224th St., Kent, WA 98032",
+        "waterway": "Green River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "7210",
+        "street": "S 224th St",
+        "city": "Kent",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98032",
+        "country": "US",
+        "image-url": "https://i.pinimg.com/236x/85/dc/be/85dcbe586a7e3d9cbe9423b91d31f395--puget-seattle.jpg",
+        "original-title": "Beall Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"https://i.pinimg.com/236x/85/dc/be/85dcbe586a7e3d9cbe9423b91d31f395--puget-seattle.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.245554,
+          47.401402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bellingham (Port of) - Bellingham Intl Airport, Bellingham Cruise Terminal, Port's Maintenance Shop",
+        "address": "355 Harris Ave, 4255 Mitchell Way, 619 Cornwall Ave, Bellingham, WA",
+        "waterway": "Bellingham Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "355",
+        "street": "Harris Ave",
+        "city": "Bellingham",
+        "state": "WA",
+        "county": "Whatcom County",
+        "zip": "98225",
+        "country": "US",
+        "image-url": "https://image.isu.pub/130806145438-9e7416c2e8054efeaeee29e1c1a3f769/jpg/page_1.jpg",
+        "original-title": "Bellingham (Port of) - Bellingham Intl Airport, Bellingham Cruise Terminal, Port's Maintenance Shop",
+        "description": "<img class=\"settled-cases-img\" src=\"https://image.isu.pub/130806145438-9e7416c2e8054efeaeee29e1c1a3f769/jpg/page_1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.511997,
+          48.720275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bellingham Cold Storage",
+        "address": "2825 Roeder Ave, Bellingham, WA 98225-2053",
+        "waterway": "Bellingham Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "2825",
+        "street": "Roeder Ave",
+        "city": "Bellingham",
+        "state": "WA",
+        "county": "Whatcom County",
+        "zip": "98225",
+        "country": "US",
+        "image-url": "http://pacrim.byc.org/files/2013/10/BCS.jpg",
+        "original-title": "Bellingham Cold Storage",
+        "description": "<img class=\"settled-cases-img\" src=\"http://pacrim.byc.org/files/2013/10/BCS.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5058,
+          48.760009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Blake Island WWTP",
+        "address": "Blake Island, WA, 98366",
+        "waterway": "Yukon Harbor, Puget Sound",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.67",
+        "accuracy-type": "place",
+        "number": "",
+        "street": "",
+        "city": "Port Orchard",
+        "state": "WA",
+        "county": "Kitsap County",
+        "zip": "98366",
+        "country": "US",
+        "image-url": "http://www.gonorthwest.com/Washington/puget/Blake_Island/images/BlakeIsland_452x290.jpg",
+        "original-title": "Blake Island WWTP",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.gonorthwest.com/Washington/puget/Blake_Island/images/BlakeIsland_452x290.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Yukon Harbor, Puget Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.49296,
+          47.538044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "BNSF Railway",
+        "address": "",
+        "waterway": "Statewide",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0",
+        "accuracy-type": "",
+        "number": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "zip": "",
+        "country": "",
+        "image-url": "http://www.american-rails.com/images/Edmonds4459RINER.jpg",
+        "original-title": "BNSF Railway",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.american-rails.com/images/Edmonds4459RINER.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Statewide</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "BNSF Railway Company (Balmer Yard)",
+        "address": "3600 Gilman Ave W, Seattle, WA 98199",
+        "waterway": "Elliott Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "3600",
+        "street": "Gilman Ave W",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98199",
+        "country": "US",
+        "image-url": "http://2.bp.blogspot.com/-dsxgbYsSnEA/TavFmFQh7YI/AAAAAAAAA3Y/_4fJ_TF41BQ/s1600/Seattle_Trains+015.JPG",
+        "original-title": "BNSF Railway Company (Balmer Yard)",
+        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-dsxgbYsSnEA/TavFmFQh7YI/AAAAAAAAA3Y/_4fJ_TF41BQ/s1600/Seattle_Trains+015.JPG\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.386293,
+          47.655572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bornstein Seafoods, Inc.",
+        "address": "1001 Hilton Ave, Bellingham, WA 98225-2908",
+        "waterway": "Bellingham Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1001",
+        "street": "Hilton Ave",
+        "city": "Bellingham",
+        "state": "WA",
+        "county": "Whatcom County",
+        "zip": "98225",
+        "country": "US",
+        "image-url": "http://www.fishchoice.com/sites/default/files/styles/profile_page/public/supplier_logos/BornsteinSeafoodsInc_Logo.gif?itok=NBoPX7H1",
+        "original-title": "Bornstein Seafoods, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.fishchoice.com/sites/default/files/styles/profile_page/public/supplier_logos/BornsteinSeafoodsInc_Logo.gif?itok=NBoPX7H1\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.491894,
+          48.755209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Boyer Logistics, Inc.",
+        "address": "7318 4TH AVE S, Seattle, WA 98108",
+        "waterway": "Duwamish Waterway",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system in 2011.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "7318",
+        "street": "4th Ave S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98108",
+        "country": "US",
+        "image-url": "http://www.boyertowing.com/index_files/image6451.jpg",
+        "original-title": "Boyer Logistics, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.boyertowing.com/index_files/image6451.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish Waterway</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.328986,
+          47.536936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "BP West Coast Products LLC",
+        "address": "1652 SW Lander Street, Seattle WA 98134",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1652",
+        "street": "S Lander St",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98144",
+        "country": "US",
+        "image-url": "https://1.bp.blogspot.com/-QojmIF1uvT0/V_3LNCmQqDI/AAAAAAAAnLY/V4fUO8A-dUMHM2PgL1qs6CXN-2lhzYcBgCLcB/s1600/ww_wssfc.99.0000.gif",
+        "original-title": "BP West Coast Products LLC",
+        "description": "<img class=\"settled-cases-img\" src=\"https://1.bp.blogspot.com/-QojmIF1uvT0/V_3LNCmQqDI/AAAAAAAAnLY/V4fUO8A-dUMHM2PgL1qs6CXN-2lhzYcBgCLcB/s1600/ww_wssfc.99.0000.gif\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311629,
+          47.579616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bremerton (City of)",
+        "address": "Bremerton, WA",
+        "waterway": "Sinclair Inlet, Dyes Inlet",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Over 17 years, City overhauled combined sewer overflow (CSO) control systems - resulting in reopening shellfish beds in Dyes Inlet to harvest. City achieved a 90% reduction in CSO events by 2000 at a cost of $18 Million.  By 2004, the City achieved a 97% reduction of CSO events for an additional $14.7 Million.  Since, the City has spent an additional $19.2 Million to reduce the remaining 3% of CSO events to the regulatory limit and to build in extra system capacity.  To date, the City has spent a total of $50 Million on CSO program improvements.",
+        "accuracy-score": "1",
+        "accuracy-type": "place",
+        "number": "",
+        "street": "",
+        "city": "Bremerton",
+        "state": "WA",
+        "county": "Kitsap County",
+        "zip": "98310",
+        "country": "US",
+        "image-url": "http://upload.wikimedia.org/wikipedia/commons/5/58/Aerial_view_of_Bremerton_2.jpg",
+        "original-title": "Bremerton (City of)",
+        "description": "<img class=\"settled-cases-img\" src=\"http://upload.wikimedia.org/wikipedia/commons/5/58/Aerial_view_of_Bremerton_2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Sinclair Inlet, Dyes Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Over 17 years, City overhauled combined sewer overflow (CSO) control systems - resulting in reopening shellfish beds in Dyes Inlet to harvest. City achieved a 90% reduction in CSO events by 2000 at a cost of $18 Million.  By 2004, the City achieved a 97% reduction of CSO events for an additional $14.7 Million.  Since, the City has spent an additional $19.2 Million to reduce the remaining 3% of CSO events to the regulatory limit and to build in extra system capacity.  To date, the City has spent a total of $50 Million on CSO program improvements.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.634712,
+          47.606478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brown-Minneapolis Tank Northwest, LLC",
+        "address": "1218 W Bay Dr. NW, Olympia, WA 98502",
+        "waterway": "West Bay (Olympia)",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1218",
+        "street": "W Bay Dr NW",
+        "city": "Olympia",
+        "state": "WA",
+        "county": "Thurston County",
+        "zip": "98502",
+        "country": "US",
+        "image-url": "https://st.hzcdn.com/fimgs/f821da6d086f4be9_8945-w342-h200-b0-p0--rustic-home-theater.jpg",
+        "original-title": "Brown-Minneapolis Tank Northwest, LLC",
+        "description": "<img class=\"settled-cases-img\" src=\"https://st.hzcdn.com/fimgs/f821da6d086f4be9_8945-w342-h200-b0-p0--rustic-home-theater.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>West Bay (Olympia)</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.914273,
+          47.057234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Buse Timber Sales, Inc.",
+        "address": "3812 28th Place NE, Everett WA 98201",
+        "waterway": "Union Slough, Snohomish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "3812",
+        "street": "28th Pl NE",
+        "city": "Everett",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98201",
+        "country": "US",
+        "image-url": "https://assets.bizjournals.com/story_image/211034*500.jpg?v=2",
+        "original-title": "Buse Timber Sales, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"https://assets.bizjournals.com/story_image/211034*500.jpg?v=2\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Union Slough, Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18069,
+          48.022497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cadman (Seattle) Inc. & Tilbury Cement Co.",
+        "address": "5225 E. Marginal Way, Seattle, WA 98134",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.8",
+        "accuracy-type": "range_interpolation",
+        "number": "5225",
+        "street": "W Marginal Way",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98134",
+        "country": "US",
+        "image-url": "",
+        "original-title": "Cadman (Seattle) Inc. & Tilbury Cement Co.",
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337921,
+          47.555592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canfor USA Corp",
+        "address": "4395 Curtis Rd, Bellingham, WA 98226",
+        "waterway": "Bellingham Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "4395",
+        "street": "Curtis Rd",
+        "city": "Bellingham",
+        "state": "WA",
+        "county": "Whatcom County",
+        "zip": "98226",
+        "country": "US",
+        "image-url": "http://www.canfor.com/img/skin/bg/rich-history/canfor-corporation.jpg",
+        "original-title": "Canfor USA Corp",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.canfor.com/img/skin/bg/rich-history/canfor-corporation.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.562695,
+          48.800242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canyon Lumber Co, Inc",
+        "address": "3821 26th Place, Everett, WA 98201",
+        "waterway": "Snohomish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "3821",
+        "street": "26th Pl",
+        "city": "Everett",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98201",
+        "country": "US",
+        "image-url": "http://historiceverett.org/walkingtour/RSIDEpics/Canyon_Lumber_Co_Planing_Table_Showing_Pony_Air_Lift_Trimming.jpg",
+        "original-title": "Canyon Lumber Co, Inc",
+        "description": "<img class=\"settled-cases-img\" src=\"http://historiceverett.org/walkingtour/RSIDEpics/Canyon_Lumber_Co_Planing_Table_Showing_Pony_Air_Lift_Trimming.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.175566,
+          47.982514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cedar Grove Composting, Inc. Everett",
+        "address": "3620 36th Place NE, Everett, WA 98205",
+        "waterway": "Snohomish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed bioswale with treatment media in 2011.",
+        "accuracy-score": "0.8",
+        "accuracy-type": "street_center",
+        "number": "",
+        "street": "36th Pl NE",
+        "city": "Everett",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98205",
+        "country": "US",
+        "image-url": "http://3.bp.blogspot.com/-JvsqoTKJ4b8/TlVxUwqQvlI/AAAAAAAAAX4/b_DR4JfVRpc/s1600/Stop+the+Stench+side+1.jpg",
+        "original-title": "Cedar Grove Composting, Inc. Everett",
+        "description": "<img class=\"settled-cases-img\" src=\"http://3.bp.blogspot.com/-JvsqoTKJ4b8/TlVxUwqQvlI/AAAAAAAAAX4/b_DR4JfVRpc/s1600/Stop+the+Stench+side+1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed bioswale with treatment media in 2011.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.186841,
+          48.029443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Certainteed Gypsum, Inc",
+        "address": "5931 E. Marginal Way S, Seattle WA 98131",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "5931",
+        "street": "E Marginal Way S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98134",
+        "country": "US",
+        "image-url": "https://d3fgmcoixbear.cloudfront.net/s3fs-public/341275.jpg",
+        "original-title": "Certainteed Gypsum, Inc",
+        "description": "<img class=\"settled-cases-img\" src=\"https://d3fgmcoixbear.cloudfront.net/s3fs-public/341275.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33505,
+          47.549531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "City of Tacoma (Industrial Pre- Treatment Program)",
+        "address": "\"North Plant\" at 4002 North Waterview St, Tacoma; \"Central Plant\" at 2201 Portland Ave, Tacoma",
+        "waterway": "Commencement Bay, Puyallup River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "City is in process of implementing sweeping improvements to industrial pre-treatment program.",
+        "accuracy-score": "1",
+        "accuracy-type": "place",
+        "number": "",
+        "street": "",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98401",
+        "country": "US",
+        "image-url": "http://www.cityoftacoma.org/UserFiles/Servers/Server_6/Image/PDS/Planning/LinksMap.jpg",
+        "original-title": "City of Tacoma (Industrial Pre- Treatment Program)",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.cityoftacoma.org/UserFiles/Servers/Server_6/Image/PDS/Planning/LinksMap.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Commencement Bay, Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>City is in process of implementing sweeping improvements to industrial pre-treatment program.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.444335,
+          47.253671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CityIce Cold Storage Company",
+        "address": "2001 W. Garfield Street, Seattle WA 98119",
+        "waterway": "Smith Cove, Elliott Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.8",
+        "accuracy-type": "range_interpolation",
+        "number": "2001",
+        "street": "W Garfield St",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98119",
+        "country": "US",
+        "image-url": "https://www.researchgate.net/profile/Merrick_Burden/publication/237259521/figure/fig5/AS:409763960639492@1474706749153/Figure-16-Hypothetical-Revenue-for-a-Large-Publicly-Available-Cold-Store-in-Astoria.png",
+        "original-title": "CityIce Cold Storage Company",
+        "description": "<img class=\"settled-cases-img\" src=\"https://www.researchgate.net/profile/Merrick_Burden/publication/237259521/figure/fig5/AS:409763960639492@1474706749153/Figure-16-Hypothetical-Revenue-for-a-Large-Publicly-Available-Cold-Store-in-Astoria.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Smith Cove, Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.380494,
+          47.633711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Coca-Cola Bottling Company",
+        "address": "1150 124th Ave NW, Bellevue, WA 98005",
+        "waterway": "Lake Washington Watershed",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1150",
+        "street": "124th Ave NE",
+        "city": "Bellevue",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98005",
+        "country": "US",
+        "image-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cameron_Coca_Cola_logo.svg/1200px-Cameron_Coca_Cola_logo.svg.png",
+        "original-title": "Coca-Cola Bottling Company",
+        "description": "<img class=\"settled-cases-img\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cameron_Coca_Cola_logo.svg/1200px-Cameron_Coca_Cola_logo.svg.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington Watershed</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.174847,
+          47.620056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CSR Marine",
+        "address": "4701 Shilshole Ave NW, Seattle, WA 98107",
+        "waterway": "Lake Washington Ship Canal",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system in 2011.",
+        "accuracy-score": "0.8",
+        "accuracy-type": "range_interpolation",
+        "number": "4701",
+        "street": "Shilshole Ave NW",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98107",
+        "country": "US",
+        "image-url": "https://csrmarine.com/wp-content/uploads/2017/02/yard-x3-1.jpg",
+        "original-title": "CSR Marine",
+        "description": "<img class=\"settled-cases-img\" src=\"https://csrmarine.com/wp-content/uploads/2017/02/yard-x3-1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington Ship Canal</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.381643,
+          47.664053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Darigold, Inc. Rainier Ave Plant",
+        "address": "4058 Rainier Avenue South, Seattle, WA 98118",
+        "waterway": "Lake Washington",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "4058",
+        "street": "Rainier Ave S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98118",
+        "country": "US",
+        "image-url": "http://media.bizj.us/view/img/7352832/strategies-darigold-04-headquarters-rgb*1200xx4860-2734-0-244.jpg",
+        "original-title": "Darigold, Inc. Rainier Ave Plant",
+        "description": "<img class=\"settled-cases-img\" src=\"http://media.bizj.us/view/img/7352832/strategies-darigold-04-headquarters-rgb*1200xx4860-2734-0-244.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.288805,
+          47.566862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Davis Wire Corporation",
+        "address": "19411 80th Avenue South  Kent, WA 98032-1190",
+        "waterway": "Green River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system in 2012.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "19411",
+        "street": "80th Ave S",
+        "city": "Kent",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98032",
+        "country": "US",
+        "image-url": "http://2.bp.blogspot.com/-zV0KSgsOotE/UAhY2pFjKTI/AAAAAAAADHI/doZ-Xstjtcs/s400/davis+wire+rally.jpg",
+        "original-title": "Davis Wire Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-zV0KSgsOotE/UAhY2pFjKTI/AAAAAAAADHI/doZ-Xstjtcs/s400/davis+wire+rally.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2012.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.233056,
+          47.441032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dunato's Marine Services",
+        "address": "2309 N. Northlake Way, Seattle, WA 98103",
+        "waterway": "Lake Union",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "2309",
+        "street": "N Northlake Way",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98103",
+        "country": "US",
+        "image-url": "http://www.nwboatinfo.com/WPMG-NW-Boating-Info-Banner-Ads-300-250-2016-SERVICE.jpg",
+        "original-title": "Dunato's Marine Services",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.nwboatinfo.com/WPMG-NW-Boating-Info-Banner-Ads-300-250-2016-SERVICE.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Union</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332098,
+          47.648622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Duwamish Shipyard Inc",
+        "address": "5658 W. Marginal Way, Seattle WA 98106",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.9",
+        "accuracy-type": "range_interpolation",
+        "number": "5658",
+        "street": "W Marginal Way SW",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98106",
+        "country": "US",
+        "image-url": "https://assets.bizjournals.com/story_image/76192*750.jpg?v=2",
+        "original-title": "Duwamish Shipyard Inc",
+        "description": "<img class=\"settled-cases-img\" src=\"https://assets.bizjournals.com/story_image/76192*750.jpg?v=2\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.346235,
+          47.551934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eastside Masonry Products Monroe",
+        "address": "13800 Fryelands Blvd SE, Monroe, WA 98272",
+        "waterway": "French Creek, Snohomish River, Lake Tye",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.9",
+        "accuracy-type": "range_interpolation",
+        "number": "13800",
+        "street": "Fryelands Blvd",
+        "city": "Monroe",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98272",
+        "country": "US",
+        "image-url": "https://media.bizj.us/view/img/7142542/seattle-construction-01-rgb*750xx4848-2738-0-298.jpg",
+        "original-title": "Eastside Masonry Products Monroe",
+        "description": "<img class=\"settled-cases-img\" src=\"https://media.bizj.us/view/img/7142542/seattle-construction-01-rgb*750xx4848-2738-0-298.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>French Creek, Snohomish River, Lake Tye</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.008,
+          47.872345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Evergreen Trails Inc",
+        "address": "4500 W. Marginal Way SW, Seattle, WA 98106",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "4500",
+        "street": "W Marginal Way SW",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98106",
+        "country": "US",
+        "image-url": "http://www.thurstontalk.com/wp-content/uploads/2015/08/evergreen-trail.png",
+        "original-title": "Evergreen Trails Inc",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.thurstontalk.com/wp-content/uploads/2015/08/evergreen-trail.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.352183,
+          47.563097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Federal Express Corporation",
+        "address": "22028 26th Ave SE, Bothel, WA 98021",
+        "waterway": "Lake Washington",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "22028",
+        "street": "26th Ave SE",
+        "city": "Bothell",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98021",
+        "country": "US",
+        "image-url": "http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg",
+        "original-title": "Federal Express Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.198882,
+          47.799046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Federal Express Corporation",
+        "address": "6633 S. 216th Street, Kent, WA 98032",
+        "waterway": "Green Duwamish Watershed",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "6633",
+        "street": "S 216th St",
+        "city": "Kent",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98032",
+        "country": "US",
+        "image-url": "http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg",
+        "original-title": "Federal Express Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green Duwamish Watershed</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.249703,
+          47.40839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Federal Express Corporation",
+        "address": "5634 Imperial Way SW, Port Orchard, WA 98367",
+        "waterway": "Sinclair Inlet",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "5634",
+        "street": "Imperial Way SW",
+        "city": "Port Orchard",
+        "state": "WA",
+        "county": "Kitsap County",
+        "zip": "98367",
+        "country": "US",
+        "image-url": "http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg",
+        "original-title": "Federal Express Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Sinclair Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.766066,
+          47.494459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Federal Express Corporation",
+        "address": "2503 Frank Albert Road Bldg. #1, Tacoma, WA 98424",
+        "waterway": "Puyallup River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "2503",
+        "street": "Frank Albert Rd",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98424",
+        "country": "US",
+        "image-url": "http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg",
+        "original-title": "Federal Express Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.367251,
+          47.232795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Federal Express Corporation",
+        "address": "1180 Airport Drive, Burlington, WA 98233",
+        "waterway": "Padilla Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.8",
+        "accuracy-type": "street_center",
+        "number": "",
+        "street": "Airport Dr",
+        "city": "Burlington",
+        "state": "WA",
+        "county": "Skagit County",
+        "zip": "98233",
+        "country": "US",
+        "image-url": "http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg",
+        "original-title": "Federal Express Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"http://2.bp.blogspot.com/-_S22g3-AnjU/VSlC7KM56SI/AAAAAAAABVc/n74DM8fPGy8/s1600/N118FE%2BFederal%2BExpress%2BDelivered.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Padilla Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415027,
+          48.473518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ferndale (City of)",
+        "address": "Ferndale, WA",
+        "waterway": "Nooksack River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "place",
+        "number": "",
+        "street": "",
+        "city": "Ferndale",
+        "state": "WA",
+        "county": "Whatcom County",
+        "zip": "98248",
+        "country": "US",
+        "image-url": "http://c8.alamy.com/comp/BGFKDM/oil-refinery-located-on-puget-sound-near-the-city-of-ferndale-washington-BGFKDM.jpg",
+        "original-title": "Ferndale (City of)",
+        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/BGFKDM/oil-refinery-located-on-puget-sound-near-the-city-of-ferndale-washington-BGFKDM.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Nooksack River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.608561,
+          48.861113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fibrex Corporation",
+        "address": "401 E. Sharon Ave, Burlington, WA 98233",
+        "waterway": "Skagit River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.8",
+        "accuracy-type": "street_center",
+        "number": "",
+        "street": "E Sharon Ave",
+        "city": "Burlington",
+        "state": "WA",
+        "county": "Skagit County",
+        "zip": "98233",
+        "country": "US",
+        "image-url": "https://s-media-cache-ak0.pinimg.com/originals/0d/2a/59/0d2a59ae7c9604f8319601b109003bad.jpg",
+        "original-title": "Fibrex Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"https://s-media-cache-ak0.pinimg.com/originals/0d/2a/59/0d2a59ae7c9604f8319601b109003bad.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Skagit River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.327842,
+          48.469767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fisherman Bay WWT Facility",
+        "address": "420 Lopez Road North, Lopez Island, WA 98261",
+        "waterway": "Fisherman Bay, Puget Sound",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "420",
+        "street": "Lopez Rd",
+        "city": "Lopez",
+        "state": "WA",
+        "county": "San Juan County",
+        "zip": "98261",
+        "country": "US",
+        "image-url": "http://threesheetsnw.com/files/2009/08/FishBayView.JPG",
+        "original-title": "Fisherman Bay WWT Facility",
+        "description": "<img class=\"settled-cases-img\" src=\"http://threesheetsnw.com/files/2009/08/FishBayView.JPG\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Fisherman Bay, Puget Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.912277,
+          48.542934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Friday Harbor WWTP",
+        "address": "375 Tucker Ave, San Juan Island, WA 58250",
+        "waterway": "Friday Harbor",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0",
+        "accuracy-type": "",
+        "number": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "zip": "",
+        "country": "",
+        "image-url": "http://c8.alamy.com/comp/B3Y57X/friday-harbor-marina-puget-sound-washington-B3Y57X.jpg",
+        "original-title": "Friday Harbor WWTP",
+        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/B3Y57X/friday-harbor-marina-puget-sound-washington-B3Y57X.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Friday Harbor</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Galvin Flying Services",
+        "address": "7149 Perimeter Rd, Seattle, WA 98108",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "7149",
+        "street": "Perimeter Rd S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98108",
+        "country": "US",
+        "image-url": "https://media.bizj.us/view/img/2012131/galvin-bought-02*750.jpg",
+        "original-title": "Galvin Flying Services",
+        "description": "<img class=\"settled-cases-img\" src=\"https://media.bizj.us/view/img/2012131/galvin-bought-02*750.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.305879,
+          47.539521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Goergia Pacific Corporation",
+        "address": "300 West Laurel Street, Bellingham, WA 98225",
+        "waterway": "Bellingham Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "300",
+        "street": "W Laurel St",
+        "city": "Bellingham",
+        "state": "WA",
+        "county": "Whatcom County",
+        "zip": "98225",
+        "country": "US",
+        "image-url": "",
+        "original-title": "Goergia Pacific Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.484428,
+          48.747917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "J.A. Jack & Sons, Inc.",
+        "address": "5427 Ohio Ave S, Seattle, WA 98134",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "5427",
+        "street": "Ohio Ave S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98134",
+        "country": "US",
+        "image-url": "",
+        "original-title": "J.A. Jack & Sons, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337401,
+          47.554307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "J.M. Martinac Shipbuilding Corporation",
+        "address": "401 East 15th Street, Tacoma, WA 98421",
+        "waterway": "Thea Foss Waterway, Commencement Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system in 2010.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "401",
+        "street": "E 15th St",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98421",
+        "country": "US",
+        "image-url": "http://www.pugetsoundmaritime.com/wp-content/uploads/2010/08/tlf004.jpg",
+        "original-title": "J.M. Martinac Shipbuilding Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.pugetsoundmaritime.com/wp-content/uploads/2010/08/tlf004.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2010.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.430568,
+          47.249097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jerstedt Lumber Co. Inc.",
+        "address": "6007 Guide Meridian Road, Bellingham, WA 98226",
+        "waterway": "Tenmile Creek, Nooksack River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.8",
+        "accuracy-type": "street_center",
+        "number": "",
+        "street": "Guide Meridian Rd",
+        "city": "Lynden",
+        "state": "WA",
+        "county": "Whatcom County",
+        "zip": "98264",
+        "country": "US",
+        "image-url": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/0dd/3fd/1828c90.jpg",
+        "original-title": "Jerstedt Lumber Co. Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/0dd/3fd/1828c90.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Tenmile Creek, Nooksack River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.485382,
+          48.939292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kent Meridian Disposal",
+        "address": "22010 76th Ave S, Kent, WA 98032",
+        "waterway": "Green River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed basic pretreatment measures in 2012.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "22010",
+        "street": "76th Ave S",
+        "city": "Kent",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98032",
+        "country": "US",
+        "image-url": "https://images1.apartments.com/i2/XxG9Dmkh2upFxAh8h08DTAe3RO4lKDUgM-NXBQ8AOO0/110/meridian-green-kent-wa-primary-photo.jpg",
+        "original-title": "Kent Meridian Disposal",
+        "description": "<img class=\"settled-cases-img\" src=\"https://images1.apartments.com/i2/XxG9Dmkh2upFxAh8h08DTAe3RO4lKDUgM-NXBQ8AOO0/110/meridian-green-kent-wa-primary-photo.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed basic pretreatment measures in 2012.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.238562,
+          47.409073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "King County International Airport",
+        "address": "7277 Perimeter Road South, Seattle, WA",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility constructed underground treatment vault and began using basic pretreatment measures in 2012.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "7277",
+        "street": "Perimeter Rd S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98108",
+        "country": "US",
+        "image-url": "https://media.bizj.us/view/img/10570461/signature-bfi-08-08-17*750xx1500-845-0-80.jpg",
+        "original-title": "King County International Airport",
+        "description": "<img class=\"settled-cases-img\" src=\"https://media.bizj.us/view/img/10570461/signature-bfi-08-08-17*750xx1500-845-0-80.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility constructed underground treatment vault and began using basic pretreatment measures in 2012.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.304364,
+          47.538381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Conner (Town of)",
+        "address": "La Conner, WA",
+        "waterway": "Skagit Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "place",
+        "number": "",
+        "street": "",
+        "city": "La Conner",
+        "state": "WA",
+        "county": "Skagit County",
+        "zip": "98257",
+        "country": "US",
+        "image-url": "http://l7.alamy.com/zooms/88b66938a9a34ad28a83b93d11d5e8b4/ajd53077-la-conner-wa-washington-puget-sound-san-juan-islands-fishing-ap8nhe.jpg",
+        "original-title": "La Conner (Town of)",
+        "description": "<img class=\"settled-cases-img\" src=\"http://l7.alamy.com/zooms/88b66938a9a34ad28a83b93d11d5e8b4/ajd53077-la-conner-wa-washington-puget-sound-san-juan-islands-fishing-ap8nhe.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Skagit Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.508364,
+          48.414123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Louis Dreyfus Commodities LLC - Pier 86",
+        "address": "Pier 86, 955 Alaskan Way W, Seattle WA",
+        "waterway": "Elliott Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "place",
+        "number": "",
+        "street": "",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98060",
+        "country": "US",
+        "image-url": "http://m.world-grain.com/-/media/ImagesNew/WorldGrain/Article-photos/2016/08/PugetSoundKeeper_ChrisWilke_executiveDirector_E.jpg?la=en&hash=B61D1C06897922857A524C6CC1E2760C25194443",
+        "original-title": "Louis Dreyfus Commodities LLC - Pier 86",
+        "description": "<img class=\"settled-cases-img\" src=\"http://m.world-grain.com/-/media/ImagesNew/WorldGrain/Article-photos/2016/08/PugetSoundKeeper_ChrisWilke_executiveDirector_E.jpg?la=en&hash=B61D1C06897922857A524C6CC1E2760C25194443\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.803388,
+          47.432251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Manke Lumber Company, Inc.",
+        "address": "321 East Mill Street, Shelton, WA 98584",
+        "waterway": "Oakland Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment facility improvements in 2012.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "321",
+        "street": "Mill St",
+        "city": "Shelton",
+        "state": "WA",
+        "county": "Mason County",
+        "zip": "98584",
+        "country": "US",
+        "image-url": "https://images.marinelink.com/images/maritime/w300h300c/-72041.jpg",
+        "original-title": "Manke Lumber Company, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"https://images.marinelink.com/images/maritime/w300h300c/-72041.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Oakland Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment facility improvements in 2012.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.098694,
+          47.206935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "McClean Iron Works",
+        "address": "2102 Ross Ave, Everett, WA 98201",
+        "waterway": "Snohomish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "2102",
+        "street": "Ross Ave",
+        "city": "Everett",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98201",
+        "country": "US",
+        "image-url": "",
+        "original-title": "McClean Iron Works",
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.178794,
+          48.014427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Meltec Division (Young Corporation)",
+        "address": "3444 13th Ave SW, Seattle, WA 98134",
+        "waterway": "Duwamish River, Elliott Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "3444",
+        "street": "13th Ave SW",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98134",
+        "country": "US",
+        "image-url": "https://4.bp.blogspot.com/-jWIENmlBMNI/WBOuz6fJBxI/AAAAAAAAAh4/RTGYcL33_TYXdjoUYUr26SDs0DWMe6RdwCLcB/s1600/Stetson%2Band%2BPost%2BSash%2Band%2BDoor%2BMill%2B1882.jpg",
+        "original-title": "Meltec Division (Young Corporation)",
+        "description": "<img class=\"settled-cases-img\" src=\"https://4.bp.blogspot.com/-jWIENmlBMNI/WBOuz6fJBxI/AAAAAAAAAh4/RTGYcL33_TYXdjoUYUr26SDs0DWMe6RdwCLcB/s1600/Stetson%2Band%2BPost%2BSash%2Band%2BDoor%2BMill%2B1882.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River, Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.352084,
+          47.572433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Metso Paper USA, Inc.",
+        "address": "34320 Pacific Hwy S, Federal Way, WA 98003",
+        "waterway": "Commencement Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system in 2011.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "34320",
+        "street": "Pacific Hwy S",
+        "city": "Federal Way",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98003",
+        "country": "US",
+        "image-url": "http://blogs.pugetsound.edu/pugetsoundbookartists/files/2016/06/MusingsOnNW_Flyer.jpg",
+        "original-title": "Metso Paper USA, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"http://blogs.pugetsound.edu/pugetsoundbookartists/files/2016/06/MusingsOnNW_Flyer.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315112,
+          47.294132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Milgard Manufacturing Inc",
+        "address": "910 54th Ave E, Fife, WA 98424",
+        "waterway": "Puyallup River, Commencement Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "910",
+        "street": "54th Ave E",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98424",
+        "country": "US",
+        "image-url": "https://www.milgard.com/sites/default/files/styles/page_element_sidebar_image/public/page-elements/install14_lowres.jpg?itok=IFr7PR59",
+        "original-title": "Milgard Manufacturing Inc",
+        "description": "<img class=\"settled-cases-img\" src=\"https://www.milgard.com/sites/default/files/styles/page_element_sidebar_image/public/page-elements/install14_lowres.jpg?itok=IFr7PR59\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.356976,
+          47.248043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nepa Pallet & Container Co, Inc.",
+        "address": "12027 68th Ave NE, Snohomish, WA 98290",
+        "waterway": "Snohomish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.9",
+        "accuracy-type": "range_interpolation",
+        "number": "12027",
+        "street": "68th St SE",
+        "city": "Snohomish",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98290",
+        "country": "US",
+        "image-url": "",
+        "original-title": "Nepa Pallet & Container Co, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.071208,
+          47.935002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "New West Gypsum USA Inc.",
+        "address": "1321 54th Ave E, Fife, WA 98424",
+        "waterway": "Wapato Creek, Commencement Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system in 2014.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1321",
+        "street": "54th Ave E",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98424",
+        "country": "US",
+        "image-url": "https://s3-media2.fl.yelpcdn.com/bphoto/FqKSSOzqF6gSetKBiB5vCw/ls.jpg",
+        "original-title": "New West Gypsum USA Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"https://s3-media2.fl.yelpcdn.com/bphoto/FqKSSOzqF6gSetKBiB5vCw/ls.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Wapato Creek, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2014.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3568,
+          47.244156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Bend (City of) STP",
+        "address": "400 North Bend Way, North Bend, WA 98045",
+        "waterway": "Snoqualmie River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.9",
+        "accuracy-type": "range_interpolation",
+        "number": "400",
+        "street": "E North Bend Way",
+        "city": "North Bend",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98045",
+        "country": "US",
+        "image-url": "http://www.gonorthwest.com/Washington/cascades/North-Bend/images/street_0178.JPG",
+        "original-title": "North Bend (City of) STP",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.gonorthwest.com/Washington/cascades/North-Bend/images/street_0178.JPG\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snoqualmie River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.783095,
+          47.494016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northland Services, Inc.",
+        "address": "6700 W Marginal Way SW, Seattle WA, 98106",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system in 2014.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "6700",
+        "street": "W Marginal Way SW",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98106",
+        "country": "US",
+        "image-url": "http://www.tugboatinformation.com/pictures/Kyle%20Stubbs43.jpg",
+        "original-title": "Northland Services, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.tugboatinformation.com/pictures/Kyle%20Stubbs43.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2014.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.343688,
+          47.541957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northwest Container Services Inc - T115",
+        "address": "6110 W. Marginal Way SW, Seattle, WA 98106",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "6110",
+        "street": "W Marginal Way SW",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98106",
+        "country": "US",
+        "image-url": "https://static.seattletimes.com/wp-content/uploads/2016/09/158073_hanjin195941-780x481.jpg",
+        "original-title": "Northwest Container Services Inc - T115",
+        "description": "<img class=\"settled-cases-img\" src=\"https://static.seattletimes.com/wp-content/uploads/2016/09/158073_hanjin195941-780x481.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.344999,
+          47.547451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northwest Forest Products",
+        "address": "1476 Thorne Rd, Tacoma, WA 98421",
+        "waterway": "Commencement Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1476",
+        "street": "Thorne Rd",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98421",
+        "country": "US",
+        "image-url": "http://www.washington.edu/uwired/outreach/cspn/Website/Images/Curriculum/Forest/Bull%20sm.jpg",
+        "original-title": "Northwest Forest Products",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.washington.edu/uwired/outreach/cspn/Website/Images/Curriculum/Forest/Bull%20sm.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.407808,
+          47.263457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northwest Recycling Inc.",
+        "address": "1419 C Street, Bellingham, WA 98225",
+        "waterway": "Whatcom Creek, Puget Sound",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system in 2009.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1419",
+        "street": "C St",
+        "city": "Bellingham",
+        "state": "WA",
+        "county": "Whatcom County",
+        "zip": "98225",
+        "country": "US",
+        "image-url": "http://www.elp.com/content/dam/elp/online-articles/2015/November/puget%20sound%20energy%20elp.jpg",
+        "original-title": "Northwest Recycling Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.elp.com/content/dam/elp/online-articles/2015/November/puget%20sound%20energy%20elp.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Whatcom Creek, Puget Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2009.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.484653,
+          48.754419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oberto Sausage Co",
+        "address": "7060 S. 238th St, Ken, WA 98032",
+        "waterway": "Green River Watershed",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "7060",
+        "street": "S 238th St",
+        "city": "Kent",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98032",
+        "country": "US",
+        "image-url": "https://static1.squarespace.com/static/577018179f7456eedf89c486/t/58d58d66be6594e2e0260c85/1503063783423/?format=1500w",
+        "original-title": "Oberto Sausage Co",
+        "description": "<img class=\"settled-cases-img\" src=\"https://static1.squarespace.com/static/577018179f7456eedf89c486/t/58d58d66be6594e2e0260c85/1503063783423/?format=1500w\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River Watershed</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.246102,
+          47.389078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ocean Beauty Seafoods",
+        "address": "1100 W. Ewing St, Seattle, WA 98107",
+        "waterway": "Lake Washington Ship Canal",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1100",
+        "street": "W Ewing St",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98119",
+        "country": "US",
+        "image-url": "http://www.fishchoice.com/sites/default/files/supplier_logos/OceanBeautySeafoodsLLC_logo.jpg",
+        "original-title": "Ocean Beauty Seafoods",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.fishchoice.com/sites/default/files/supplier_logos/OceanBeautySeafoodsLLC_logo.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington Ship Canal</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.371652,
+          47.655967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pacific Commercial Equipment",
+        "address": "4717 Bickford Ave, Snohomish, WA 9829",
+        "waterway": "Mosher Creek",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "4717",
+        "street": "Bickford Ave",
+        "city": "Snohomish",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98290",
+        "country": "US",
+        "image-url": "https://thumb1.shutterstock.com/display_pic_with_logo/99103/370828238/stock-photo-yellow-sailboat-reflection-westport-grays-harbor-county-puget-sound-washington-state-pacific-370828238.jpg",
+        "original-title": "Pacific Commercial Equipment",
+        "description": "<img class=\"settled-cases-img\" src=\"https://thumb1.shutterstock.com/display_pic_with_logo/99103/370828238/stock-photo-yellow-sailboat-reflection-westport-grays-harbor-county-puget-sound-washington-state-pacific-370828238.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Mosher Creek</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.118035,
+          47.953401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pacific Metallurgical, Inc.",
+        "address": "925 5th Ave South, Kent, WA 98032",
+        "waterway": "Green River Watershed",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "925",
+        "street": "5th Ave S",
+        "city": "Kent",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98032",
+        "country": "US",
+        "image-url": "https://i1.wp.com/www.skillsinc.com/wp-content/uploads/2014/07/ADA_e-postcard_accessible.jpg?resize=600%2C310&ssl=1",
+        "original-title": "Pacific Metallurgical, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"https://i1.wp.com/www.skillsinc.com/wp-content/uploads/2014/07/ADA_e-postcard_accessible.jpg?resize=600%2C310&ssl=1\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River Watershed</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.238792,
+          47.374636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pape Machinery Tacoma",
+        "address": "3607 20th Street East, Tacoma, WA 98424",
+        "waterway": "Puyallup River, Commencement Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system in 2011.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "3607",
+        "street": "20th St E",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98424",
+        "country": "US",
+        "image-url": "https://images1.apartments.com/i2/TwEJC_CjZKCqUixBCW48llW3q7S-tHKtzU5LS16fJNY/118/the-boulders-at-puget-sound-tacoma-wa-building-photo.jpg",
+        "original-title": "Pape Machinery Tacoma",
+        "description": "<img class=\"settled-cases-img\" src=\"https://images1.apartments.com/i2/TwEJC_CjZKCqUixBCW48llW3q7S-tHKtzU5LS16fJNY/118/the-boulders-at-puget-sound-tacoma-wa-building-photo.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.381585,
+          47.239195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Port Angeles Landfill",
+        "address": "3501 West 18th Street, Port Angeles, WA 98363",
+        "waterway": "Puget Sound (between Freshwater Bay and Port Angeles Harbor)",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.8",
+        "accuracy-type": "street_center",
+        "number": "",
+        "street": "Cemetary Rd",
+        "city": "Port Angeles",
+        "state": "WA",
+        "county": "Clallam County",
+        "zip": "98363",
+        "country": "US",
+        "image-url": "http://www.pnwbeachcombing.com/uploads/4/2/8/3/42837439/5190595.jpg?1455649498",
+        "original-title": "Port Angeles Landfill",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.pnwbeachcombing.com/uploads/4/2/8/3/42837439/5190595.jpg?1455649498\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puget Sound (between Freshwater Bay and Port Angeles Harbor)</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.482822,
+          48.119111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Port Blakely Communities (Issaquah Highlands)",
+        "address": "3046 Northeast Harrison Street, Issaquah, WA 98029",
+        "waterway": "Issaquah Creek, Lake Sammamish",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "3046",
+        "street": "NE Harrison St",
+        "city": "Issaquah",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98029",
+        "country": "US",
+        "image-url": "http://heartlandllc.com/wp-content/uploads/2016/08/Port-Blakely-Communities-Issaquah-Highlands.jpg",
+        "original-title": "Port Blakely Communities (Issaquah Highlands)",
+        "description": "<img class=\"settled-cases-img\" src=\"http://heartlandllc.com/wp-content/uploads/2016/08/Port-Blakely-Communities-Issaquah-Highlands.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Issaquah Creek, Lake Sammamish</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.99273,
+          47.545521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Port of Seattle & CTA (Pier 91)",
+        "address": "Pier 91",
+        "waterway": "Elliott Bay",
+        "type": "Unpermitted",
+        "resolution": "Settled",
+        "details": "Facility is now contractually required to follow best management practices to prevent water pollution.",
+        "accuracy-score": "0",
+        "accuracy-type": "",
+        "number": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "zip": "",
+        "country": "",
+        "image-url": "",
+        "original-title": "Port of Seattle & CTA (Pier 91)",
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility is now contractually required to follow best management practices to prevent water pollution.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Port of Seattle (Pier 66)",
+        "address": "Pier 66, 2225 Alaskan Way, Seattle WA 98121",
+        "waterway": "Elliott Bay",
+        "type": "Unpermitted",
+        "resolution": "Settled",
+        "details": "Facility is now court ordered to follow best management practices to prevent water pollution.",
+        "accuracy-score": "1",
+        "accuracy-type": "place",
+        "number": "",
+        "street": "",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98121",
+        "country": "US",
+        "image-url": "http://c8.alamy.com/comp/FX19HF/port-of-seattle-along-puget-sound-view-from-waterfront-pier-panorama-FX19HF.jpg",
+        "original-title": "Port of Seattle (Pier 66)",
+        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/FX19HF/port-of-seattle-along-puget-sound-view-from-waterfront-pier-panorama-FX19HF.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility is now court ordered to follow best management practices to prevent water pollution.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.350581,
+          47.615192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Portac, Inc.",
+        "address": "4215 SR 509 N. Frontage Rd, Tacoma, WA 98421",
+        "waterway": "Commencement Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.33",
+        "accuracy-type": "place",
+        "number": "",
+        "street": "",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98421",
+        "country": "US",
+        "image-url": "http://epochsg.com/wp-content/uploads/2017/05/PSE_Cover.jpg",
+        "original-title": "Portac, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"http://epochsg.com/wp-content/uploads/2017/05/PSE_Cover.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.400133,
+          47.254021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Puget Sound Naval Shipyard (United States Navy)",
+        "address": "1400 Farragut Ave #850, Bremerton, WA 98314",
+        "waterway": "Sinclair Inlet",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1400",
+        "street": "Farragut Ave",
+        "city": "Bremerton",
+        "state": "WA",
+        "county": "Kitsap County",
+        "zip": "98312",
+        "country": "US",
+        "image-url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/US_Navy_101216-N-1638S-148_Sailors_and_Puget_Sound_Naval_Shipyard_and_Intermediate_Maintenance_Facility_workers_maneuver_the_aircraft_carrier_USS_N.jpg",
+        "original-title": "Puget Sound Naval Shipyard (United States Navy)",
+        "description": "<img class=\"settled-cases-img\" src=\"https://upload.wikimedia.org/wikipedia/commons/6/6a/US_Navy_101216-N-1638S-148_Sailors_and_Puget_Sound_Naval_Shipyard_and_Intermediate_Maintenance_Facility_workers_maneuver_the_aircraft_carrier_USS_N.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Sinclair Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.651743,
+          47.55854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rainier Petroleum - Colorado St",
+        "address": "3428 Colorado Ave S, Seattle, WA 98134",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "3428",
+        "street": "Colorado Ave S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98134",
+        "country": "US",
+        "image-url": "https://s-media-cache-ak0.pinimg.com/originals/d6/05/cd/d605cd694667a34c3fbe0d518e78a611.jpg",
+        "original-title": "Rainier Petroleum - Colorado St",
+        "description": "<img class=\"settled-cases-img\" src=\"https://s-media-cache-ak0.pinimg.com/originals/d6/05/cd/d605cd694667a34c3fbe0d518e78a611.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336939,
+          47.573388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rainier Petroleum - Pier 15",
+        "address": "1711 13th Ave SW, Seattle, WA 98134",
+        "waterway": "Elliott Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system and paved lube oil tank farm floor to protect against spills in 2016.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1711",
+        "street": "13th Ave SW",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98134",
+        "country": "US",
+        "image-url": "http://www.pugetsoundkeeper.org/wp-content/uploads/2016/01/Rainier-Pier-15-Tank-Farm.jpg",
+        "original-title": "Rainier Petroleum - Pier 15",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.pugetsoundkeeper.org/wp-content/uploads/2016/01/Rainier-Pier-15-Tank-Farm.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system and paved lube oil tank farm floor to protect against spills in 2016.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.352367,
+          47.586952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Recycling & Disposal Services Inc.",
+        "address": "4916 La Bounty Road, Ferndale, WA 98248-8925",
+        "waterway": "Nooksack River, Bellingham Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.33",
+        "accuracy-type": "place",
+        "number": "",
+        "street": "",
+        "city": "Ferndale",
+        "state": "WA",
+        "county": "Whatcom County",
+        "zip": "98248",
+        "country": "US",
+        "image-url": "",
+        "original-title": "Recycling & Disposal Services Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Nooksack River, Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.608561,
+          48.861113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Recycling Depot, Inc. (The)",
+        "address": "851 Rainier Ave S, Seattle, WA 98144",
+        "waterway": "Elliott Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "851",
+        "street": "Rainier Ave S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98144",
+        "country": "US",
+        "image-url": "https://s3-media2.fl.yelpcdn.com/bphoto/20yAPjoCRECTj-Uek752aQ/o.jpg",
+        "original-title": "Recycling Depot, Inc. (The)",
+        "description": "<img class=\"settled-cases-img\" src=\"https://s3-media2.fl.yelpcdn.com/bphoto/20yAPjoCRECTj-Uek752aQ/o.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311252,
+          47.595019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rosario Resort WWT Facility (Oly Rose LLC)",
+        "address": "1400 Rosario Road, Eastsound, WA 98245",
+        "waterway": "Cascade Bay, East Sound",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1400",
+        "street": "Rosario Rd",
+        "city": "Eastsound",
+        "state": "WA",
+        "county": "San Juan County",
+        "zip": "98245",
+        "country": "US",
+        "image-url": "https://image.isu.pub/151120235742-94152b65d7b0a43862b26b8549c01f1a/jpg/page_1.jpg",
+        "original-title": "Rosario Resort WWT Facility (Oly Rose LLC)",
+        "description": "<img class=\"settled-cases-img\" src=\"https://image.isu.pub/151120235742-94152b65d7b0a43862b26b8549c01f1a/jpg/page_1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Cascade Bay, East Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.873285,
+          48.646183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "RSA Microtech, Inc.",
+        "address": "11915 Westar Lane, Burlington, WA 98233",
+        "waterway": "Padilla Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "11915",
+        "street": "Westar Ln",
+        "city": "Burlington",
+        "state": "WA",
+        "county": "Skagit County",
+        "zip": "98233",
+        "country": "US",
+        "image-url": "https://odis.homeaway.com/odis/listing/1b510381-4586-4881-928f-a77cf2244fa6.c10.jpg",
+        "original-title": "RSA Microtech, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"https://odis.homeaway.com/odis/listing/1b510381-4586-4881-928f-a77cf2244fa6.c10.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Padilla Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.407974,
+          48.472582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saint-Gobain Containers, Inc.",
+        "address": "5801 E Marginal Way S, Seattle, WA 98134",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "5801",
+        "street": "E Marginal Way S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98134",
+        "country": "US",
+        "image-url": "http://slideplayer.com/7408184/24/images/1/E2+skills+%26+competencies+certification.jpg",
+        "original-title": "Saint-Gobain Containers, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"http://slideplayer.com/7408184/24/images/1/E2+skills+%26+competencies+certification.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335779,
+          47.551052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Schneider Simpson Sheet Metal",
+        "address": "1551 South Tacoma Way, Tacoma, WA 98409",
+        "waterway": "Thea Foss Waterway, Commencement Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system in 2011.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1551",
+        "street": "S Tacoma Way",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98408",
+        "country": "US",
+        "image-url": "http://schneidersimpson.com/top.gif",
+        "original-title": "Schneider Simpson Sheet Metal",
+        "description": "<img class=\"settled-cases-img\" src=\"http://schneidersimpson.com/top.gif\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2011.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.455522,
+          47.231813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seattle (Port of) Marine Maintenance Facility",
+        "address": "25 S Horton St, Seattle, WA 98134",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "25",
+        "street": "S Horton St",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98134",
+        "country": "US",
+        "image-url": "https://s-media-cache-ak0.pinimg.com/originals/d4/e2/14/d4e21413b43e8b7c8f45a6f2a92d8c27.jpg",
+        "original-title": "Seattle (Port of) Marine Maintenance Facility",
+        "description": "<img class=\"settled-cases-img\" src=\"https://s-media-cache-ak0.pinimg.com/originals/d4/e2/14/d4e21413b43e8b7c8f45a6f2a92d8c27.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337873,
+          47.574234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shasta Beverages, Inc.",
+        "address": "1227 Andover Park E, Tukwila, WA 98188",
+        "waterway": "Green/ Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1227",
+        "street": "Andover Park E",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98188",
+        "country": "US",
+        "image-url": "https://s-media-cache-ak0.pinimg.com/originals/2b/7f/39/2b7f398420fab844a6ce299371104e2a.jpg",
+        "original-title": "Shasta Beverages, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"https://s-media-cache-ak0.pinimg.com/originals/2b/7f/39/2b7f398420fab844a6ce299371104e2a.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green/ Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.251197,
+          47.44395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shultz Distributing Inc.",
+        "address": "6851 E Marginal Way, Seattle, WA 98108",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.9",
+        "accuracy-type": "range_interpolation",
+        "number": "6851",
+        "street": "E Marginal Way S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98108",
+        "country": "US",
+        "image-url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/WA_koppen.svg",
+        "original-title": "Shultz Distributing Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"https://upload.wikimedia.org/wikipedia/commons/b/ba/WA_koppen.svg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32564,
+          47.54149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Skyline Electric & Manufacturing Co.",
+        "address": "3619 7th Ave S, Seattle, WA 98134",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "3619",
+        "street": "7th Ave S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98134",
+        "country": "US",
+        "image-url": "",
+        "original-title": "Skyline Electric & Manufacturing Co.",
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.324274,
+          47.571326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Snohomish (City of)",
+        "address": "Snohomish, WA",
+        "waterway": "Snohomish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "place",
+        "number": "",
+        "street": "",
+        "city": "Snohomish",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98290",
+        "country": "US",
+        "image-url": "http://homedest.com/wp-content/uploads/2014/02/Home-Street-2X-metro-map_Page_1.jpg",
+        "original-title": "Snohomish (City of)",
+        "description": "<img class=\"settled-cases-img\" src=\"http://homedest.com/wp-content/uploads/2014/02/Home-Street-2X-metro-map_Page_1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Snohomish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.014722,
+          47.954558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Snohomish County",
+        "address": "3000 Rockefeller Ave, Everett, WA 98201",
+        "waterway": "Possession Sound",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "3000",
+        "street": "Rockefeller Ave",
+        "city": "Everett",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98201",
+        "country": "US",
+        "image-url": "http://c8.alamy.com/comp/D75F95/sunset-over-the-puget-sound-at-picnic-point-county-park-snohomish-D75F95.jpg",
+        "original-title": "Snohomish County",
+        "description": "<img class=\"settled-cases-img\" src=\"http://c8.alamy.com/comp/D75F95/sunset-over-the-puget-sound-at-picnic-point-county-park-snohomish-D75F95.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Possession Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.205807,
+          47.977759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SOCCO, Inc.",
+        "address": "601A West Front Street, Sumas, WA 98295",
+        "waterway": "Nooksack River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "601 A",
+        "street": "W Front St",
+        "city": "Sumas",
+        "state": "WA",
+        "county": "Whatcom County",
+        "zip": "98295",
+        "country": "US",
+        "image-url": "https://goalwa.files.wordpress.com/2013/09/ups-vs-linfield-soccer-206.jpg",
+        "original-title": "SOCCO, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"https://goalwa.files.wordpress.com/2013/09/ups-vs-linfield-soccer-206.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Nooksack River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25725,
+          48.992587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spadoni Brothers, Inc.",
+        "address": "917 Pacific Ave, Suite 406, Tacoma, WA 98402",
+        "waterway": "Thea Foss Waterway",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "917",
+        "street": "Pacific Ave",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98402",
+        "country": "US",
+        "image-url": "http://1.bp.blogspot.com/-KFr8CM9zNdY/VCyDjBUbQcI/AAAAAAAABf0/1qeps_qOZMM/s1600/IMG_1844.jpg",
+        "original-title": "Spadoni Brothers, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"http://1.bp.blogspot.com/-KFr8CM9zNdY/VCyDjBUbQcI/AAAAAAAABf0/1qeps_qOZMM/s1600/IMG_1844.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438924,
+          47.25529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Steeler Inc",
+        "address": "10023 Martin Luther King Jr. Way S, Seattle, WA 98178",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system in 2016.",
+        "accuracy-score": "0.7",
+        "accuracy-type": "range_interpolation",
+        "number": "10023",
+        "street": "Martin Luther King Jr Way S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98178",
+        "country": "US",
+        "image-url": "http://www.thebluebook.com/webmount/docs/proview/517907/0-4.png",
+        "original-title": "Steeler Inc",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.thebluebook.com/webmount/docs/proview/517907/0-4.png\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2016.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.278608,
+          47.513288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stevedoring Services of America Terminals, Inc. aka T18",
+        "address": "2900 11th Way SW, Terminal 18, Seattle, WA 98134",
+        "waterway": "Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system in 2016.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "2900",
+        "street": "11th Pl SW",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98134",
+        "country": "US",
+        "image-url": "http://media.bizj.us/view/img/8516272/2474677568*1200xx5268-2963-0-139.jpg",
+        "original-title": "Stevedoring Services of America Terminals, Inc. aka T18",
+        "description": "<img class=\"settled-cases-img\" src=\"http://media.bizj.us/view/img/8516272/2474677568*1200xx5268-2963-0-139.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2016.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.348503,
+          47.573514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Streich Bros., Inc.",
+        "address": "1650 Marine View Drive, Tacoma, WA 98422",
+        "waterway": "Hylebos Waterway, Commencement Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1650",
+        "street": "Marine View Dr",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98422",
+        "country": "US",
+        "image-url": "http://maps.googleapis.com/maps/api/streetview?sensor=false&size=550x300&location=10727+A+Street+South%2C+Tacoma%2C+WA",
+        "original-title": "Streich Bros., Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"http://maps.googleapis.com/maps/api/streetview?sensor=false&size=550x300&location=10727+A+Street+South%2C+Tacoma%2C+WA\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Hylebos Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.388935,
+          47.280169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tacoma Asphalt Plant",
+        "address": "3210 Center Street, Tacoma WA 98409",
+        "waterway": "Hylebos Waterway",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed bioswale treatment system in 2010.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "3210",
+        "street": "Center St",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98409",
+        "country": "US",
+        "image-url": "http://depave.org/wp/wp-content/uploads/2014/03/PugetSound-TacomaMM-ERosewall7970.jpg",
+        "original-title": "Tacoma Asphalt Plant",
+        "description": "<img class=\"settled-cases-img\" src=\"http://depave.org/wp/wp-content/uploads/2014/03/PugetSound-TacomaMM-ERosewall7970.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Hylebos Waterway</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed bioswale treatment system in 2010.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47804,
+          47.232996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tacoma Metals Inc.",
+        "address": "1754 Thorne Rd, Tacoma, WA 98421",
+        "waterway": "Puyallup River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment system in 2010.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1754",
+        "street": "Thorne Rd",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98421",
+        "country": "US",
+        "image-url": "https://s3-media3.fl.yelpcdn.com/bphoto/90PJTS7lIPuSg8LuHFqbMw/ls.jpg",
+        "original-title": "Tacoma Metals Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"https://s3-media3.fl.yelpcdn.com/bphoto/90PJTS7lIPuSg8LuHFqbMw/ls.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment system in 2010.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.407629,
+          47.263175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Taylor Equipment and Machine Tool Corporation",
+        "address": "3215 SW Cougar Lane, Tumwater, WA 98512",
+        "waterway": "Budd Inlet",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.8",
+        "accuracy-type": "street_center",
+        "number": "",
+        "street": "Cougar Ln",
+        "city": "Toledo",
+        "state": "WA",
+        "county": "Lewis County",
+        "zip": "98591",
+        "country": "US",
+        "image-url": "https://4.bp.blogspot.com/-jWIENmlBMNI/WBOuz6fJBxI/AAAAAAAAAh4/RTGYcL33_TYXdjoUYUr26SDs0DWMe6RdwCLcB/s1600/Stetson%2Band%2BPost%2BSash%2Band%2BDoor%2BMill%2B1882.jpg",
+        "original-title": "Taylor Equipment and Machine Tool Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"https://4.bp.blogspot.com/-jWIENmlBMNI/WBOuz6fJBxI/AAAAAAAAAh4/RTGYcL33_TYXdjoUYUr26SDs0DWMe6RdwCLcB/s1600/Stetson%2Band%2BPost%2BSash%2Band%2BDoor%2BMill%2B1882.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Budd Inlet</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70643,
+          46.481454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Todd Pacific Shipyards Corporation",
+        "address": "16th Ave SW and SW Florida Street, Seattle, WA 98134",
+        "waterway": "Elliott Bay, Duwamish River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "intersection",
+        "number": "",
+        "street": "16th Ave SW",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98134",
+        "country": "US",
+        "image-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USS_Halyburton_FFG-40_under_construction.jpg/1200px-USS_Halyburton_FFG-40_under_construction.jpg",
+        "original-title": "Todd Pacific Shipyards Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USS_Halyburton_FFG-40_under_construction.jpg/1200px-USS_Halyburton_FFG-40_under_construction.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay, Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35416,
+          47.583788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Total Terminals International LLC aka T46",
+        "address": "401 Alaskan Way South, Terminal 46, Seattle WA 98104",
+        "waterway": "Elliott Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment in 2015.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "401",
+        "street": "Alaskan Way S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98104",
+        "country": "US",
+        "image-url": "http://media.bizj.us/view/img/10265725/img2369*xx.jpg",
+        "original-title": "Total Terminals International LLC aka T46",
+        "description": "<img class=\"settled-cases-img\" src=\"http://media.bizj.us/view/img/10265725/img2369*xx.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Elliott Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment in 2015.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335911,
+          47.599055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Trident Seafoods Corporation",
+        "address": "401 Alexander Ave, Tacoma, WA 98421",
+        "waterway": "Hylebos Waterway, Commencement Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility installed stormwater treatment systems in 2012.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "401",
+        "street": "Alexander Ave E",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98424",
+        "country": "US",
+        "image-url": "http://www.tridentseafoods.com/TridentWebsite/media/Trident/our%20story/plants/Plant-Anacortes.jpg",
+        "original-title": "Trident Seafoods Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.tridentseafoods.com/TridentWebsite/media/Trident/our%20story/plants/Plant-Anacortes.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Hylebos Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility installed stormwater treatment systems in 2012.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.372969,
+          47.253818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Trident Seafoods Corporation",
+        "address": "401 Alexander Ave, Building 592p 2425cd, Tacoma, WA 98421",
+        "waterway": "Hylebos Waterway, Commencement Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "401",
+        "street": "Alexander Ave E",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98424",
+        "country": "US",
+        "image-url": "http://www.tridentseafoods.com/TridentWebsite/media/Trident/our%20story/plants/Plant-Anacortes.jpg",
+        "original-title": "Trident Seafoods Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.tridentseafoods.com/TridentWebsite/media/Trident/our%20story/plants/Plant-Anacortes.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Hylebos Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.372969,
+          47.253818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Umbra Cuscinetti, Inc.",
+        "address": "2916 100th Street SW, #B, Everett, WA 98204",
+        "waterway": "Possession Sound",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "2916",
+        "street": "100th St SW",
+        "city": "Everett",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98204",
+        "country": "US",
+        "image-url": "https://myeverettnews.com/wp-content/uploads/2015/03/united-way-dinner-A.jpg",
+        "original-title": "Umbra Cuscinetti, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"https://myeverettnews.com/wp-content/uploads/2015/03/united-way-dinner-A.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Possession Sound</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.272853,
+          47.9075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Unocal Corporation",
+        "address": "516 East \"D\" Street, Tacoma, WA 98421",
+        "waterway": "Thea Foss Waterway, Commencement Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "516",
+        "street": "E D St",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98421",
+        "country": "US",
+        "image-url": "https://i1.wp.com/news.theregistryps.com/wp-content/uploads/2017/07/sterling-realty.jpg?fit=1358%2C1186&ssl=1",
+        "original-title": "Unocal Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"https://i1.wp.com/news.theregistryps.com/wp-content/uploads/2017/07/sterling-realty.jpg?fit=1358%2C1186&ssl=1\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434751,
+          47.26006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Urban Accessories, Inc",
+        "address": "465 East 15th Street, Tacoma, WA 98421",
+        "waterway": "Thea Foss Waterway, Commencement Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "465",
+        "street": "E 15th St",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98421",
+        "country": "US",
+        "image-url": "https://rlv.zcache.com/ferry_and_sailboats_in_the_puget_sound_jigsaw_puzzle-rdde9ac5811b94ea49cf9e9461347fdb8_amb07_8byvr_324.jpg",
+        "original-title": "Urban Accessories, Inc",
+        "description": "<img class=\"settled-cases-img\" src=\"https://rlv.zcache.com/ferry_and_sailboats_in_the_puget_sound_jigsaw_puzzle-rdde9ac5811b94ea49cf9e9461347fdb8_amb07_8byvr_324.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Thea Foss Waterway, Commencement Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43074,
+          47.249237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Veneer Chip Transport Inc",
+        "address": "2205 Pacific Highway E, Tacoma, WA 98424",
+        "waterway": "Puyallup River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "2205",
+        "street": "Pacific Hwy E",
+        "city": "Tacoma",
+        "state": "WA",
+        "county": "Pierce County",
+        "zip": "98424",
+        "country": "US",
+        "image-url": "http://kbkw.com/wp-content/uploads/2017/07/VCT-Truck.jpg",
+        "original-title": "Veneer Chip Transport Inc",
+        "description": "<img class=\"settled-cases-img\" src=\"http://kbkw.com/wp-content/uploads/2017/07/VCT-Truck.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Puyallup River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.398601,
+          47.243357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Warm Beach Christian Camps and Conference Center",
+        "address": "20800 Marine Drive, Stanwood, WA 98292",
+        "waterway": "Port Susan",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "20800",
+        "street": "Marine Dr",
+        "city": "Stanwood",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98292",
+        "country": "US",
+        "image-url": "https://www.warmbeach.com/images/stories/etv_campaign/240_canoe_environment.jpg",
+        "original-title": "Warm Beach Christian Camps and Conference Center",
+        "description": "<img class=\"settled-cases-img\" src=\"https://www.warmbeach.com/images/stories/etv_campaign/240_canoe_environment.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Port Susan</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.347034,
+          48.18452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Warm Beach Christian Camps and Conference Center",
+        "address": "20800 Marine Drive, Stanwood, WA 98292",
+        "waterway": "Port Susan",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "20800",
+        "street": "Marine Dr",
+        "city": "Stanwood",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98292",
+        "country": "US",
+        "image-url": "https://www.warmbeach.com/images/stories/etv_campaign/240_canoe_environment.jpg",
+        "original-title": "Warm Beach Christian Camps and Conference Center",
+        "description": "<img class=\"settled-cases-img\" src=\"https://www.warmbeach.com/images/stories/etv_campaign/240_canoe_environment.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Port Susan</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.347034,
+          48.18452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Western Pneumatic Tube Company",
+        "address": "835 6th Street South, Kirkland, WA 98033",
+        "waterway": "Moss Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "835",
+        "street": "6th St S",
+        "city": "Kirkland",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98033",
+        "country": "US",
+        "image-url": "https://media.bizj.us/view/img/6473972/p18priorsimon*750xx2000-1128-0-0.jpg",
+        "original-title": "Western Pneumatic Tube Company",
+        "description": "<img class=\"settled-cases-img\" src=\"https://media.bizj.us/view/img/6473972/p18priorsimon*750xx2000-1128-0-0.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Moss Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.196468,
+          47.673154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Whitley Manufacturing Co. Inc d.b.a. Whitley Evergreen",
+        "address": "14219 Smokey Point Blvd, Marysville, WA 98271",
+        "waterway": "Quilceda Creek, Hayho Creek, Snohomish River Estuary",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility voluntarily relinquished \"conditional no exposure\" (CNE), and obtained permit coverage (monitoring, controls).",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "14219",
+        "street": "Smokey Point Blvd",
+        "city": "Marysville",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98271",
+        "country": "US",
+        "image-url": "http://www.whitleyman.com/data/case_studies/case_studies1315400798-image.jpg",
+        "original-title": "Whitley Manufacturing Co. Inc d.b.a. Whitley Evergreen",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.whitleyman.com/data/case_studies/case_studies1315400798-image.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Quilceda Creek, Hayho Creek, Snohomish River Estuary</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility voluntarily relinquished \"conditional no exposure\" (CNE), and obtained permit coverage (monitoring, controls).</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.183931,
+          48.124964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "William Scotsman, Inc.",
+        "address": "14219 Smokey Point Blvd., Marysville, WA",
+        "waterway": "Quilceda Creek",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "Facility obtained \"conditional no exposure\" (CNE).",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "14219",
+        "street": "Smokey Point Blvd",
+        "city": "Marysville",
+        "state": "WA",
+        "county": "Snohomish County",
+        "zip": "98271",
+        "country": "US",
+        "image-url": "https://pbs.twimg.com/media/CT87LMiXAAAMf_8.jpg",
+        "original-title": "William Scotsman, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"https://pbs.twimg.com/media/CT87LMiXAAAMf_8.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Quilceda Creek</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained \"conditional no exposure\" (CNE).</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.183931,
+          48.124964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yacht Performance Center LLC",
+        "address": "915 NE Boat Street, Seattle, WA 98105",
+        "waterway": "Portage Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "915",
+        "street": "NE Boat St",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98105",
+        "country": "US",
+        "image-url": "https://images.boatdealers.ca/354070/10044312/puget-sound-boat-works-troller-crab.jpg",
+        "original-title": "Yacht Performance Center LLC",
+        "description": "<img class=\"settled-cases-img\" src=\"https://images.boatdealers.ca/354070/10044312/puget-sound-boat-works-troller-crab.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Portage Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.318559,
+          47.653839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yachtfish Marine, Inc.",
+        "address": "1141 Fairview Ave. N, Seattle, WA 98109",
+        "waterway": "Lake Union",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1141",
+        "street": "Fairview Ave N",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98109",
+        "country": "US",
+        "image-url": "http://yachtfishmarine.com/wp-content/uploads/Riva.jpg",
+        "original-title": "Yachtfish Marine, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"http://yachtfishmarine.com/wp-content/uploads/Riva.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Union</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330616,
+          47.629278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yamato Engine Specialists LTD",
+        "address": "2020 East Bakerview, Bellingham, WA 98226",
+        "waterway": "Bellingham Bay",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "2020",
+        "street": "E Bakerview Rd",
+        "city": "Bellingham",
+        "state": "WA",
+        "county": "Whatcom County",
+        "zip": "98226",
+        "country": "US",
+        "image-url": "http://www.ijnhonline.org/wp-content/uploads/2016/05/US_carriers_Bremerton_1929.jpg",
+        "original-title": "Yamato Engine Specialists LTD",
+        "description": "<img class=\"settled-cases-img\" src=\"http://www.ijnhonline.org/wp-content/uploads/2016/05/US_carriers_Bremerton_1929.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bellingham Bay</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453476,
+          48.789599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yarrow Bay Yacht Sales and Service LLC",
+        "address": "5207 Lake Washington Blvd. NW, Kirkland, WA 98033",
+        "waterway": "Lake Washington",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "5207",
+        "street": "Lake Washington Blvd NE",
+        "city": "Kirkland",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98033",
+        "country": "US",
+        "image-url": "https://image.isu.pub/170131220522-174ce932471a6ac9458c4c4b91790671/jpg/page_110.jpg",
+        "original-title": "Yarrow Bay Yacht Sales and Service LLC",
+        "description": "<img class=\"settled-cases-img\" src=\"https://image.isu.pub/170131220522-174ce932471a6ac9458c4c4b91790671/jpg/page_110.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.204525,
+          47.654006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Z Recyclers, Inc.",
+        "address": "6129 Guide Meridian Road, Lynden, WA 98264",
+        "waterway": "Nooksack River",
+        "type": "Violation",
+        "resolution": "Settled",
+        "details": "",
+        "accuracy-score": "0.8",
+        "accuracy-type": "street_center",
+        "number": "",
+        "street": "Guide Meridian Rd",
+        "city": "Lynden",
+        "state": "WA",
+        "county": "Whatcom County",
+        "zip": "98264",
+        "country": "US",
+        "image-url": "https://image.isu.pub/130307004752-8282d48a29e44c85a46b66df0b2af064/jpg/page_54.jpg",
+        "original-title": "Z Recyclers, Inc.",
+        "description": "<img class=\"settled-cases-img\" src=\"https://image.isu.pub/130307004752-8282d48a29e44c85a46b66df0b2af064/jpg/page_54.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Nooksack River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Violation</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Settled</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.485382,
+          48.939292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Aaron's Auto Wrecking",
+        "address": "10432 15th Ave SW Seattle WA 98146",
+        "waterway": "Duwamish River",
+        "type": "Unpermitted",
+        "resolution": "Success",
+        "details": "Facility obtained permit coverage.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "10432",
+        "street": "15th Ave SW",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98146",
+        "country": "US",
+        "image-url": "https://www.pugetsound.edu/files/pages/img_5942-2.jpg",
+        "original-title": "Aaron's Auto Wrecking",
+        "description": "<img class=\"settled-cases-img\" src=\"https://www.pugetsound.edu/files/pages/img_5942-2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.353607,
+          47.5097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alaska Logistics LLC",
+        "address": "7400 8th Ave S, Seattle WA 98108",
+        "waterway": "Duwamish River",
+        "type": "Unpermitted",
+        "resolution": "Success",
+        "details": "Facility obtained permit coverage.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "7400",
+        "street": "8th Ave S",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98108",
+        "country": "US",
+        "image-url": "https://media.bizj.us/view/img/4018631/alaska-airlines-flight-attendant*1024xx3624-2040-0-116.jpg",
+        "original-title": "Alaska Logistics LLC",
+        "description": "<img class=\"settled-cases-img\" src=\"https://media.bizj.us/view/img/4018631/alaska-airlines-flight-attendant*1024xx3624-2040-0-116.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Duwamish River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32243,
+          47.536744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Binford Metals LLC",
+        "address": "26133 78th Ave S Kent WA 98032",
+        "waterway": "Green River",
+        "type": "Unpermitted",
+        "resolution": "Success",
+        "details": "Facility obtained permit coverage.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "26133",
+        "street": "78th Ave S",
+        "city": "Kent",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98032",
+        "country": "US",
+        "image-url": "https://s3-media4.fl.yelpcdn.com/bphoto/mmYjGozVIBT9bMITiPJCfQ/ls.jpg",
+        "original-title": "Binford Metals LLC",
+        "description": "<img class=\"settled-cases-img\" src=\"https://s3-media4.fl.yelpcdn.com/bphoto/mmYjGozVIBT9bMITiPJCfQ/ls.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.236364,
+          47.367607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Budget Auto Wrecking",
+        "address": "26205 78th Ave S Kent WA 98032",
+        "waterway": "Green River",
+        "type": "Unpermitted",
+        "resolution": "Success",
+        "details": "Facility obtained permit coverage.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "26205",
+        "street": "78th Ave S",
+        "city": "Kent",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98032",
+        "country": "US",
+        "image-url": "https://s3-media2.fl.yelpcdn.com/bphoto/6BfIcVNx_0hSwcJn9jl2FA/ls.jpg",
+        "original-title": "Budget Auto Wrecking",
+        "description": "<img class=\"settled-cases-img\" src=\"https://s3-media2.fl.yelpcdn.com/bphoto/6BfIcVNx_0hSwcJn9jl2FA/ls.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.236774,
+          47.367141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Granite Precasting & Concrete Inc",
+        "address": "4116 Bakerview Spur Bellingham WA 98226",
+        "waterway": "Squalicum Creek",
+        "type": "Unpermitted",
+        "resolution": "Success",
+        "details": "Facility obtained permit coverage.",
+        "accuracy-score": "0.8",
+        "accuracy-type": "street_center",
+        "number": "",
+        "street": "W Bakerview Rd",
+        "city": "Bellingham",
+        "state": "WA",
+        "county": "Whatcom County",
+        "zip": "98226",
+        "country": "US",
+        "image-url": "",
+        "original-title": "Granite Precasting & Concrete Inc",
+        "description": "<img class=\"settled-cases-img\" src=\"\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Squalicum Creek</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.513706,
+          48.789815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Honcoop Trucking LLC",
+        "address": "8911 Guide Meridian Rd Lynden WA 98264",
+        "waterway": "Bertrand Creek",
+        "type": "Unpermitted",
+        "resolution": "Success",
+        "details": "Facility obtained permit coverage.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "8911",
+        "street": "Guide Meridian Rd",
+        "city": "Lynden",
+        "state": "WA",
+        "county": "Whatcom County",
+        "zip": "98264",
+        "country": "US",
+        "image-url": "https://image.isu.pub/151014002338-580d5c016e45475bb9321c3033be0bcd/jpg/page_1.jpg",
+        "original-title": "Honcoop Trucking LLC",
+        "description": "<img class=\"settled-cases-img\" src=\"https://image.isu.pub/151014002338-580d5c016e45475bb9321c3033be0bcd/jpg/page_1.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Bertrand Creek</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.485364,
+          48.964579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Scott Galvanizing",
+        "address": "1520 NW Leary Way, Seattle, WA 98107",
+        "waterway": "Lake Washington Ship Canal",
+        "type": "Unpermitted",
+        "resolution": "Success",
+        "details": "Facility obtained permit coverage.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "1520",
+        "street": "NW Leary Way",
+        "city": "Seattle",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98107",
+        "country": "US",
+        "image-url": "http://media.bizj.us/view/img/1203931/scott-galvinizing*500xx307-267-158-7.jpg",
+        "original-title": "Scott Galvanizing",
+        "description": "<img class=\"settled-cases-img\" src=\"http://media.bizj.us/view/img/1203931/scott-galvinizing*500xx307-267-158-7.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Lake Washington Ship Canal</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.378644,
+          47.663685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Transtar Metals Corporation",
+        "address": "20826 68th Ave S Kent WA 98032",
+        "waterway": "Green River",
+        "type": "Unpermitted",
+        "resolution": "Success",
+        "details": "Facility obtained permit coverage.",
+        "accuracy-score": "1",
+        "accuracy-type": "range_interpolation",
+        "number": "20826",
+        "street": "68th Ave S",
+        "city": "Kent",
+        "state": "WA",
+        "county": "King County",
+        "zip": "98032",
+        "country": "US",
+        "image-url": "http://psmwinc.com/assets/img/sliders/revolution/bg2.jpg",
+        "original-title": "Transtar Metals Corporation",
+        "description": "<img class=\"settled-cases-img\" src=\"http://psmwinc.com/assets/img/sliders/revolution/bg2.jpg\"><h3 class=\"settled-cases-waterway-header\">Waterway</h3><p>Green River</p><h3 class=\"settled-cases-type-header\">Type</h3><p>Unpermitted</p><h3 class=\"settled-cases-resolution-header\">Resolution</h3><p>Success</p><h3 class=\"settled-cases-details-header\">Details</h3><p>Facility obtained permit coverage.</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.249314,
+          47.420254
+        ]
+      }
+    }
+  ]
+}
