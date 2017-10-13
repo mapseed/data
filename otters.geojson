@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "PCB concentration: 114 ug/kg wet weight*  This location had the third highest concentration of PCBs in the Lower Duwamish Waterway (first 5 miles of river), almost 200 times the concentration from our least contaminated samples. *Note that we are still working with the data to estimate what these PCB levels in scat mean about PCB levels in the otters themselves. We cannot at this time conclude anything about river otter health."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34688723272706,
+          47.5691601970667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34435081481934,
+          47.55903644990131
+        ]
+      }
+    }
+  ]
+}
