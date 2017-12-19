@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Affinity Marina",
+        "marina-name": "Affinity Marina",
         "Address": "1329 N Northlake Way",
         "City": "Seattle",
         "State": "WA",
@@ -28,7 +28,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Anacortes Marina",
+        "marina-name": "Anacortes Marina",
         "Address": "2415 T Avenue - PO Box 846",
         "City": "Anacortes",
         "State": "WA",
@@ -52,7 +52,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Bell Harbor Marina, Port of Seattle",
+        "marina-name": "Bell Harbor Marina, Port of Seattle",
         "Address": "2203 Alaskan Way",
         "City": "Seattle",
         "State": "WA",
@@ -76,7 +76,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Blaine Harbor, Port of Bellingham",
+        "marina-name": "Blaine Harbor, Port of Bellingham",
         "Address": "235 Marine Dr",
         "City": "Blaine",
         "State": "WA",
@@ -100,7 +100,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Boat Street Marina",
+        "marina-name": "Boat Street Marina",
         "Address": "1101 NE Boat St",
         "City": "Seattle",
         "State": "WA",
@@ -124,7 +124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Breakwater Marina",
+        "marina-name": "Breakwater Marina",
         "Address": "5603 N Waterfront Drive",
         "City": "Tacoma",
         "State": "WA",
@@ -148,7 +148,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Bremerton Marina, Port of Bremerton",
+        "marina-name": "Bremerton Marina, Port of Bremerton",
         "Address": "8850 SW State Hwy 3",
         "City": "Bremerton",
         "State": "WA",
@@ -172,7 +172,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Bremerton Yacht Club",
+        "marina-name": "Bremerton Yacht Club",
         "Address": "2700 Yacht Haven Way",
         "City": "Bremerton",
         "State": "WA",
@@ -196,7 +196,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Cap Sante Boat Haven, Port of Anacortes",
+        "marina-name": "Cap Sante Boat Haven, Port of Anacortes",
         "Address": "1019 Q Ave # C",
         "City": "Anacortes",
         "State": "WA",
@@ -220,7 +220,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Carillon Point Marina",
+        "marina-name": "Carillon Point Marina",
         "Address": "4100 Carillon Point",
         "City": "Kirkland",
         "State": "WA",
@@ -244,7 +244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Community Boating Center",
+        "marina-name": "Community Boating Center",
         "Address": "",
         "City": "Bellingham",
         "State": "WA",
@@ -268,7 +268,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Chinook Landing Marina",
+        "marina-name": "Chinook Landing Marina",
         "Address": "3702 Marine View Drive NE",
         "City": "Tacoma",
         "State": "WA",
@@ -292,7 +292,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "City of Des Moines Marina",
+        "marina-name": "City of Des Moines Marina",
         "Address": "22307 Dock Ave",
         "City": "Seattle",
         "State": "WA",
@@ -316,7 +316,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Crescent Harbor Marina, Naval Air Station Whidbey Island",
+        "marina-name": "Crescent Harbor Marina, Naval Air Station Whidbey Island",
         "Address": "Seaplane Base, 150 W. Tulagi, Bldg # 2735",
         "City": "Oak Harbor",
         "State": "WA",
@@ -340,7 +340,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Deer Harbor Marina",
+        "marina-name": "Deer Harbor Marina",
         "Address": "5164 Deer Harbor Road",
         "City": "Deer Harbor",
         "State": "WA",
@@ -364,7 +364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Delin Docks",
+        "marina-name": "Delin Docks",
         "Address": "1616 E D Street",
         "City": "Tacoma",
         "State": "WA",
@@ -388,7 +388,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Dock Street Marina",
+        "marina-name": "Dock Street Marina",
         "Address": "1817 Dock Street",
         "City": "Tacoma",
         "State": "WA",
@@ -412,7 +412,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Eagle Harbor Marina",
+        "marina-name": "Eagle Harbor Marina",
         "Address": "5834 Ward Ave NE",
         "City": "Bainbridge Island",
         "State": "WA",
@@ -436,7 +436,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Elliott Bay Marina",
+        "marina-name": "Elliott Bay Marina",
         "Address": "2601 W Marina PL",
         "City": "Seattle",
         "State": "WA",
@@ -460,7 +460,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Fiddlehead Marina",
+        "marina-name": "Fiddlehead Marina",
         "Address": "",
         "City": "Olympia",
         "State": "WA",
@@ -484,7 +484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Fisherman’s Terminal, Port of Seattle",
+        "marina-name": "Fisherman’s Terminal, Port of Seattle",
         "Address": "3919 18th Ave W",
         "City": "Seattle",
         "State": "WA",
@@ -508,7 +508,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Foss Harbor Marina ",
+        "marina-name": "Foss Harbor Marina ",
         "Address": "821 Dock Street",
         "City": "Tacoma",
         "State": "WA",
@@ -532,7 +532,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Foss Landing Marina and Boat Storage",
+        "marina-name": "Foss Landing Marina and Boat Storage",
         "Address": "1940 E D Street",
         "City": "Tacoma",
         "State": "WA",
@@ -556,7 +556,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Fremont Boat Company",
+        "marina-name": "Fremont Boat Company",
         "Address": "1059 N Northlake Way",
         "City": "Seattle",
         "State": "WA",
@@ -580,7 +580,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Harbor Island Marina, Port of Seattle",
+        "marina-name": "Harbor Island Marina, Port of Seattle",
         "Address": "1001 Klickitat Way SW",
         "City": "Seattle",
         "State": "WA",
@@ -604,7 +604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Harbour Village Marina",
+        "marina-name": "Harbour Village Marina",
         "Address": "6155 NE 175th ST",
         "City": "Kenmore",
         "State": "WA",
@@ -628,7 +628,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Hell’s Canyon Marina",
+        "marina-name": "Hell’s Canyon Marina",
         "Address": "1550 Port Drive",
         "City": "Clarkston",
         "State": "WA",
@@ -652,7 +652,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "HomePort Marina",
+        "marina-name": "HomePort Marina",
         "Address": "308717 US-101",
         "City": "Brinnon",
         "State": "WA",
@@ -676,7 +676,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Hood Canal Marina",
+        "marina-name": "Hood Canal Marina",
         "Address": "E 5101 St R 106",
         "City": "Union",
         "State": "WA",
@@ -700,7 +700,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Islands Marine Center",
+        "marina-name": "Islands Marine Center",
         "Address": "2793 Fisherman Bay Road",
         "City": "Lopez",
         "State": "WA",
@@ -724,7 +724,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "LaConner Marina, Port of Skagit County",
+        "marina-name": "LaConner Marina, Port of Skagit County",
         "Address": "613 N Second St",
         "City": "La Conner",
         "State": "WA",
@@ -748,7 +748,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Lakeshore Marina (City of Chelan)",
+        "marina-name": "Lakeshore Marina (City of Chelan)",
         "Address": "409 W Manson Hwy",
         "City": "Chelan",
         "State": "WA",
@@ -772,7 +772,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Manson Bay Marina",
+        "marina-name": "Manson Bay Marina",
         "Address": "142 Pedoi Street",
         "City": "Manson",
         "State": "WA",
@@ -796,7 +796,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Narrows Marina Bait & Tackle",
+        "marina-name": "Narrows Marina Bait & Tackle",
         "Address": "9001 S 19th Street",
         "City": "Tacoma",
         "State": "WA",
@@ -820,7 +820,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Naval Station Everett, recreational marina",
+        "marina-name": "Naval Station Everett, recreational marina",
         "Address": "2000 W Marine View Dr",
         "City": "Everett",
         "State": "WA",
@@ -844,7 +844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Oak Harbor Marina",
+        "marina-name": "Oak Harbor Marina",
         "Address": "1401 SE Catalina Dr",
         "City": "Oak Harbor",
         "State": "WA",
@@ -868,7 +868,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Oakland Bay Marina, Port of Shelton ",
+        "marina-name": "Oakland Bay Marina, Port of Shelton ",
         "Address": "21 W Sanderson Way",
         "City": "Shelton",
         "State": "WA",
@@ -892,7 +892,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Olympia Yacht Club",
+        "marina-name": "Olympia Yacht Club",
         "Address": "201 Simmons St NW",
         "City": "Olympia",
         "State": "WA",
@@ -916,7 +916,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Peninsula Yacht Basin",
+        "marina-name": "Peninsula Yacht Basin",
         "Address": "8913 N. Harborview Drive",
         "City": "Gig Harbor",
         "State": "WA",
@@ -940,7 +940,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Pleasant Harbor Marina",
+        "marina-name": "Pleasant Harbor Marina",
         "Address": "308912 US Hwy 101",
         "City": "Brinnon",
         "State": "WA",
@@ -964,7 +964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Point Defiance Marina & Boathouse",
+        "marina-name": "Point Defiance Marina & Boathouse",
         "Address": "5912 N Waterfront DR",
         "City": "Tacoma",
         "State": "WA",
@@ -988,7 +988,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Point Hudson Marina, Port of Port Townsend",
+        "marina-name": "Point Hudson Marina, Port of Port Townsend",
         "Address": "PO Box 1180",
         "City": "Port Townsend",
         "State": "WA",
@@ -1012,7 +1012,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Port Hadlock Marina",
+        "marina-name": "Port Hadlock Marina",
         "Address": "310 Alcohol Loop Dr",
         "City": "Port Hadlock",
         "State": "WA",
@@ -1036,7 +1036,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Port Ludlow",
+        "marina-name": "Port Ludlow",
         "Address": "1 Gull Dr",
         "City": "Port Ludlow",
         "State": "WA",
@@ -1060,7 +1060,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Port of Bellingham Cruise Terminal moorage facility",
+        "marina-name": "Port of Bellingham Cruise Terminal moorage facility",
         "Address": "355 Harris Ave",
         "City": "Bellingham",
         "State": "WA",
@@ -1084,7 +1084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Port of Brownsville ",
+        "marina-name": "Port of Brownsville ",
         "Address": "9790 Ogle Rd NE #1",
         "City": "Bremerton",
         "State": "WA",
@@ -1108,7 +1108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Port of Camas – Washougal ",
+        "marina-name": "Port of Camas – Washougal ",
         "Address": "24 S A Street ",
         "City": "Washougal",
         "State": "WA",
@@ -1132,7 +1132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Port of Edmonds",
+        "marina-name": "Port of Edmonds",
         "Address": "336 Admiral Way",
         "City": "Edmonds",
         "State": "WA",
@@ -1156,7 +1156,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Port of Everett Marina",
+        "marina-name": "Port of Everett Marina",
         "Address": "1720 W Marine View Dr",
         "City": "Everett",
         "State": "WA",
@@ -1180,7 +1180,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Port of Everett, 12th Street Yacht Basin",
+        "marina-name": "Port of Everett, 12th Street Yacht Basin",
         "Address": "PO Box 538",
         "City": "Everett",
         "State": "WA",
@@ -1204,7 +1204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Port of Friday Harbor",
+        "marina-name": "Port of Friday Harbor",
         "Address": "204 Front Street",
         "City": "Friday Harbor",
         "State": "WA",
@@ -1228,7 +1228,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Port of Ilwaco ",
+        "marina-name": "Port of Ilwaco ",
         "Address": "165 Howerton Way",
         "City": "Ilwaco",
         "State": "WA",
@@ -1252,7 +1252,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Port of Kingston",
+        "marina-name": "Port of Kingston",
         "Address": "25864 Washington Blvd NE",
         "City": "Kingston",
         "State": "WA",
@@ -1276,7 +1276,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Port of Poulsbo Marina",
+        "marina-name": "Port of Poulsbo Marina",
         "Address": "18809 Front St NE",
         "City": "Poulsbo",
         "State": "WA",
@@ -1300,7 +1300,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Port of South Whidbey at Langley",
+        "marina-name": "Port of South Whidbey at Langley",
         "Address": "PO Box 1233",
         "City": "Langley",
         "State": "WA",
@@ -1324,7 +1324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Port Orchard Marina, Port of Bremerton",
+        "marina-name": "Port Orchard Marina, Port of Bremerton",
         "Address": "8850 SW State Hwy 3",
         "City": "Port Orchard",
         "State": "WA",
@@ -1348,7 +1348,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Port Townsend Boat Haven, Port of Port Townsend ",
+        "marina-name": "Port Townsend Boat Haven, Port of Port Townsend ",
         "Address": "PO Box 1180",
         "City": "Port Townsend",
         "State": "WA",
@@ -1372,7 +1372,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Roche Harbor Resort",
+        "marina-name": "Roche Harbor Resort",
         "Address": "248 Reuben Memorial Dr",
         "City": "Friday Harbor",
         "State": "WA",
@@ -1396,7 +1396,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Rosario Resort ",
+        "marina-name": "Rosario Resort ",
         "Address": "1400 Rosario Road",
         "City": "Eastsound",
         "State": "WA",
@@ -1420,7 +1420,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Sagstad Marina",
+        "marina-name": "Sagstad Marina",
         "Address": "5109 Shilshole Ave NW",
         "City": "Seattle",
         "State": "WA",
@@ -1444,7 +1444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Salmon Bay Marine Center",
+        "marina-name": "Salmon Bay Marine Center",
         "Address": "2284 W. Commodore Way #100",
         "City": "Seattle",
         "State": "WA",
@@ -1468,7 +1468,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Seattle Yacht Club",
+        "marina-name": "Seattle Yacht Club",
         "Address": "1807 E Hamlin St",
         "City": "Seattle",
         "State": "WA",
@@ -1492,7 +1492,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Shilshole Bay Marina, Port of Seattle",
+        "marina-name": "Shilshole Bay Marina, Port of Seattle",
         "Address": "7001 Seaview Ave NW #100",
         "City": "Seattle",
         "State": "WA",
@@ -1516,7 +1516,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Skyline Marine Center",
+        "marina-name": "Skyline Marine Center",
         "Address": "2011 Skyline Way",
         "City": "Anacortes",
         "State": "WA",
@@ -1540,7 +1540,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Spencer's Landing Marina",
+        "marina-name": "Spencer's Landing Marina",
         "Address": "156 Spencer's Landing Road",
         "City": "Lopez",
         "State": "WA",
@@ -1564,7 +1564,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Squalicum Harbor Marina, Port of Bellingham",
+        "marina-name": "Squalicum Harbor Marina, Port of Bellingham",
         "Address": "722 Coho Way",
         "City": "Bellingham",
         "State": "WA",
@@ -1588,7 +1588,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Stimson Marina",
+        "marina-name": "Stimson Marina",
         "Address": "5265 Shilshole Ave NW",
         "City": "Seattle",
         "State": "WA",
@@ -1612,7 +1612,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Swantown Marina, Port of Olympia",
+        "marina-name": "Swantown Marina, Port of Olympia",
         "Address": "1022 Marine Dr NE",
         "City": "Olympia",
         "State": "WA",
@@ -1636,7 +1636,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Tacoma Yacht Club",
+        "marina-name": "Tacoma Yacht Club",
         "Address": "5401 N Waterfront Dr",
         "City": "Tacoma",
         "State": "WA",
@@ -1660,7 +1660,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Westport Marina, Port of Grays Harbor",
+        "marina-name": "Westport Marina, Port of Grays Harbor",
         "Address": "PO Box 1601",
         "City": "Westport",
         "State": "WA",
@@ -1684,7 +1684,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Winslow Wharf Marina  ",
+        "marina-name": "Winslow Wharf Marina  ",
         "Address": "141 Parfitt Way SW ",
         "City": "Bainbridge Island",
         "State": "WA",
@@ -1708,7 +1708,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Marina Name": "Lake Chelan Yacht Club",
+        "marina-name": "Lake Chelan Yacht Club",
         "Address": "12220 S Lakeshore Rd",
         "City": "Chelan",
         "State": "WA",
