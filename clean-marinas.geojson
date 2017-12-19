@@ -1,0 +1,1733 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Affinity Marina",
+        "Address": "1329 N Northlake Way",
+        "City": "Seattle",
+        "State": "WA",
+        "Zipcode": 98103,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 1329,
+        "Street": "N Northlake Way",
+        "County": "King County",
+        "Zip": 98103,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.342423,
+          47.647911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Anacortes Marina",
+        "Address": "2415 T Avenue - PO Box 846",
+        "City": "Anacortes",
+        "State": "WA",
+        "Zipcode": 98221,
+        "Accuracy Score": 0.33,
+        "Accuracy Type": "place",
+        "Number": "",
+        "Street": "",
+        "County": "Skagit County",
+        "Zip": 98221,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.607111,
+          48.499172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Bell Harbor Marina, Port of Seattle",
+        "Address": "2203 Alaskan Way",
+        "City": "Seattle",
+        "State": "WA",
+        "Zipcode": 98121,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 2203,
+        "Street": "Alaskan Way",
+        "County": "King County",
+        "Zip": 98121,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.348429,
+          47.610766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Blaine Harbor, Port of Bellingham",
+        "Address": "235 Marine Dr",
+        "City": "Blaine",
+        "State": "WA",
+        "Zipcode": 98231,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 235,
+        "Street": "Marine Dr",
+        "County": "Whatcom County",
+        "Zip": 98230,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.757599,
+          48.99504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Boat Street Marina",
+        "Address": "1101 NE Boat St",
+        "City": "Seattle",
+        "State": "WA",
+        "Zipcode": 98105,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 1101,
+        "Street": "NE Boat St",
+        "County": "King County",
+        "Zip": 98105,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.317317,
+          47.652873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Breakwater Marina",
+        "Address": "5603 N Waterfront Drive",
+        "City": "Tacoma",
+        "State": "WA",
+        "Zipcode": 98407,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 5603,
+        "Street": "N Waterfront Dr",
+        "County": "Pierce County",
+        "Zip": 98407,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.514003,
+          47.305381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Bremerton Marina, Port of Bremerton",
+        "Address": "8850 SW State Hwy 3",
+        "City": "Bremerton",
+        "State": "WA",
+        "Zipcode": 98312,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 8850,
+        "Street": "State Hwy 3",
+        "County": "Kitsap County",
+        "Zip": 98312,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.766547,
+          47.492535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Bremerton Yacht Club",
+        "Address": "2700 Yacht Haven Way",
+        "City": "Bremerton",
+        "State": "WA",
+        "Zipcode": 98312,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 2700,
+        "Street": "Yacht Haven Way",
+        "County": "Kitsap County",
+        "Zip": 98312,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.665802,
+          47.587672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Cap Sante Boat Haven, Port of Anacortes",
+        "Address": "1019 Q Ave # C",
+        "City": "Anacortes",
+        "State": "WA",
+        "Zipcode": 98221,
+        "Accuracy Score": 0.33,
+        "Accuracy Type": "place",
+        "Number": "",
+        "Street": "",
+        "County": "Skagit County",
+        "Zip": 98221,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.607111,
+          48.499172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Carillon Point Marina",
+        "Address": "4100 Carillon Point",
+        "City": "Kirkland",
+        "State": "WA",
+        "Zipcode": 98033,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 4100,
+        "Street": "Carillon Pt",
+        "County": "King County",
+        "Zip": 98033,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.206008,
+          47.656621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Community Boating Center",
+        "Address": "",
+        "City": "Bellingham",
+        "State": "WA",
+        "Zipcode": "",
+        "Accuracy Score": 1,
+        "Accuracy Type": "place",
+        "Number": "",
+        "Street": "",
+        "County": "Whatcom County",
+        "Zip": 98225,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.508129,
+          48.754092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Chinook Landing Marina",
+        "Address": "3702 Marine View Drive NE",
+        "City": "Tacoma",
+        "State": "WA",
+        "Zipcode": 98422,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 3702,
+        "Street": "Marine View Dr",
+        "County": "Pierce County",
+        "Zip": 98422,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.405706,
+          47.283744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "City of Des Moines Marina",
+        "Address": "22307 Dock Ave",
+        "City": "Seattle",
+        "State": "WA",
+        "Zipcode": 98198,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 22307,
+        "Street": "Dock Ave S",
+        "County": "King County",
+        "Zip": 98198,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329197,
+          47.401396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Crescent Harbor Marina, Naval Air Station Whidbey Island",
+        "Address": "Seaplane Base, 150 W. Tulagi, Bldg # 2735",
+        "City": "Oak Harbor",
+        "State": "WA",
+        "Zipcode": 98278,
+        "Accuracy Score": 1,
+        "Accuracy Type": "place",
+        "Number": "",
+        "Street": "",
+        "County": "Island County",
+        "Zip": 98278,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.671656,
+          48.339706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Deer Harbor Marina",
+        "Address": "5164 Deer Harbor Road",
+        "City": "Deer Harbor",
+        "State": "WA",
+        "Zipcode": 98243,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 5164,
+        "Street": "Deer Harbor Rd",
+        "County": "San Juan County",
+        "Zip": 98243,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.999544,
+          48.623249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Delin Docks",
+        "Address": "1616 E D Street",
+        "City": "Tacoma",
+        "State": "WA",
+        "Zipcode": 98421,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 1616,
+        "Street": "E D St",
+        "County": "Pierce County",
+        "Zip": 98421,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431152,
+          47.248554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Dock Street Marina",
+        "Address": "1817 Dock Street",
+        "City": "Tacoma",
+        "State": "WA",
+        "Zipcode": 98402,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 1817,
+        "Street": "Dock St",
+        "County": "Pierce County",
+        "Zip": 98402,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433239,
+          47.242296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Eagle Harbor Marina",
+        "Address": "5834 Ward Ave NE",
+        "City": "Bainbridge Island",
+        "State": "WA",
+        "Zipcode": 98110,
+        "Accuracy Score": 0.7,
+        "Accuracy Type": "rooftop",
+        "Number": 5834,
+        "Street": "Ward Ave",
+        "County": "Kitsap County",
+        "Zip": 98110,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.513013,
+          47.616124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Elliott Bay Marina",
+        "Address": "2601 W Marina PL",
+        "City": "Seattle",
+        "State": "WA",
+        "Zipcode": 98199,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 2601,
+        "Street": "W Marina Pl",
+        "County": "King County",
+        "Zip": 98199,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391482,
+          47.630318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Fiddlehead Marina",
+        "Address": "",
+        "City": "Olympia",
+        "State": "WA",
+        "Zipcode": "",
+        "Accuracy Score": 1,
+        "Accuracy Type": "place",
+        "Number": "",
+        "Street": "",
+        "County": "Thurston County",
+        "Zip": 98501,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.869079,
+          46.984767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Fisherman’s Terminal, Port of Seattle",
+        "Address": "3919 18th Ave W",
+        "City": "Seattle",
+        "State": "WA",
+        "Zipcode": 98119,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 3919,
+        "Street": "18th Ave W",
+        "County": "King County",
+        "Zip": 98199,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.380249,
+          47.655483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Foss Harbor Marina ",
+        "Address": "821 Dock Street",
+        "City": "Tacoma",
+        "State": "WA",
+        "Zipcode": 98402,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 821,
+        "Street": "Dock St",
+        "County": "Pierce County",
+        "Zip": 98402,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435942,
+          47.256084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Foss Landing Marina and Boat Storage",
+        "Address": "1940 E D Street",
+        "City": "Tacoma",
+        "State": "WA",
+        "Zipcode": 98421,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 1940,
+        "Street": "E D St",
+        "County": "Pierce County",
+        "Zip": 98421,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43064,
+          47.244079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Fremont Boat Company",
+        "Address": "1059 N Northlake Way",
+        "City": "Seattle",
+        "State": "WA",
+        "Zipcode": 98103,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 1059,
+        "Street": "N Northlake Way",
+        "County": "King County",
+        "Zip": 98103,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.344496,
+          47.648385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Harbor Island Marina, Port of Seattle",
+        "Address": "1001 Klickitat Way SW",
+        "City": "Seattle",
+        "State": "WA",
+        "Zipcode": 98134,
+        "Accuracy Score": 0.7,
+        "Accuracy Type": "rooftop",
+        "Number": 1001,
+        "Street": "SW Klickitat Way",
+        "County": "King County",
+        "Zip": 98134,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.348091,
+          47.569691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Harbour Village Marina",
+        "Address": "6155 NE 175th ST",
+        "City": "Kenmore",
+        "State": "WA",
+        "Zipcode": 98028,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 6155,
+        "Street": "NE 175th St",
+        "County": "King County",
+        "Zip": 98028,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.261525,
+          47.756509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Hell’s Canyon Marina",
+        "Address": "1550 Port Drive",
+        "City": "Clarkston",
+        "State": "WA",
+        "Zipcode": 99403,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 1550,
+        "Street": "Port Dr",
+        "County": "Asotin County",
+        "Zip": 99403,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.071301,
+          46.421835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "HomePort Marina",
+        "Address": "308717 US-101",
+        "City": "Brinnon",
+        "State": "WA",
+        "Zipcode": 98320,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 308717,
+        "Street": "Us Hwy 101",
+        "County": "Jefferson County",
+        "Zip": 98320,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.918265,
+          47.663471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Hood Canal Marina",
+        "Address": "E 5101 St R 106",
+        "City": "Union",
+        "State": "WA",
+        "Zipcode": 98592,
+        "Accuracy Score": 1,
+        "Accuracy Type": "place",
+        "Number": "",
+        "Street": "",
+        "County": "Mason County",
+        "Zip": 98592,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.074952,
+          47.336838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Islands Marine Center",
+        "Address": "2793 Fisherman Bay Road",
+        "City": "Lopez",
+        "State": "WA",
+        "Zipcode": 98261,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 2793,
+        "Street": "Fisherman Bay Rd",
+        "County": "San Juan County",
+        "Zip": 98261,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.912088,
+          48.515012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "LaConner Marina, Port of Skagit County",
+        "Address": "613 N Second St",
+        "City": "La Conner",
+        "State": "WA",
+        "Zipcode": 98257,
+        "Accuracy Score": 0.9,
+        "Accuracy Type": "range_interpolation",
+        "Number": 613,
+        "Street": "N 2nd St",
+        "County": "Skagit County",
+        "Zip": 98257,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.495322,
+          48.398368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Lakeshore Marina (City of Chelan)",
+        "Address": "409 W Manson Hwy",
+        "City": "Chelan",
+        "State": "WA",
+        "Zipcode": 98816,
+        "Accuracy Score": 0.33,
+        "Accuracy Type": "place",
+        "Number": "",
+        "Street": "",
+        "County": "Chelan County",
+        "Zip": 98816,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.07775,
+          47.876985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Manson Bay Marina",
+        "Address": "142 Pedoi Street",
+        "City": "Manson",
+        "State": "WA",
+        "Zipcode": 98831,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 142,
+        "Street": "Pedoi St",
+        "County": "Chelan County",
+        "Zip": 98831,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.159859,
+          47.883667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Narrows Marina Bait & Tackle",
+        "Address": "9001 S 19th Street",
+        "City": "Tacoma",
+        "State": "WA",
+        "Zipcode": 98466,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 9001,
+        "Street": "S 19th St",
+        "County": "Pierce County",
+        "Zip": 98465,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.556168,
+          47.243873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Naval Station Everett, recreational marina",
+        "Address": "2000 W Marine View Dr",
+        "City": "Everett",
+        "State": "WA",
+        "Zipcode": 98207,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 2000,
+        "Street": "W Marine View Dr",
+        "County": "Snohomish County",
+        "Zip": 98201,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.213978,
+          47.991524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Oak Harbor Marina",
+        "Address": "1401 SE Catalina Dr",
+        "City": "Oak Harbor",
+        "State": "WA",
+        "Zipcode": 98277,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 1401,
+        "Street": "SE Catalina Dr",
+        "County": "Island County",
+        "Zip": 98277,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.631875,
+          48.287484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Oakland Bay Marina, Port of Shelton ",
+        "Address": "21 W Sanderson Way",
+        "City": "Shelton",
+        "State": "WA",
+        "Zipcode": 98584,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 21,
+        "Street": "W Sanderson Way",
+        "County": "Mason County",
+        "Zip": 98584,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.142596,
+          47.247006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Olympia Yacht Club",
+        "Address": "201 Simmons St NW",
+        "City": "Olympia",
+        "State": "WA",
+        "Zipcode": 98501,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 201,
+        "Street": "Simmons St NW",
+        "County": "Thurston County",
+        "Zip": 98501,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9066,
+          47.044762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Peninsula Yacht Basin",
+        "Address": "8913 N. Harborview Drive",
+        "City": "Gig Harbor",
+        "State": "WA",
+        "Zipcode": 98332,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 8913,
+        "Street": "N Harborview Dr",
+        "County": "Pierce County",
+        "Zip": 98332,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.589501,
+          47.33931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Pleasant Harbor Marina",
+        "Address": "308912 US Hwy 101",
+        "City": "Brinnon",
+        "State": "WA",
+        "Zipcode": 98320,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 308912,
+        "Street": "Us Hwy 101",
+        "County": "Jefferson County",
+        "Zip": 98320,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.921947,
+          47.662066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Point Defiance Marina & Boathouse",
+        "Address": "5912 N Waterfront DR",
+        "City": "Tacoma",
+        "State": "WA",
+        "Zipcode": 98407,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 5912,
+        "Street": "N Waterfront Dr",
+        "County": "Pierce County",
+        "Zip": 98407,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.517396,
+          47.307396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Point Hudson Marina, Port of Port Townsend",
+        "Address": "PO Box 1180",
+        "City": "Port Townsend",
+        "State": "WA",
+        "Zipcode": 98368,
+        "Accuracy Score": 1,
+        "Accuracy Type": "place",
+        "Number": "",
+        "Street": "",
+        "County": "Jefferson County",
+        "Zip": 98368,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.849683,
+          48.018572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Port Hadlock Marina",
+        "Address": "310 Alcohol Loop Dr",
+        "City": "Port Hadlock",
+        "State": "WA",
+        "Zipcode": 98339,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 310,
+        "Street": "Alcohol Loop Rd",
+        "County": "Jefferson County",
+        "Zip": 98339,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.744676,
+          48.02591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Port Ludlow",
+        "Address": "1 Gull Dr",
+        "City": "Port Ludlow",
+        "State": "WA",
+        "Zipcode": 98365,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 1,
+        "Street": "Gull Dr",
+        "County": "Jefferson County",
+        "Zip": 98365,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.685307,
+          47.923315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Port of Bellingham Cruise Terminal moorage facility",
+        "Address": "355 Harris Ave",
+        "City": "Bellingham",
+        "State": "WA",
+        "Zipcode": 98225,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 355,
+        "Street": "Harris Ave",
+        "County": "Whatcom County",
+        "Zip": 98225,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.512687,
+          48.721719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Port of Brownsville ",
+        "Address": "9790 Ogle Rd NE #1",
+        "City": "Bremerton",
+        "State": "WA",
+        "Zipcode": 98311,
+        "Accuracy Score": 0.7,
+        "Accuracy Type": "rooftop",
+        "Number": 9790,
+        "Street": "Ogle Rd",
+        "County": "Kitsap County",
+        "Zip": 98311,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.616394,
+          47.652174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Port of Camas – Washougal ",
+        "Address": "24 S A Street ",
+        "City": "Washougal",
+        "State": "WA",
+        "Zipcode": 98671,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 24,
+        "Street": "S A St",
+        "County": "Clark County",
+        "Zip": 98671,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.379763,
+          45.57888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Port of Edmonds",
+        "Address": "336 Admiral Way",
+        "City": "Edmonds",
+        "State": "WA",
+        "Zipcode": 98020,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 336,
+        "Street": "Admiral Way",
+        "County": "Snohomish County",
+        "Zip": 98020,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3878,
+          47.809586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Port of Everett Marina",
+        "Address": "1720 W Marine View Dr",
+        "City": "Everett",
+        "State": "WA",
+        "Zipcode": 98201,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 1720,
+        "Street": "W Marine View Dr",
+        "County": "Snohomish County",
+        "Zip": 98201,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.213901,
+          47.994989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Port of Everett, 12th Street Yacht Basin",
+        "Address": "PO Box 538",
+        "City": "Everett",
+        "State": "WA",
+        "Zipcode": 98206,
+        "Accuracy Score": 1,
+        "Accuracy Type": "place",
+        "Number": "",
+        "Street": "",
+        "County": "Snohomish County",
+        "Zip": 98206,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.284785,
+          47.859918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Port of Friday Harbor",
+        "Address": "204 Front Street",
+        "City": "Friday Harbor",
+        "State": "WA",
+        "Zipcode": 98250,
+        "Accuracy Score": 0.9,
+        "Accuracy Type": "range_interpolation",
+        "Number": 204,
+        "Street": "Front St N",
+        "County": "San Juan County",
+        "Zip": 98250,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.016686,
+          48.53633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Port of Ilwaco ",
+        "Address": "165 Howerton Way",
+        "City": "Ilwaco",
+        "State": "WA",
+        "Zipcode": 98624,
+        "Accuracy Score": 0.9,
+        "Accuracy Type": "range_interpolation",
+        "Number": 165,
+        "Street": "Howerton Ave",
+        "County": "Pacific County",
+        "Zip": 98624,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.041198,
+          46.305568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Port of Kingston",
+        "Address": "25864 Washington Blvd NE",
+        "City": "Kingston",
+        "State": "WA",
+        "Zipcode": 98346,
+        "Accuracy Score": 0.7,
+        "Accuracy Type": "rooftop",
+        "Number": 25864,
+        "Street": "Washington Blvd",
+        "County": "Kitsap County",
+        "Zip": 98346,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.496466,
+          47.796115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Port of Poulsbo Marina",
+        "Address": "18809 Front St NE",
+        "City": "Poulsbo",
+        "State": "WA",
+        "Zipcode": 98370,
+        "Accuracy Score": 0.8,
+        "Accuracy Type": "range_interpolation",
+        "Number": 18809,
+        "Street": "Front St NE",
+        "County": "Kitsap County",
+        "Zip": 98370,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.645752,
+          47.734293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Port of South Whidbey at Langley",
+        "Address": "PO Box 1233",
+        "City": "Langley",
+        "State": "WA",
+        "Zipcode": 98260,
+        "Accuracy Score": 1,
+        "Accuracy Type": "place",
+        "Number": "",
+        "Street": "",
+        "County": "Island County",
+        "Zip": 98260,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.458831,
+          48.031815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Port Orchard Marina, Port of Bremerton",
+        "Address": "8850 SW State Hwy 3",
+        "City": "Port Orchard",
+        "State": "WA",
+        "Zipcode": 98366,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 8850,
+        "Street": "State Hwy 3",
+        "County": "Kitsap County",
+        "Zip": 98367,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.777336,
+          47.487104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Port Townsend Boat Haven, Port of Port Townsend ",
+        "Address": "PO Box 1180",
+        "City": "Port Townsend",
+        "State": "WA",
+        "Zipcode": 98368,
+        "Accuracy Score": 1,
+        "Accuracy Type": "place",
+        "Number": "",
+        "Street": "",
+        "County": "Jefferson County",
+        "Zip": 98368,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.849683,
+          48.018572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Roche Harbor Resort",
+        "Address": "248 Reuben Memorial Dr",
+        "City": "Friday Harbor",
+        "State": "WA",
+        "Zipcode": 98250,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 248,
+        "Street": "Reuben Memorial Dr",
+        "County": "San Juan County",
+        "Zip": 98250,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.150123,
+          48.609634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Rosario Resort ",
+        "Address": "1400 Rosario Road",
+        "City": "Eastsound",
+        "State": "WA",
+        "Zipcode": 98245,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 1400,
+        "Street": "Rosario Rd",
+        "County": "San Juan County",
+        "Zip": 98245,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.873285,
+          48.646183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Sagstad Marina",
+        "Address": "5109 Shilshole Ave NW",
+        "City": "Seattle",
+        "State": "WA",
+        "Zipcode": 98107,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 5109,
+        "Street": "Shilshole Ave NW",
+        "County": "King County",
+        "Zip": 98107,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38267,
+          47.664302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Salmon Bay Marine Center",
+        "Address": "2284 W. Commodore Way #100",
+        "City": "Seattle",
+        "State": "WA",
+        "Zipcode": 98199,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 2284,
+        "Street": "W Commodore Way",
+        "County": "King County",
+        "Zip": 98199,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.384977,
+          47.661042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Seattle Yacht Club",
+        "Address": "1807 E Hamlin St",
+        "City": "Seattle",
+        "State": "WA",
+        "Zipcode": 98112,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 1807,
+        "Street": "E Hamlin St",
+        "County": "King County",
+        "Zip": 98112,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308589,
+          47.645311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Shilshole Bay Marina, Port of Seattle",
+        "Address": "7001 Seaview Ave NW #100",
+        "City": "Seattle",
+        "State": "WA",
+        "Zipcode": 98117,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 7001,
+        "Street": "Seaview Ave NW",
+        "County": "King County",
+        "Zip": 98117,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.405614,
+          47.68008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Skyline Marine Center",
+        "Address": "2011 Skyline Way",
+        "City": "Anacortes",
+        "State": "WA",
+        "Zipcode": 98221,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 2011,
+        "Street": "Skyline Way",
+        "County": "Skagit County",
+        "Zip": 98221,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684272,
+          48.493692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Spencer's Landing Marina",
+        "Address": "156 Spencer's Landing Road",
+        "City": "Lopez",
+        "State": "WA",
+        "Zipcode": 98261,
+        "Accuracy Score": 0.8,
+        "Accuracy Type": "range_interpolation",
+        "Number": 156,
+        "Street": "Spencer's Landing Rd",
+        "County": "San Juan County",
+        "Zip": 98261,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.871499,
+          48.555826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Squalicum Harbor Marina, Port of Bellingham",
+        "Address": "722 Coho Way",
+        "City": "Bellingham",
+        "State": "WA",
+        "Zipcode": 98225,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 722,
+        "Street": "Coho Way",
+        "County": "Whatcom County",
+        "Zip": 98225,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.503428,
+          48.757516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Stimson Marina",
+        "Address": "5265 Shilshole Ave NW",
+        "City": "Seattle",
+        "State": "WA",
+        "Zipcode": 98107,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 5265,
+        "Street": "Shilshole Ave NW",
+        "County": "King County",
+        "Zip": 98107,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.385482,
+          47.664852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Swantown Marina, Port of Olympia",
+        "Address": "1022 Marine Dr NE",
+        "City": "Olympia",
+        "State": "WA",
+        "Zipcode": 98501,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 1022,
+        "Street": "Marine Dr NE",
+        "County": "Thurston County",
+        "Zip": 98501,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.900027,
+          47.056289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Tacoma Yacht Club",
+        "Address": "5401 N Waterfront Dr",
+        "City": "Tacoma",
+        "State": "WA",
+        "Zipcode": 98407,
+        "Accuracy Score": 1,
+        "Accuracy Type": "rooftop",
+        "Number": 5401,
+        "Street": "N Waterfront Dr",
+        "County": "Pierce County",
+        "Zip": 98407,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.512089,
+          47.304135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Westport Marina, Port of Grays Harbor",
+        "Address": "PO Box 1601",
+        "City": "Westport",
+        "State": "WA",
+        "Zipcode": 98595,
+        "Accuracy Score": 1,
+        "Accuracy Type": "place",
+        "Number": "",
+        "Street": "",
+        "County": "Grays Harbor County",
+        "Zip": 98595,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.10406,
+          46.89009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Winslow Wharf Marina  ",
+        "Address": "141 Parfitt Way SW ",
+        "City": "Bainbridge Island",
+        "State": "WA",
+        "Zipcode": 98110,
+        "Accuracy Score": 0.7,
+        "Accuracy Type": "rooftop",
+        "Number": 141,
+        "Street": "Parfitt Way",
+        "County": "Kitsap County",
+        "Zip": 98110,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.521583,
+          47.621938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Marina Name": "Lake Chelan Yacht Club",
+        "Address": "12220 S Lakeshore Rd",
+        "City": "Chelan",
+        "State": "WA",
+        "Zipcode": 98816,
+        "Accuracy Score": 1,
+        "Accuracy Type": "range_interpolation",
+        "Number": 12220,
+        "Street": "S Lakeshore Rd",
+        "County": "Chelan County",
+        "Zip": 98816,
+        "Country": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.211083,
+          47.920468
+        ]
+      }
+    }
+  ]
+}
